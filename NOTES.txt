@@ -1,0 +1,3 @@
+A note about the LINCS_HMS (Harvard Medical school) which is the large overall LINCS project.
+LINCS which is the L1000 subset.
+In LINCS_HMS, some of the cells that consisted only numbers in their names, tend to generate a (.0) at the end. Therefore part of the code specifically forced them to remove the .0
