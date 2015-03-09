@@ -1,0 +1,3898 @@
+unique.pubchem	unique.drugid	CCLE.drugid	CGP.drugid	GRAY.drugid	GSK.drugid	NCI.drugid
+5458730	17-AAG	17-AAG	17-AAG	17-AAG		
+5790	5-FdUR			5-FdUR		
+3385	5-FU			5-FU		Fluorouracil
+10172943	A-443654		A-443654			
+54708532	A-769662		A-769662			
+9549184	A-770041		A-770041			
+24978538	ABT-263		ABT-263			
+11960529	ABT-888		ABT-888			
+11476171	AEW541	AEW541				
+2051	AG1478			AG1478		Tyrphostin AG 1478
+17513	AICAR		AICAR			
+10196499	AKT-inhibitor-VIII		AKT-inhibitor-VIII			
+11667893	AMG-706		AMG-706			
+24826799	AP-24534		AP-24534			
+11630874	AS-252424			AS-252424		
+11422035	AS601245		AS601245			
+444795	ATRA		ATRA			Isotretinoin
+10096043	AUY922		AUY922			
+6450551	Axitinib		Axitinib			Axitinib
+11676786	AZ628		AZ628			
+23725625	AZD-2281		AZD-2281			Olaparib
+10302451	AZD0530	AZD0530	AZD-0530			
+10127622	AZD6244	AZD6244	AZD6244	AZD6244		Selumetinib
+44137675	AZD6482		AZD6482			
+11152667	AZD7762		AZD7762			
+25262965	AZD8055		AZD8055			
+5281605	Baicalein			Baicalein		5,6,7-trihydroxyflavone
+11784504	BAY-61-3606		BAY-61-3606			
+82146	Bexarotene		Bexarotene			
+11364421	BI-2536		BI-2536			
+25023738	BI-D1870		BI-D1870			bi-d1870
+10184653	BIBW2992		BIBW2992	BIBW2992		Afatinib
+2375	Bicalutamide		Bicalutamide			
+156422	BIRB-0796		BIRB-0796			
+5460769	Bleomycin		Bleomycin			
+11467730	BMS-509744		BMS-509744			
+10390396	BMS-536924		BMS-536924			
+24785538	BMS-754807		BMS-754807			
+387447	Bortezomib		Bortezomib	Bortezomib		Bortezomib
+5328940	Bosutinib		Bosutinib	Bosutinib		
+16760328	Bryostatin-1		Bryostatin-1			
+10077147	BX-795		BX-795			
+24360	Camptothecin		Camptothecin			Camptothecin
+10339178	Carboplatin			Carboplatin		
+6475492	CGC-11047			CGC-11047		
+6476700	CGC-11144			CGC-11144		
+24825971	CGP-082996		CGP-082996			
+644215	CGP-60474		CGP-60474			
+9956119	CHIR-99021		CHIR-99021			
+6918454	CI-1040		CI-1040			
+24191118	Cisplatin		Cisplatin	Cisplatin		Cisplatin
+1732	CMK		CMK			
+11626560	Crizotinib	Crizotinib	PF-02341066	PF-2341066		
+442972	Cyclopamine		Cyclopamine			cyclopamine
+6253	Cytarabine		Cytarabine			
+3062316	Dasatinib		Dasatinib			Dasatinib
+3117	Disulfiram			Disulfiram		
+560326	DMOG		DMOG			
+148124	Docetaxel		Docetaxel	Docetaxel		Docetaxel
+31703	Doxorubicin		Doxorubicin	Doxorubicin		
+300471	Elesclomol		Elesclomol			Elesclomol
+3218	Embelin		Embelin			
+41867	Epirubicin			Epirubicin		
+57336519	Epothilone-B		Epothilone-B			
+176870	Erlotinib	Erlotinib	Erlotinib	Erlotinib		
+36462	Etoposide		Etoposide	Etoposide		
+18477728	Everolimus			Everolimus		
+73293	Fascaplysin			Fascaplysin		
+3463933	FH535		FH535			
+132887	FTase.inhibitor.I			FTase.inhibitor.I		
+3005532	FTI-277		FTI-277			
+24776445	GDC-0449		GDC-0449			
+17755052	GDC0941		GDC0941			
+123631	Gefitinib		Gefitinib	Gefitinib		Gefitinib
+5288382	Geldamycin			Geldamycin		
+60750	Gemcitabine		Gemcitabine	Gemcitabine		
+5311510	GNF-2		GNF-2			
+25022668	GSK-650394		GSK-650394	GSK650394		
+23582824	GSK1059615			GSK1059615	GSK1059615.	
+46885626	GSK1070916			GSK1070916	GSK1070916.	
+11707110	GSK1120212			GSK1120212	GSK1120212.	
+25167777	GSK2126458			GSK2126458		
+51042438	GSK2141795			GSK2141795		
+16095342	GSK269962A		GSK269962A			
+15983966	GSK461364			GSK461364	GSK461364.	
+46898058	GSK923295			GSK923295	GSK923295.	
+9943465	GW-441756		GW-441756			
+9826308	GW843682X		GW843682X			
+23670359	Ibandrote.sodium.salt			Ibandrote.sodium.salt		
+115150	ICRF-193					
+9549298	IKK.16			IKK.16		
+5291	Imatinib		Imatinib	Imatinib		Imatinib
+521106	IPA-3		IPA-3			
+60838	Irinotecan	Irinotecan		CPT-11		Irinotecan
+6851740	Ispinesib			Ispinesib		
+6445540	Ixabepilone			Ixabepilone		16-Aza-epothilone B
+10364826	JNK-9L		JNK-9L			
+11624601	JNK-Inhibitor-VIII		JNK-Inhibitor-VIII			
+5278396	KU-55933		KU-55933			
+5479543	L-685458	L-685458				
+9950176	L-779450			L-779450		
+208908	Lapatinib	Lapatinib	Lapatinib	Lapatinib	lapatinib.	Lapatinib
+216326	Lelidomide		Lelidomide			
+54676905	LFM-A13		LFM-A13			
+4030	Mebendazole			Mebendazole		mebendazole (usan)
+4091	Metformin		Metformin			
+126941	Methotrexate		Methotrexate	Methotrexate		Methotrexate
+462382	MG-132		MG-132	MG-132		
+9829523	Midostaurin		Midostaurin			
+5746	Mitomycin-C		Mitomycin-C			Mitomycin
+46930998	MK-2206		MK-2206			
+71729979	MLN4924			MLN4924		
+4261	MS-275		MS-275			Entinostat
+64143	Nelfivir			Nelfivir		Nelfivir
+644241	Nilotinib	Nilotinib	Nilotinib			Nilotinib
+5459322	NSC-87877		NSC-87877			
+379077	NSC663284			NSC663284		
+11327430	NU-7441		NU-7441			
+4566	NU6102			NU6102		
+216345	Nutlin-3	Nutlin-3				
+11433190	Nutlin-3a		Nutlin-3a	Nutlin.3a		
+11977753	NVP-BEZ235		NVP-BEZ235	BEZ235	BEZ.235.	
+56843157	Obatoclax-Mesylate		Obatoclax-Mesylate			
+10067756	Olomoucine.II			Olomoucine.II		
+11640390	OSI-906		OSI-906			
+9887054	Oxaliplatin			Oxaliplatin		
+5353852	Oxamflatin			Oxamflatin		
+5344054	PAC-1		PAC-1			
+36314	Paclitaxel	Paclitaxel	Paclitaxel	Paclitaxel	paclitaxel.	Paclitaxel
+6918837	Panobinostat	Panobinostat		LBH589		
+7251185	Parthenolide		Parthenolide			
+10113978	Pazopanib		Pazopanib		pazopanib.	Pazopanib
+9826528	PD-0325901	PD-0325901	PD-0325901			
+5330286	PD-0332991	PD-0332991	PD-0332991			
+1401	PD-173074		PD-173074			
+4713	PD98059			PD98059		PD-98059
+446556	Pemetrexed			Pemetrexed		Pemetrexed
+46224413	PF-3084014			PF-3084014		
+49830590	PF-3814735			PF-3814735		
+25033539	PF-4691502			PF-4691502		
+11713159	PF-562271		PF-562271			
+10461815	PHA-665752	PHA-665752	PHA-665752			
+24180719	PLX4720	PLX4720	PLX4720			
+456214	Purvalanol.A			Purvalanol.A		
+4993	Pyrimethamine		Pyrimethamine			Pyrimethamine
+42623900	QS11		QS11			
+11656518	RAF265	RAF265				
+5497196	Rapamycin		Rapamycin	Rapamycin		
+44182295	RDEA119		RDEA119			
+71433937	RO-3306		RO-3306			
+160355	Roscovitine		Roscovitine			(R)-Roscovitine
+7058066	S-Trityl-L-cysteine		S-Trityl-L-cysteine			
+5717801	Salubril		Salubril			
+176158	SB-216763		SB-216763			
+9883002	SB-3CT			SB-3CT		
+11316960	SB590885		SB590885			
+479503	Shikonin		Shikonin			
+10459196	SL-0101-1		SL-0101-1			
+216239	Sorafenib	Sorafenib	Sorafenib	Sorafenib		
+5329102	Sunitinib		Sunitinib			Sunitinib
+6456015	Sunitinib.Malate			Sunitinib.Malate		
+16038120	TAE684	TAE684	NVP-TAE684			
+2733526	Tamoxifen			Tamoxifen		
+6918289	Temsirolimus		Temsirolimus	Temsirolimus	temsirolimus	Temsirolimus
+446378	Thapsigargin		Thapsigargin			
+159324	Tipifarnib		Tipifarnib			
+9886808	TKI258	TKI258				
+60700	Topotecan	Topotecan		Topotecan		
+6909	Trichostatin.A			Trichostatin.A		
+65399	Triciribine			Triciribine		
+3121	Valproic.acid			Valproic.acid		Valproic Acid
+3081361	Vandetanib	Vandetanib				Vandetanib
+241903	Vinblastine		Vinblastine			
+44424639	Vinorelbine		Vinorelbine	Vinorelbine		
+5311	Vorinostat		Vorinostat	Vorinostat		Vorinostat
+5494449	VX-680		VX-680	VX-680		
+10341154	VX-702		VX-702			
+11844351	WH-4-023		WH-4-023			
+14413	WZ-1-84		WZ-1-84			
+10339779	XRP44X			XRP44X		
+16760646	Z-LLNle-CHO		Z-LLNle-CHO			
+9914412	ZM-447439		ZM-447439	ZM447439		
+					GSK661637.	
+100017						nimbolide
+10005246						lissoclinidine
+100053						9-(2-amino-2-deoxy-d-xylofuranosyl) adenine
+100092						thymidine, 5'-[(bromoacetyl)amino]-5'-deoxy-
+100146						Dihydrolenperone
+100158						cyano-pa
+100174						1,2-didemethylcolchicine
+10018975						2-n-methyl-6-oxaellipticinium acetate
+100214						st-daae-1,4-(ii)
+10022395						3-(3,4,5-trimethoxy)-4-(2-phtyl)-2(5h)-furanone
+100323						ethyl 1-hydroxy-4-oxo-2,5-cyclohexadien-1-acetate
+100329						asterriquinone
+100335						coumarin 30
+100397						cinnoline, 4-nitro-, 1-oxide
+100400						p-n,n-di(2-chloroethyl)toluidine
+100603						42179
+100606						Hepsulfam
+100615						ethericin a
+100640						acridine, 9-phenoxy-
+100651						Clomesone
+100764						methanediamine, 1-(2-chlorophenyl)-n,n'-dipyrazinyl-
+100773						SarCNU
+100790						coumarin 340
+10090750						z-endoxifen
+10105331						5-aziridinyl-3-hydroxymethyl-1-methylindole-4,7-dione
+101108						illudin m
+101109						illudin s
+101198						10200
+101211						chimaphilin
+10141						phthazarin
+10144						liriodenine
+10170						pycmine
+101859						6.alpha.,9-difluoroprednisolone
+101929						phthol blue (van)
+10205						plumbagin
+10206						cepharanthine
+102162						capri blue
+10236235						3-amino-1-hydroxy-propane-1,1-bisphosphote (sodium salt)
+10239474						1,4-bis(5-acetyl-4,7-dimethoxybenzofuran-6-yloxy)butane
+10248002						wr 09792
+10258400						superstolide a
+10263039						6-[4-(1-cyclohexenyl)-1,3-butadiyn-1-yl]-2(2h)-pyranone
+10265530						amaminol a
+10338132						6,7-dichloro-2-methyl-3-(phenylthio)quinoxaline 1,4-dioxide
+10351178						aplyronine a
+10354084						waol a fd-211
+10355169						(2e,8s,9z)-2,9,16-heptadecatrien-4,6-diyn-1,8-diol
+10380285						d.b.t.c.
+10383530						9-chloro-2-methylellipticinium acetate, hydrate
+10398						agrosol
+10400578						vermeerin
+10422840						3-bromo-4-phenylethynyl-2(5h)-furanone
+10466937						3-bromo-4-(1-hexynyl)-2(5h)-furanone
+10469514						pareitropone
+10472068						2,9-dimethylellipticinium acetate
+104741						Fulvestrant
+104758						Raltitrexed
+104842						7-Ethyl-10-hydroxycamptothecin
+105014						beauvericin (8ci, 9ci)
+105031						artesute
+10578						dejo
+10583918						Mechlorethamine
+10607						podophyllotoxin
+10615857						d 54
+10637058						d 69
+10714966						phosphonium, triphenylpropenyl-, bromide, (e)- (8ci)
+10729						isoxanthopterin
+10735291						2-(2,4-dinitrophenyl)isoquinolinium chloride
+107404						setoglaucin
+10757635						2,3-dihydro-2,3-dihydroxy-brefeldin a
+107863						destruxin e
+107985						triptolid
+10874069						2,3-dihydro-1,2-syn-3-[benzylseleno]brefeldin a
+10906804						2,3-dihydro-1,2-syn-3-[4'-chlorophenylseleno]brefeldin a
+10917077						2,3-dihydro-(3r)-(4'-methoxybenzylthio)brefeldin a
+10918644						bis-triazoles
+10970813						2,3-dihydro-1,2-syn-3-[methylseleno]brefeldin a
+10971						aquamycin
+10982991						2,3-dihydro-1,2-syn-3-[phenylseleno]brefeldin a
+10989408						phenol, 4-[(6-chloro-2-quinoxalinyl)oxy]-
+11004						agrocybin
+11057						Gentian Violet
+110653						wln: t6nj c- bt5ktj a1 a2- at5ktj a1 b- ct6nj &q 2 &i 2
+11068						quinine, hydrobromide, hydrate
+11069089						combretastatin a4-alogue
+110719						pimm
+11077						resazoin
+11095045						2-(nitromethyl)-2-cyclohepten-1-one
+11102						Thonzonium Bromide
+11106127						3-phenyl-6,7-dihydro-5h-imidazo[2,1-c][1,2,4]oxadiazole
+11122						tolylquinone
+111296						dbtc
+11162021						1-phenyl-5-(4-(trifluoromethyl)phenyl)-1h-imidazole
+11163721						wln: g-sn-gr&r
+11222845						(-)-dactylolide
+11231822						4-epi-7-oxo-phomopsolide e
+11233092						2-(4-methoxyphenyl)-1-(3,4,5-trimethoxyphenyl)-1h-imidazole
+11254						Diepoxybutane
+11265974						1,5-bis(4-methoxyphenyl)-1h-imidazole
+11290749						5-(4-methoxyphenyl)-1-(3,4,5-trimethoxyphenyl)-1h-imidazole
+11292						p-fuchsin
+11295185						neocaesalpin g
+11329590						phloeodictine a 1
+1134						Thymidine
+11345717						morpholine-n-dithiocarbamate
+11365101						18-benzoyloxy-19-benzoylfuranotriptolide
+11383327						oxadiazole
+11402158						6-(hydroxymethyl)-1,4-anthracenedione.
+11413833						3-bromo-4-(3,3-dimethyl-but-1-ynyl)-2(5h)-furanone
+11415391						s,s,s-enigmol
+11435928						3-chloro-4-phenylethynyl-5h-furan-2-one
+11441						2,4-dinitrobromobenzene
+11461044						1-decyl-3-methylimidazolium tetrafluoroborate
+1148						l-trp
+11484899						4-phenylethynyl-3-(3,4,5-trimethoxy-phenyl)-5h-furan-2-one
+11494577						cyanoaminopyranopyridine derivatives
+11525740						Pazopanib
+11528605						yieldene malononitrile
+11530049						pyridone-4-ch3
+11533060						MNR-2-50
+11551263						n-nonyl-3,4-dihydroxycinmide
+11559546						2-(phthalen-2-yl)-1-(3,4,5-trimethoxyphenyl)-1h-imidazole
+11594562						1,4-di-n-oxide-2-cyano-3-(4-clhloro)phenylquinoxaline
+11599836						gambogic acid
+11616421						2-cyano-6,7-difluoro-3-(4-chloro)phenylquinoxaline
+11639084						1-(phthalen-2-yl)-2-(3,4,5-trimethoxyphenyl)-1h-imidazole
+11679357						Lapatinib
+11683						Megestrol acetate
+11688687						1-(4-methoxyphenyl)-2-(3,4,5-trimethoxyphenyl)-1h-imidazole
+11690083						pyrazoline derivative
+11705543						benzoic acid, p-[(purin-6-ylthio)mercuri]-
+11709772						2-cyano-6,7-dichloro-3-(4-chloro)phenylquinoxaline
+1174						Uracil
+11765						Homidium Chloride
+1177						Uridine
+11775948						6-(1,3-decadiyn-1-yl)-2(2h)-pyranone
+11814						2,6-dinitrochlorobenzene
+11821732						1h-indole-3-methanol, 1-[(4-chlorophenyl)methyl]-
+118294						sn-3-dihexadecyl-phosphatidylcholine
+11870						camolar
+1187613						3-(4-quizolinylamino)phenyl 2-chlorobenzoate
+11947677						nsc 265459
+11947740						bis(2-benzoyl-1,3-indanedioto)nickel(ii)dihydrate
+11947741						bis(2-benzoyl-1,3-indanedioto)manganese(ii)dihydrate
+119565						Buthionine sulphoximine
+11969638						Camptothecin Derivative
+11969639						Camptothecin Derivative
+11969671						Camptothecin Derivative
+11969672						Camptothecin Derivative
+11969742						Camptothecin Derivative
+11969872						ukrain
+11969877						(6r,10s,11r)-26.xi.-hydroxy-13.xi.-oxaspiroirid-16-el
+11969927						(s)9-amino-20-o-(n,n-dimethyl)glycinyl camptothecin.hcl
+11969976						bengamide b
+11970002						homovinblastine methanesulfote salt
+11970004						.alpha.-cyclopentoblastine methanesulfote salt
+11970023						aclarlubicin hcl
+11970024						pirarubicin hcl
+11970034						.beta.-cyclohexanoblastine
+11970117						triacetyl 13,14,15-isocrambescidin 800 hydrochloride
+11972519						Topotecan
+11979319						tris(1,3-diphenylpropane-1,3-diota)gallium(iii)
+11979327						chlorotris(1,3-diphenylpropane-1,3-dioto)zirconium(iv)
+11979458						mikamycin, b grade
+11979533						bouvardia terfolia
+11979537						piperidinium europium benzoyl trifluoroacetote
+11980862						sudan red
+11980909						tris(5-nitrotropoloto)bismuth(iii)
+12000066						gersemolide
+12013259						2,5-di(2-thienyl)furan-3,4-dimethanol
+120712						colchicide.hcl
+12075522						(o-chlorophenyl)hydrazizne hydrochloride
+121458						propanenitrile, 2-chloro-3-(phenylsulfonyl)-
+122105						diazaquinomycin a
+122234						2m2pm
+12269596						8-quinolinol, 5-(chloromethyl)-, hydrochloride
+122716						Actinomycin C3
+122720						diosquinone
+122724						celastrol
+122727						nogalarol
+122737						7-Cyanoquinocarcinol
+122749						benzamide riboside
+122799						actinomycin vii
+122804						Peplomycin
+122805						justicidin b
+122810						destruxin a
+12283554						12-chloro-7,12-dihydro-9-phenylbenzo[a]phersazinine
+122838						xestoquinone
+122842						benzyl trisulfide
+12300036						benzoanthracenone
+12304060						yohimbine
+12314793						pyrethrosin
+123220						1,4-phthalenedione, 5-methoxy-
+12334349						7-acetyl-6-hydroxy-3-methylbenzofuran carboxylic acid
+123617						Camptothecin Derivative
+12402873						indolcarbonsaureester
+12420						ouabain
+124326						1h-1,4,7-triazonine-1,4,7-triacetic acid, octahydro-
+12449						Brilliant Green
+12456						berberine chloride
+124631						benfluron, n-oxide-
+124693						aziridinyl benzoquinone
+125001						tetrol fr. taxus brevifolia
+125219						octadecylphosphocholine
+12540						tptc
+125729						sergeolide,desacetyl
+125982						1,4-bis[(2-aminoethyl)amino]-5,8-dihydroxyanthraquinone
+12605846						4m2m
+12649						thujaplicin, alpha
+12665						valerolactim
+127007						pyrizinostatin
+12753798						diethyl 1-phenyl-1-(diphenylmethylamino)-methanephosphote
+12795165						.alpha.-phenyl-2,5-dimethoxy-.alpha.-cinmonitrile
+128014						isoannocin
+12885						wln: l b656 hhj de ez fe le
+12908673						5h-imidazo[2,1-a]isoindole, 5-(2,4-dichlorophenyl)-
+12947						Hydroxychloroquine Sulfate
+131182						Camptothecin Derivative
+132024						cytoblastin
+132430						synthetic halomon
+13268						Fluorodopan
+13288729						1h-indole-3-methanol, 1-[(3-chlorophenyl)methyl]-
+132971						Abiraterone
+13468						pamelor
+13506406						ortho-topolin riboside
+13769						Testolactone
+1377751						2,4-thiazolidinedione, 5-(3-phenyl-2-propenylidene)-
+13796						ethaverine hydrochloride
+13820						chlorotriethyltin
+1385						Uniroyal Compound-38
+1392						Edelfosine
+13956						tri-p-tolylphosphine
+140895						propanoic acid, 3-bromo-2-(bromomethyl)-, methyl ester
+141295						o-tolualdehyde, 4-(bis(2-chloroethyl)amino)-
+14132						sn 967
+14454445						new fuchsin
+146332						1h-indole-3-carbonitrile, 2-amino-5-(phenylthio)-
+146614						podophyllotoxin deriv. (jurd)
+14676						tacaryl
+14693848						tetrakis(pentane-2,4-dioto)zirconium(iv)
+14710						dromilac
+147623						Pentamethylmelamine
+147711						2-methoxycarbonyl-3,4-dichloro-5-nitrofuran
+148121						PNU-74654
+148177					perifosine.	Perifosine
+148183						XK-469
+148189						Hydroxymethylacylfulvene
+148202						Karenitecin
+14839						dibask
+148569						9 ohe hcl
+148673						M-AMSA
+148674						M-AMSA
+148799						o-amsa monomethanesulfote
+148802						4'-(9-acridinylamino)sulfanilanilide, monohydrochloride
+14904973						3,4-bis-(4-methoxyphenyl)-2(5h)-furanone
+149070						streptomyces antibiotic
+149075						antineoplastic-d630679
+149080						antineoplastic-630680
+15078						Guazole
+151719						u 27744
+152122						acetic acid, rhodium salt (4:2)
+152481						4,7-quinolinediamine, n4,n4'-1,7-heptanediylbis[2-methyl-
+15373173						5-chloro-2[(e)-2-(4-nitrophenyl)vinyl]-1h-benzimidazole
+153762						tallysomycin s10b
+1546						Cladribine
+1549521						3-(2-furyl)acrolein
+1550330						2,6-dibenzylidenecyclohexanone
+1550999						vanitile
+1552						6-bromo-3-bromomethyl-3,7-dichloro-7-methyl-1-octene
+155232						epicorazine a
+15558347						Trypaflavine Hydrochloride
+15581						wln: 1n1&r dyunqr dn1&1
+15609488						7-.beta.-d-ribofuranosyl-4-oxo-3h-thieno-[3,4-d]pyrimidine
+156398						6,7-dihydroxy-4-methoxyisoflavan
+15690						perchloropyrimidine
+157348						CI-921: amsacrine derivative
+15743430						(dimethylamino)propiophenone hydrochloride
+157561						augustine
+15789						akron
+15815						bext (van)
+158475						holacanthone
+15954457						6-aryl alkyl fluoro quinolone derivative
+15957526						1,6-dimethoxyphezine mono-n-oxide
+15957527						1,6-dimethoxyphenzine di-n-oxide
+159628						n-butyltriphenylphosphonium bromide
+15978260						stanne, dibutyldithiocyato-
+159854						2,5-dimethyl-3,6-diaziridinyl-1,4-benzoquinone
+159969						acrovestone
+160142						miltirone
+160157						Oxidopamine
+160202						dihydrotriazine derivative
+160254						(-)-cryptotanshinone
+160296						desmethylbouvardin
+160394						n-(3-aziridinylpropyl)-1,4-diaminobutane
+160395						n-(4-aziridinylbutyl)-1,3-diaminopropane
+16043						Tert-Butylhydroquinone
+160533						xanthinin
+16061747						(hydroxymethoxy)n-methylpyrrolopyrrolizinones
+16066791						isoindolo[2,1-c]benzo[1,2,4]triazine
+16080416						miuraemide a
+1609						3,4-dichloroisocoumarin
+16090528						Camptothecin Derivative
+16090529						Indenoisoquinoline derivative
+16111793						hydroxy pyrazolines
+16126516						bis-arylpurine derivatives
+16129666						thiostrepton (usan)
+16130072						5-fluoro deoxy uridine 10mer
+16132496						Tyrothricin
+16132633						mercury, (4-aminophenyl)(6-thioguanosito-n7,s6)-
+16132728						guanosine, 6-thio-, platinum complex (9ci)
+16133053						6h-purine-6-thione, 1,7-dihydro-, mercury complex (9ci)
+16134267						tannic acid
+16134278						bradykinin antagonist
+161851						sjl 620
+161924						4-butanediyldihydroguaiaretic acid
+161954						jolkinolide b
+16211009						methyltrioctylammonium bis(trifluoromethylsulfonyl)imide
+16211343						trihexyl(tetradecyl)phosphonium tetrafluoroborate
+16211448						crude pyronine b
+16212610						trihexyl(tetradecyl)phosphonium hexafluorophosphate
+16219292						kryptocyanin
+16219989						spermidine hydrochloride
+16220061						thiactin
+16220246						arypurine derivatives
+16317						5,6-chrysenedione
+163490						sesbanimide
+16362						Pimozide
+16394563						artesute (usan)
+16399850						artenimol
+16414						7-ocpz
+1643479						2-(2-phenyl-4-quizolinylamino)ethyl pivalate
+1652						3-deazacytidine
+16524						pyronin b
+16590						Diallyl Disulfide
+16599						basic blue k
+16667703						Cyclocytidine hydrochloride
+16680184						5,6-ethylenediquino[3,2-b
+16682730						phenylmercuric acetate (usan)
+16682740						diacetoxybutyltin
+16682788						mercaptoacetate
+16683022						wln: 1vo-hg-r b1 c1 e1 f1
+16683030						wln: t5o-sn-stj b4 b4
+16683126						4h-1,3,2-benzodioxastannin-4-one, 7-amino-2,2-dibutyl-
+16683127						4h-1,3,2-benzodioxastannin-4-one, 7-amino-2,2-diphenyl-
+16683226						(2-hydroxy-2-phenylacetoxy)trimethyltin
+16683462						.beta.-d-glucopyranose, 2,3-o-(diethylstannylene)-
+16683509						bismuthine, (acetyloxy)diphenyl-
+16683517						1,3,5,2,4-trioxadistannin-6-one, 2,2,4,4-tetraethyl-
+16683647						mp 317
+16683655						mercuryl
+16683657						mercury, (p-dioxane-2,5-diyldimethylene)bis[(octanoyloxy)-
+16683745						mercury, tetrakis(acetato)(2,3,4,5-thiophenetetrayl)tetra-
+16683784						diphenyllead diacetate
+16683786						mercury, (acetyloxy)(pentamethylphenyl)-
+16686256						chlorobis(4-ethyltropoloto)bismuth(iii)
+16725726					GSK690693.	
+16739281						3,3?-thiene-2,5-diylbis(5-methoxy-1h-indole)
+1674						L-alpha-Aminobutyric Acid
+16741						Phenethyl Isothiocyate
+16757841						Cyclocytidine hydrochloride
+16766044						4-chloro-5-phenoxy-3h-1,2-dithiole-3-thione
+16766538						4-chloro-5-(pyridin-2-ylthio)-3h-1,2-dithiole-3-thione
+16886						5-Aza-2'-deoxycytidine
+1691						adriamycin-d hydrochloride
+16953						thioflavine
+16955						ethyl violet
+17142						Teroxirone
+17170						auramin
+1724503						(2z)-2-cyano-3-(9-ethyl-9h-carbazol-3-yl)acrylamide
+17384199						1-(2,5-dimethoxyphenyl)-2-nitropropene
+17388804						3,3'-diethyl-9-methylthiacarbocyanine iodide
+174166						6-selenoguanosine
+174343						albacarcin m
+17499						diacetamate
+17534						chrysonex
+17584						olpizan
+1761729						epi-dehydroabietic acid
+17648						Thiocolchicine
+17649						thiocolciran
+17671						quatresin
+176871						Erlotinib
+17704						Quildine Blue
+17755020						Indenoisoquinoline derivative
+17755023						Indenoisoquinoline derivative
+17755025						Indenoisoquinoline derivative
+17755126						Indenoisoquinoline derivative
+17755638						Indenoisoquinoline derivative
+17755743						Indenoisoquinoline derivative
+17755849						Indenoisoquinoline derivative
+17755972						Indenoisoquinoline derivative
+17756600						Indenoisoquinoline derivative
+178034						cryptolepinone
+178515						3,4-dihydro-3,3-dimethyl-2h-phtho[2,3-b]pyran-5,10-dione
+17856967						8-chloro-cyclicamp
+1805						Azacitidine
+18064						methanesulfonothioic acid, s-methyl ester (9ci)
+18074						wln: l7vj bovr dnw& ci
+181302						anhydrolycorinium chloride
+18156						m-dimaleimidobenzene
+1821						5-fur
+182249						hemigossypolone
+182337						linichlori a
+182762						Mivobulin Isethiote
+183337						cedronine
+18397						colchicamid
+184077						Camptothecin Derivative
+18471829						Betamethasone Sodium Phosphate
+186169						5'-chloro-2'-methoxy-3-nitrosalicylanilide
+186171						3-nitro-2',4'-salicyloxylidide
+18660697						Mefloquine Hydrochloride
+1880						7,8-dihydroxyflavone
+189214						(1s)-5-oxo-borneol
+18948						Yoshi 864
+190						Adenine
+19021065						sulfonium, dodecyldimethyl- iodide
+190756						Camptothecin Derivative
+190763						10-aminocamptothecin
+191						Vidarabine
+19103						hydron iii
+192294						5-(m-benzyloxy)benzylbarbituric acid
+1923						oxin
+19611						monopar
+196970						E-7820
+196986						gentian violet b
+196999						2,4-dichlorobenzyltriphenylphosphonium chloride
+197204						quadrone
+197261						streptomyces antibiotic sf-2446-a-1
+197738						(o-methylbenzyl)triphenylphosphonium bromide
+1979						3-acetoxyquinuclidine
+19790						wln: zswor cz dssr bz doszw
+198019						DHEA Mustard
+198691						4h-1,2,4-benzothiadiazine, 3-chloro-4-ethyl-, 1,1-dioxide
+19877808						sddc
+198789						amythiamicin a
+19909						Aminothiadiazole
+19910						noxin
+19921723						benzo[b]quinolizinium, 6-methyl- bromide
+19992						(p-nitrophenyl)phenyliodonium bromide
+20071791						Indomethacin
+20245316						phtho[1,2-b]quinolizinium, 10,13-dimethyl- chloride
+204						alantan
+20502						wln: t3otj bvr& cvr
+2064						Tyrphostin AG 957
+207332						(ethylmethyl)octadecylsulfonium iodide
+20772						bor orange r
+2082						albendazole (usan)
+20835846						3-pyridinecarboxamide, 6-(hydroxyazo)-, sodium salt
+20843053						maiq i
+2094						Allopurinol
+209827						et 12h
+21120490						c 829
+21123185						2-methylellpticinium
+21123220						cap 1 hydrochloride
+21139						nifurquizole
+21140908						benzene, 1,4-dichloro-2,5-bis(2-nitroethenyl)-
+21142137						m-phenoxy-.alpha.-phenylcinmonitrile
+21144180						phenthridinium, 8-amino-5-methyl-6-phenyl-bromide
+21144197						phtho[1,2-b]quinolizinium, 13-methyl-, chloride
+21144271						ammonium, trimethyl(1-phenyldodecyl)-, p-toluenesulfote
+21144314						phtho[1,2-b]quinolizinium, 9-methyl-, bromide
+21144325						phtho[2,1-b]quinolizinium, 7,10-dimethyl- perchlorate
+21144372						phtho[2,1-b]quinolizinium, 5-chloro-7-methyl- perchlorate
+21144373						phtho[1,2-b]quinolizinium, 3,13-dimethyl- perchlorate
+21144387						thiazolo[3,2-f]phenthridinium, 2-methyl- perchlorate
+21144443						propylamine, 3-(2-chloro-4-nitrophenoxy)-, monohydrobromide
+21144608						piperidinium, 1,1-didodecyl-3-methyl-, bromide
+21144609						1,4'-bipiperidine, 1'-decyl-, monohydrochloride
+21144633						decanediimidamide, monohydrochloride
+21192315						dedc
+21218162						cyclopenta[a]phthalen-3-one
+2134						Ametantrone
+213535						phenethylamine, n-isopropyl-.alpha.-methyl-, hydrochloride
+213803						mitomycin c,methylamine fr. streptomyces caespitosus
+21470						Thalicarpine
+2154						Aminopterin
+215727						p-phenylenediamine, n,n-bis(2-chloroethyl)-, hydrochloride
+21753						metofurone
+21773495						superstolide b
+2179						M-AMSA
+21872718						Spirogermanium
+219123						4-amino-3-pentadecylphenol
+219163						propiophenone, 3-phenyl-3-piperidino-
+219376						3-bromo-2,4,6-trinitrotoluene
+219490						3,3'-diamino-4,4'-bis(dimethylamino)benzophenone
+219563						7-[.alpha.-(p-nitroanilino)benzyl]-8-quinolinol
+219564						p-[[.alpha.-(8-hydroxy-7-quinolyl)benzyl]amino]benzoic acid
+219565						7-(.alpha.-anilino-p-nitrobenzyl)-8-quinolinol
+219566						7-[.alpha.-[(4-methyl-2-pyridyl)amino]benzyl]-8-quinolinol
+219573						1,1,3-tribromo-3-methyl-2-butanone
+219648						2-(isobornyloxy)-1,1-dimethylethylamine
+219690						n-decyl-2-iodoacetamide
+219760						4-(butylamino)-1-phenyl-1h-pyrazolo[3,4-d]pyrimidine
+21977446						tetrabutylammonium tris(pentafluoroethyl)trifluorophosphate
+219796						2-(2-methyl-2-nitropropoxy)borne
+219799						2-chloro-3-phenoxy-1,4-phthoquinone
+219939						3-phenthrenepropionic acid, hydrazide
+219999						tris(4-biphenylyl)methanol
+220284						2,2',5,5'-tetrahydroxy-4,4'-dimethylbiphenyl
+220774						urson
+220861						strophanthin
+2210						aphidicolin
+221007						1h-imidazole-4,5-dicarboxylic acid, 2-phenyl- (9ci)
+221023						betulin
+221037						aloin
+22114567						cetylpyridinium chloride
+221502						Chrysarobin
+22210403						phosphonium, triphenyl-1,2-propadienyl-, bromide (9ci)
+22210408						phosphonium, (2-bromoethyl)triphenyl-, bromide
+222154						simeon
+222156						transvaalin
+222160						scillirosidin, glycoside
+222778						gelcohol
+22313112						zimelidine hydrochloride
+223253						cortef fluid
+2236						tardolyt
+223918						malonic acid, p-phenylbenzylidene- (6ci)
+223996						crotonosid
+2240						qinghaosu
+224001						isoflupredone
+224004						Dromostanolone Propiote
+224687						2-(6-methoxy-2-methylquinolin-4-ylthio)benzo[d]thiazole
+224935						2-mercapto-o-acetanisidide, carbamate
+225484						glaucarubol
+225612						ba 2758
+22576						Cyclobenzaprine Hydrochloride
+22613666						hydrazine sulfate
+2265						Azathioprine Sodium
+226619						actidione, benzoylacetate
+22700						wln: t b566 ck esj c1 d1u1r dn1&1 &i
+227456						racemic gossypol, acetate salt
+22752						Lobendazole
+22753						(3-nitrophenyl)arsonous dichloride
+2276						.beta.-amanitin
+22762144						Flurocitabine
+227681						(2,5-dioxo-2,5-dihydro-1h-pyrrol-1-yl)methyl propiote
+227830						tenulin
+228285						pilocereine
+228615						phezine di-n-oxide
+228616						2-methoxyphezine, 5,10-dioxide
+22875						vancide pb
+229455						ndrolone phenpropiote
+229938						1,4-benzenediamine (9ci), n-butyl-n'-phenyl-
+23012						2,2'-dicarboxy-diphenyl-diselenide
+230220						benzaldehyde, 4-[bis[2-[(methylsulfonyl)oxy]ethyl]amino]-
+230232						l-arctigenin
+231054						2-methyl-4,5,6-trichloropyrimidine
+231112						4,5-bis(4-methoxyphenyl)-1h-imidazol-2(5h)-one
+23205						helelin
+23223059						Brequir
+23258876						ovatifolin acetate
+232789						2,4,6-trichloro-5-methylpyrimidine
+23279830						1-(1h-indazol-3-yl)-1,3-dihydro-benzoimidazol-2-one
+23306						coralyne chloride
+233330						asperuloside
+2336						3,4-Benzpyrene
+233768						acetoxycycloheximide
+233866						colchicoside
+234103						n-acetyliodocolchinol
+23443702						ara-amp
+234498						androst-5-en-16.beta.-ol, 3.beta.-methoxy- (8ci)
+234566						cytisine, 3-methyl-
+2346						Benzyl Isothiocyate
+234820						podophyllotoxin bromide
+234864						leucanthone, m-aminobenzenesulfote
+234991						erythritol aziridine
+235244						dauricine
+235481						9.beta.-d-arabinofuranosyl-2-chloroadenine
+235856						tricinolone acetophenonide
+23615615						alkarsodyl
+23615793						Lasalocid Sodium
+23615975						Streptozocin
+23616886						cephaeline dihydrochloride
+23616896						Bialamicol Hydrochloride
+23635154						7-fluoro-2-benzoyl-3-trifluoromethylquioxaline 1,4-dioxide
+23635282						3,7-di(trifluoromethyl)-2-benzoylquioxaline 1,4-dioxide
+23635283						3,6-di(trifluoromethyl)-2-benzoylquinoxaline 1,4-dioxide
+23635287						7-fluoro-3-trifluoromethyl-2-ftoylquioxaline 1,4-dioxide
+23635411						3,7-di(trifluoromethyl)-2-ftoylquioxaline 1,4-dioxide
+23635775						3,7-di(trifluoromethyl)-2-furoylquioxaline 1,4-dioxide
+23635776						3,6-di(trifluoromethyl)-2-furoylquinoxaline 1,4-dioxide
+236587						cyclohexanone, 2,6-bis(piperidinomethyl)-
+236667						9h-purine, 6-(allylthio)-9-.beta.-d-ribofuranosyl- (8ci)
+236668						sri 1215
+23673459						omadine sodium
+23681						glycerol-tris(iodoacetate)
+237101						1,4-phthoquinone, 2,2'-(1,4-piperazinediyl)bis[3-chloro-
+237259						2,4,5-trichloropyrimidine
+237305						pc 254
+237683						antineoplastic-41390
+237979						sp g
+238016						kc 60
+238161						9-benzyl-6-(benzylthio)-9h-purin-2-amine
+23863720						amphotericin b (usan)
+238795						p-benzoquinone, trimethoxy-
+238797						nootkatin
+238946						4-methyl-7-methoxy-6-hydroxycoumarin
+2391						Acetalax
+239486						pc 287
+239491						pc 298
+239677						1,4-phthoquinone, 2-chloro-3-furfurylamino-
+24040						Pararosaniline Pamoate
+240767						Fluorometholone Acetate
+24085						Mercuric Chloride
+240896						9h-purine, 2-amino-6-(2,4-dichlorobenzylthio)-9-isobutyl-
+240980						5-Fluoro-2-Deoxycytidine
+241059						4-tert-butyl-2-((cyclohexylamino)methyl)-6-methylphenol
+241158						antineoplastic-48300
+241801						9h-fluoren-2-amine, n,n-bis(2-bromoethyl)- (9ci)
+24180949						Sodium Phenylacetate
+24180955						x 49
+24180972						quicrine mustard
+24181285						alizarin blue s
+24182496						propyl quicrine mustard
+24183928						antineoplastic-31815
+24186469						win 20226
+24186696						fluorophenothiazine dihydrochloride
+24188629						3h-pyrrolo[3,2-f]quinolinium, 2,3,6,7-tetramethyl-, iodide
+24189419						2h-tetrazolium, 3-(2-biphenylyl)-2,5-diphenyl- chloride
+24189461						menisperine iodide
+241902						Vinblastine
+24190253						Cytembe
+24192631						platinum, diamminedibromo-, cis- (8ci)
+24193197						adriamycin octanoate
+24193635						dihydrocoralyne sulfoacetate
+24193683						9-methoxy-2,6-dimethylellipticinium iodide
+24193713						anthra[1,9-bc]thiopyranium, 1-methyl-3-phenyl-, chloride
+24194215						1,4-benzenediamine, n-9-acridinyl-, monohydrochloride
+24194674						platinum, bis(aziridine)dichloro-
+24194924						silver, (6,6,7,7,8,8,8-heptafluoro-3,5-octanedioto-o,o')-
+24195349						Duborimycin
+24196320						dichloro(4,5-dimethyl-o-phenylenediamine)platinum(ii)
+24196812						14-morpholinodaunomycin monohydrochloride
+24196924						cinerubin a hcl
+24197346						n,n-dimethyladriamycin
+24197464						Oxaliplatin
+24197577						Deoxydoxorubicin
+24197834						nybomycin deriv
+24197905						prumycin
+24198103						oliverine
+24198856						Herbimycin
+24199293						geldamycin deriv
+24199491						macbecin i
+24199492						Macbecin II
+24199494						geldamycin, n,n'-dimethyl
+24199770						psoralin, b-diethylamino-5-ethoxy-
+24199985						2-methylellpticinium
+24200030						Morpholinodoxorubicin
+24200289						tetracenomycin c, amino-butyryl-
+24200489						juncusol deriv (compound 1)
+24200508						4'-Iodo-4'-Deoxydoxorubicin
+24201226						chelidonine
+24201925						1,2-cyclohexanediamine, platinum complex
+24202320						1,2-diamino-cyclohexane-pt-seo3
+24202346						antineoplastic-641318
+24202347						antineoplastic-641319
+24202392						pentamine-osmium(iii)trifluoromethane sulfote
+24202429						Midostaurin
+24202491						1,2-benzo-8-(l-alanyl)-3-phenoxazone nitrate salt
+24202503						concamycin c
+24202569						2,3-dihydro-3(r)-[s-(l)-cysteinyl-]-brefeldin a
+24202571						2,3-dihydro-1,2-syn-2-[2'-aminopropylsulfenyl]-brefeldin a
+24202589						doxoform
+24202596						odoroside h
+24202618						brefeldin a,2,3-dihydro-(2r)-(3'-aminophenylsulfinyl)-
+24202656						n(2-pyridyl),n'{2-(4-phenylene)benzothiazole}thiourea
+24202660						n(p-chlorophenyl),n'{2-(4-phenylene)benzoxazole}thiourea
+24202662						n 4-(2-phenylbenzothiazole),n'(p-chlorophenyl)thiourea
+24202801						3'-c-ethynylcytidylyl-(5'->5')-5-fluoro-2'-deoxyuridine
+24202806						1,4-bis[4-(1h-benzimidazol-2-yl)phenyl]piperazine
+24202813						2-cyano-3-(9-ethyl-9h-carbazol-3-yl)thioacrylamide
+24202869						4a,5a-epoxyhelianol
+24202882						n,n'-bis(4-amidinophenyl)homopiperazine
+24202898						SR16157
+24202904						3-(3,4,5-trimethoxyphenyl)-4-phenyl-2(5h)-furanone
+24202926						dehydrospongistatin 2
+24202977						arylidene-4-chloro
+24202985						pyrane
+24203043						dechlorited rebeccamycin
+24203066						thiadiazines
+24203068						thiadiazines
+24203137						6-(hexynyl)-2(2h)-pyranone
+24203140						6-(5-tetrahydropyranylossi-1-pentynyl)-2(2h)-pyranone
+24203185						2-[2 - furfuryl - 5)p-phenylene] benzothiazole
+24203220						2,3,4-tri-o-acetyl-1-s-dimethylarsino-1-thio- a -d-xylose
+24203221						2,3,5-tri-o-acetyl-1-s-dimethylarsino-1-thio-d-ribose
+24203222						#ME?
+24203223						1-s-dimethylarsino-1-thio-d-ribose
+24203224						1-(3-dimethylarsino-3-thio-2-methyl-1-oxopropyl)-l-proline
+24203225						1-(3-diethylarsino-3-thio-2-methyl-1-oxopropyl)-l-proline
+24203232						9,10-bis{[-2-(piperazin-1-yl)etyl]aminometyl}antracene
+24203250						antipain hydrochloride
+24203342						fn-439
+24203366						3,3'-[1,2-phenylenebis(methyleneoxy)] bisbenzonitrile
+24203379						(+)-leucascandrolide a
+24203380						(-)-leucascandrolide a
+24203420						[3-(4-chloro-phenyl)-3-oxo-propenylamino]-acetonitrile
+24203443						2-[(3,4-dicloro)phenoxy]-3-phenyl-5,7-diamino quinoxaline
+24203444						2-[(3,4-dicloro)anilino]-3-phenyl-5,7-diamino quinoxaline
+24203446						2-[4-(methoxy)anilino]-6,8-diamino quinoxaline
+24203447						2-[4-(methoxy)phenyltio]-3-phenyl-5,7-diamino quinoxaline
+24203485						1-(3-bromo-phenyl)-3-(pyridin-2-ylsulfanyl)-propenone
+24203530						2-acetyl-7-chloro-3-trifluoromethylquinoxaline 1,4-dioxide
+24203531						2-acetyl-7-methyl-3-trifluoromethylquinoxaline 1,4-dioxide
+24203532						fluoro quinolone derivatives
+24203652						2-[5-(2-thiopheldehyde-5-yy)p-phenylene]benzoxazole
+24203654						2[5(2-thiopheldehyde-5-yl)p-phenylene]benzimidazole
+24203669						trans-n-(6-chrysenyl)-3-mesyloxy-4-phenyl-2-azetidinone
+24203710						ethyl (3z)-4,5-dichloro-3h-1,2-dithiol-3-ylidenecarbamate
+24203732						cis-3-o-p-hydroxycinmoyl ursolic acid
+24203752						dibenzopyran
+24203819						2-[4-(1,3-benzothiazol-2-yl)phenyl]-1,3-thiazol-4(5h)-one
+24203889						4,2-diyl}bi s[N-(2-aminophenyl)b enzamide]
+24204084						miliusane a
+24204085						miliusane b
+24204086						miliusate
+24204113						eunicin-cyclo
+24204115						eunicin-alkene
+24204173						pulcherrimin e
+24204187						3-bromo-4-(2-(4-methoxyphenyl)ethynyl)furan-2(5h)-one
+24204246						isatin dr
+24204258						2[4-(fluoro)phenoxy]-3-phenyl-5,7-diaminoquinoxaline
+24204260						2-[4-(fluoro)anilino]-3-phenyl-5,7-diaminoquinoxaline
+24204261						2-[4-(fluoro)benzylamino]-3-phenyl-5,7-diaminoquinoxaline
+24204289						ethyl 7-chloro-3-phenyl-2-quinoxalincarboxylate 1,4-dioxide
+24204344						arylpurines
+24204350						pancracine
+24204446						calendulaglycoside d2
+24204452						haterumalide  methyl esters
+24204453						haterumalide ring system
+24204506						n/a.
+24204800						9-hydroxy-5(3-phenylpropyl)-5h-indeno[1,2-b]indol-10-one
+24204973						arylpurine derivatives
+24204974						arylpurine derivatives
+24204975						arylpurine derivatives
+24204977						arylpurine derivatives
+24205044						mp 122-123 oc stor dri
+24205045						arylpurine alogues
+24205052						1,5-bis(4-amidinophenoxy)-3-oxapentane dihydrochloride
+24205088						2[4'aminobiphenyl]5,6dichlorobenzimidazole
+24205090						isoindolo[1,2-a]quinoxalin-4(5h)-one
+24205091						6-methylisoindolo[1,2-a]quinoxalin-4(5h)-one
+24205092						7-methoxyisoindolo[1,2-a]quinoxalin-4(5h)one
+24205093						7,8-dichloroisoindolo[1,2-a]quinoxalin-4(5h)one
+24205116						Dimethylaminoparthenolide
+24205148						nitrobenzooxepenearylmethylene (f)
+24205265						9-hydroxy-5-propyl-5h-indeno[1,2-b]indol-10-one
+24205266						9-hydroxy-5-(4-methoxybenzyl)-5h-indeno[1,2-b]indol-10-one
+24205267						9-hydroxy-5-phenyl-5h-indeno[1,2-b]indol-10-one
+24205285						N-(2-aminophenyl)-4-[4-[3-(3,4-dihydro-1H-isoquinolin-2-yl)prop-1-en-2-yl]phenyl]butamide
+24205286						4-[3-(3,4-dihydro-1H-isoquinolin-2-yl)prop-1-en-2-yl]-N-pyrazin-2-ylbenzamide
+24205295						ethyl 3-(tolan-4'-yl)acrylate
+24205317						6,8 dimethoxy  5,4' dihydroxy flavone 7-o rhamnoside
+24205329						1-ethynyl-2-carboethoxyethenylphthalene
+24205338						4'-(1h-benzimidazol-2-yl)1,1biphenyl-4-amine
+24205348						csa13
+24205422						(2e,8r,9z)-2,9,16-heptadecatrien-4,6-diyn-1,8-diol
+24205461						thieno[2,3-c]-2-acetyl-9,10-dihydrophenthrene
+24205532						5-methoxy, 4'-hydroxy,3-prenyl 7-o-rhamnopyranosido flavone
+24205561						pyrazoline derivative
+24205562						pyrazoline derivative
+24205614						3-methoxy-estra-1,3,5(10)-triene-(17,16-c)pyrazole
+24205741						5-hydroxy-3-phenylpyrano[3,2-c]chromen-2(5h)-one
+24205749						3-(p-tolylthio)-5-ethoxypyrano[3,2-c]chromen-2(5h)-one
+24205849						5-(phthalen-2-yl)-1-(3,4,5-trimethoxyphenyl)-1h-imidazole
+24205857						pyrazol derivatives
+24205861						[(palm-pro-gly)1 d-phe2 ala3 d-lys6]-lh-rh
+24205923						n-(2-iodylphenyl)-n-methylpivalamide
+24205925						n-benzyl-n-(2-iodylphenyl)acetamide
+24205927						(9-hydroxy-10-oxo-10h-indeno[1,2-b]indol-5-yl)-acetic acid
+24205941						sc-25
+24205952						arylpurines
+24205953						arylpurines
+24205954						arylpurines
+24205955						arylpurines
+24205956						arylpurines
+24205957						arylpurines
+24205958						arylpurines
+24205962						hydroxybenzoestra-1,3,5(10),16-tetraen-3-ol
+24205965						bisarylpurines
+24206024						dimethyl 1-(diphenylmethylamino)piperonylphosphote
+24206038						2-(4-((oxiran-2-yl)methoxy)styryl)-4,5-dihydrooxazole
+24206039						2-benzoyloxymethyl-1,4-phthoquinone
+24206089						1,5-bis[4-cyano-2,6-dimetoxyphenoxy]-3-oxapentane
+24207544						Hydrastinine HCl
+242436						n-acetylcolchinol
+242437						n-acetylcolchinol, methyl ether
+243498						actinogen
+243725						dihydrorotenone
+243748						progesterone, 11.beta.,17-dihydroxy-6.alpha.-methyl-
+243877						adenine, 9,9'ethylenebis(n,n-dimethyl-
+244246						propan-1-one, 2,3-dichloro-1,3-bis(4-methylphenyl)-
+24466						Metoprine
+244818						1-(2-ethylphenyl)-4-(3,4,5-trimethoxybenzoyl)piperazine
+244989						Porfiromycin
+245172						2,5-diphenyl-1,4-dithiin
+245858						2-imidazoline, 2-undecyl-
+245869						blastmycin
+245913						salicylamide, 5-chloro-n-(3-hydroxypropyl)-
+2460						cyclic dibutyryl amp
+246015						pyrimidine, 2,4,5-trichloro-6-ethyl-
+246016						pyrimidine, 2,4,5-trichloro-6-propyl-
+246017						pyrimidine, 2,4,5-trichloro-6-isopropyl-
+246230						bc 76
+246231						bc 77
+24633						Cadmium Chloride
+246331						santalin
+246779						p-toluidine, n-allyl-
+246845						tylocrebrin
+24693						cresol
+24707						Ethinyl estradiol
+24744454						triazolothiadaizoles
+247696						pyrimidine, 2,4-diamino-6-(p-iodoanilino)-5-nitroso-
+24783759						10-(6'-ubiquinolyl)decyltriphenylphosphonium
+247901						m-cresol, 4,6-dichloro-5-ethyl-
+247935						prednisolone, 9-fluoro-6.alpha.-methyl-, acetate
+247946						1h-pyrazolo[3,4-d]pyrimidine, 4-amino-1-(p-chlorobenzyl)-
+247955						vengicide
+248010						Cordycepin
+24814502						aminothiadiazines
+24832839						Melphalan
+24838593						Gusperimus Trihydrochloride
+24845991						butyric acid, rhodium salt (4:2)
+24858011						6-(diethylaminoethyl)diquino-1,4-thiazine
+24858160						6-(chloroethylureidoethyl)diquino-1,4-thiazine
+24858161						6-(p-toluenesulfonylaminoethyl)diquino-1,4-thiazine
+248608						fluorene, 9-bromo-2,4,7-trichloro-
+24867082						salarin c
+249012						pyrimidine, 2,4,6-trichloro-5-propyl-
+249187						Azaribine
+249332						Vincristine
+24944555						1-methyl-3-octadecylimidazolium hexafluorophosphate
+249455						pyrimidine, 2,4,6-trichloro-5-ethyl-
+25010734						Tamoxifen
+250397						chebulagic acid
+250876						Nogalamycin
+251019						propiolic acid, (p-nitrophenyl)-, methyl ester
+25102584						sordinol
+251355						7h-benzo[c]phenothiazine, 7-chloroacetyl-
+25136944						Vinorelbine
+251561						tetrahydroalstonine
+251620						plicatic acid
+25164108						basic yellow k
+251643						SPI1 Gene
+251786						isophthalanide, 2-amino-4',4''-di-2-imidazolin-2-yl- (8ci)
+25181424						4-(2-pyridinyl)-5h-1,2,3-dithiazole-5-thione
+251890						colubrine, beta
+251913						brucine, dihydro-
+251918						noformicin
+251928						8-azadenosine
+25197519						1-(1h-indazol-3-yl)-3-(4-methoxyphenyl)urea
+25197647						1-(4-bromophenyl)-3-(1h-indazol-3-yl)urea
+25197651						3-amino-n-(4-benzylphenyl)-1h-indazole-1-carboxamide
+25197780						3-amino-n-(2-methoxyphenyl)-1h-indazole-1-carboxamide
+25197926						1-(1h-indazol-3-yl)-3-[2-(trifluoromethoxy)phenyl]urea
+25199443						3-amino-n-(4-butoxyphenyl)-1h-indazole-1-carboxamide
+25200028						siomycin a
+252116						guanidine, 1-(4,6-dimethyl-2-pyrimidinyl)-3-phenethyl-
+25232581						g-tpp
+252682						2-hydroxy-4-(2-(tosyloxy)acetamido)benzoic acid
+253083						Trifluridine
+253131						meso-2,3-diphenylsuccinic acid
+253302						benzylpenillic acid
+253426						uridine, 2'-deoxy-5-fluoro-5'-thio-
+253676						mimbane (usan)
+2538						Camptothecin Derivative
+254258						guanidine, 1-(p-butoxyphenyl)-3-(p-chlorophenyl)-
+25429						Benzimate
+254975						2,3-butanediol, 1,4-bis(2-methyl-1-aziridinyl)- (8ci)
+255605						benzophenone, 3,3',4,4',5-pentamethoxy- (8ci)
+255922						2',3-dinitro-p-salicylotoluidide
+255923						benzamide, n-(2,3-dimethylphenyl)-2-hydroxy-3-nitro- (9ci)
+256411						Trityl cysteine
+256420						agecorynin c
+25659						nitidine, chloride (8ci)
+256755						7-(phenyl(p-tolylamino)methyl)quinolin-8-ol
+256758						8-quinolinol, 7-[.alpha.-(8-quinolylamino)benzyl]-
+2569						Carboqone; Carbazilquinone
+257272						ambrosin
+257278						coronopilin
+2577						carmofur
+2578						Carmustine
+258237						1,1'-(benzo[d][1,3]dioxol-5-ylmethylene)dipiperazine
+258412						strophanthidol
+25842						tributylchlorolead
+258450						3,6-dibromophenthrene-9,10-dione
+258526						solacongestidine
+258797						sri 2636
+258809						Madecassic Acid
+258957						crimin
+25926						win 1701
+259331						Estramustine
+259746						sulfide, 2,4-dinitrophenyl 2-nitro-p-tolyl
+259812						8-aminoadenosine
+259820						2'-ethyl-3-nitrosalicylanilide
+259897						leurosine sulfate
+260780						pyrimidine, 5-allyl-2,4,6-trichloro-
+260783						pyrimidine, 2,4,6-trichloro-5-pentyl-
+260791						pyrimidine, 2,4,6-trichloro-5-heptyl-
+261046						antineoplastic-92909
+261051						antineoplastic-92915
+261066						1h-benzo[a]carbazole-1,4(11h)-dione, 11-methyl-
+261075						acetyltrophanthidin
+261577						fastigilin c
+261792						demethyltylophorinine
+261859						gardenin
+261947						gitoxim
+262093						1,4-phthalenedione, 2,3-bis[(2-hydroxyethyl)thio]-
+262500						solanine
+262649						1-benzoyl-1,2-dihydrobenzo[f]quildonitrile
+26328						PCNU
+264067						2-(phenthridin-6-ylthio)-1-phenylethanone
+264115						calycanthine
+26476961						imidazole-5-one deri.
+26476967						imidazole-5-one deri
+264889						aklavin
+265237						withaferin a
+265730						6h-indeno[1,2-c]isoquinoline-5,11-dione, 6-methyl-
+265952						u-22265
+265953						formycin a
+265955						u 20043
+26596						helatac
+2662						Celecoxib
+266552						Deoxycamptothecin
+266767						riboprine(usan)
+266923						5,8-quinolinedione, 6-amino-7-bromo-
+267360						sapindoside a
+267361						musennin
+267769						securinin
+267773						solypertine tartrate(usan)
+268004						14-chelidoninone
+26819						n-deacetyl-n-formyl-n-methylcolchicine
+26905						ramentaceone
+2693						chetomin
+270061						cucurbitacin k
+2708						Chlorambucil
+270800						u 32027
+270853						6-bromosangivamycin
+270861						6-bromotoyocamycin
+271622						3,4-dimethylpyrazolo[3,2-c]-as-triazine
+271768						tubercidin 3', 5'-cyclic phosphate sesquihydrate
+272106						dehydroheliotridine
+272259						nogalamycin-n-oxide
+2723601						6-Thioguanine
+2723800						safranin
+2723862						phosphonium, (3-bromopropyl)triphenyl- bromide
+272417						venetine
+272418						acovenoside b
+2724218						silver benzoate
+272581						1.alpha.,2.alpha.-epxoyscillirosidin
+272892						adoca
+272938						3-(2,4-dinitrophenoxy)pyridine
+273088						phezastanine, 5,10-dihydro-5,10,10-trimethyl-
+273178						prototryptochrome, iodo-
+2734225						1-decyl-3-methylimidazolium chloride
+2734231						1-hexadecyl-3-methylimidazolium chloride
+2734233						1-methyl-3-octadecylimidazolium chloride
+2735132						silver methylsulfote
+274127						3-(4,5,6-trihydroxy-3-oxo-3h-xanthen-9-yl)propanoic acid
+274159						uzarigenin
+2750434						2m2m
+275196						Noscapine
+2757						cinchonidine
+2758						Eucalyptol
+27590						t 53
+275965						t 73
+275977						l-cysteine, s-[(4-chlorophenyl)diphenylmethyl]-
+275978						l-cysteine, s-[(4-methylphenyl)diphenylmethyl]- (9ci)
+275979						l-cysteine, s-[bis(4-methylphenyl)phenylmethyl]-
+276171						nsc-123461
+276293						neriifolin
+276294						sarnovid
+276389						harringtonin
+276685						phthalen-1,4-dione, 3-butanoylamino-2-chloro-1,4-dihydro-
+276707						2,2'-disulfanediyldiquinolin-8-ol
+277822						3-Deazauridine
+278143						flavacol
+278267						n-acetylsulfanilyl chloride
+278572						aracytidine 5'-o-phenylphosphate
+2785819						4-azido-2-quinolone
+278692						nsc-128571
+2788						clioquinol
+2788193						9-acridimine, n-(4-ethoxyphenyl)-, monohydrochloride
+278923						[1]benzothieno[3,2-h]isoquinoline
+279062						cyclo-c
+279214						cyclopyrethrosin
+279605						7,7'-methylenebis(5-nitroquinolin-8-ol)
+279609						2-{[(6-methoxyquinolin-8-yl)amino]methyl}phenol
+280616						5,8-quinolinedione, 7-amino-6-methoxy-2-methyl-
+2812						Clotrimazole
+281443						acetic acid, thio-,s-[.alpha.-(nitromethyl)benzyl] ester
+281457						alanine, 3-[(.alpha.,.alpha.-diphenylpiperonyl)thio]-, l-
+281604						acetamide, n-(2-mercaptoethyl)-, benzoate (6ci, 7ci)
+281830						k 31
+281832						k 33
+281834						Mitomycin
+281990						scilliglaucosidin
+282001						siccanin
+282021						bersaldegenin 1,3,5-orthoacetate
+2820349						pmp (van)
+28204						Calusterone
+282302						acetylmarinobufogenin
+282479						p-ara-c
+282522						pentalenolactone
+282523						at 116, benzylamine salt
+282697						dibenzoylfuran deriv
+2827274						allyliodourotropine
+282785						hymenolide
+282787						paucin
+283138						kalamycin
+284240						3'-fluorothymidine
+28465171						acetic acid, (amidinothio)-
+284731						isothiocyanic acid, sulfonyldi-m-phenylene ester
+284995						ovalicine subst.
+284996						dihydroovalicine subst.
+285033						Homoharringtonine
+2854						compactin
+285701						Pyrazofurin
+2861016						Thioinosine
+286106						pekilocerin a
+286252						quinoxaline, 6-chloro-2,3-bis(iodomethyl)-
+286254						2(1h)-quinoxalinone, 3-(bromomethyl)-
+286257						quinoxaline, 2,3-bis(iodomethyl)-6-methoxy-
+286532						furazan, di-p-anisoyl-, 2-oxide
+286636						u 36699
+28665						wln: i1vmr de
+286651						maleimide, n-(1-hydroxyacetonyl)-
+286701						4(1h)-quizolinone, 2,3-dihydro-2-(1-phthyl)- (8ci)
+286755						ivalbin
+287403						agroclavin
+2876						2-hydroxyethylthio-3-methylphthoquinone
+288101						olendrigenin
+288216						Tegafur
+288759						1-azabicyclo[2.2.2]octan-3-one, 2-(4-morpholinylmethyl)-
+289085						fluderma
+289493						dihydrogeiparvarim
+289743						4-quinolinol, 7-methoxy-2-phenyl-
+289842						neritaloside
+2901						Cycloleucine
+290486						triciribine
+290653						urea, n'-(5,6-dichloro-1h-benzimidazol-2-yl)-n,n-dimethyl-
+290655						4(1h)-quizolinone, 2,3-dihydro-2-(4-methoxy-2,5-xylyl)-
+2907						Cyclophosphamide
+29142						Etoprine
+291663						nybomycin acetate
+292189						2-formylphenylboronic acid
+292326						1,2-benzisothiazoline-3-thione, 2-methyl- (8ci)
+292555						4(1h)-quizolinone, 2-(2,4-dimethylphenyl)-2,3-dihydro-
+292556						4(1h)-quizolinone, 2-(2,5-dimethylphenyl)-2,3-dihydro-
+292559						4(1h)-quizolinone, 2,3-dihydro-2-(3-methylphenyl)-
+292560						4(1h)-quizolinone, 2-(2-ethoxyphenyl)-2,3-dihydro-
+293131						(-)-apogossypol hexaacetate
+29335						methasquin
+294117						2-oxazolamine, n-(2,3-dihydro-1h-inden-5-yl)-4,5-dihydro-
+294348						2,4-di(benzo[d][1,3]dioxol-5-yl)-4-oxobutanoic acid
+294452						9-acridanone, 3-chloro-10-methyl-
+294475						diketocoriolin b
+294641						Acivicin
+294741						dimethylarsinothious acid, 2,4-pyrimidinediyl ester
+295572						propanedinitrile, [(3,5-dibromo-2-ethoxyphenyl)methylene]-
+2958						rubomycin
+295901						3,5-pyridinedicarbonitrile, 2-amino-6-chloro-
+296636						pyrazinecarbonitrile, 3-chloro-5-(dichloromethyl)-
+296770						1h-inden-1-one, 2-bromo-2,3-dihydro-2-methyl-
+297307						malonic acid, (o-chlorobenzylidene)-, diethyl ester (8ci)
+297389						benzene, 1,1'-(1,2-ethanediyl)bis[2,5-dimethoxy-
+29770						Amiodarone Hydrochloride
+298076						icrf 186
+2981						phenthrene-9,10-diimine
+2987927						mostrol
+299645						brusatol
+299664						3-desmethylcolchicine
+3000671						Merbarone
+3000926						N-(4-Chloro-3-((3-Methyl-2-Butenyl)Oxy)Phenyl)-2-Methyl-3-Furancarbothioamide
+3001008						2-propel, 3-chloro-2,3-bis(3,4-dimethoxyphenyl)-
+3001029						Menogaril
+3004012						1,1-dimethyl-5-(2-phthalenyl)dithiobiuret
+3004106						1,2,4-triazine-3,5(2h,4h) dithione, 6-benzyl-
+3004113						3-[n-(4-nitrophenyldithiocarbamoyl)]-propanoic acid
+3004115						2-[n-(3-fluorophenyldithiocarbamoyl)]-propanoic acid
+3004211						1,3,5-triazine-2,4-dithiol, 6-(3,4-dichlorophenoxy)-
+3004516						(1r)-(-)-3-nitromethine-6-endo-acetoxycamphor
+3004942						(e/z)-2-iodo-2-(2'-methylcyclopentylidene)-1-phenylethanone
+300567						6-aminotoyocamycin
+300570						4(1h)-quizolinone, 2-(2-chlorophenyl)-2,3-dihydro-
+300571						4(1h)-quizolinone, 2,3-dihydro-2-(5-methyl-2-thienyl)-
+300572						2,3-dihydro-2-(3'-benzyloxyphenyl)-4-quizoline
+3006251						4,4'-(1,4-piperazinediyl)bisbenzaldehyde
+300858						9-chloroellipticine
+300936						stanne, trimethyl[(4-morpholinylthioxomethyl)thio]-
+3011155						Nelarabine
+301117						versimide
+301371						phthalenedione, 5-chloro-8-hydroxy-
+301389						Chlorozotocin
+3014024						benzalkonium chloride
+301935						trigilletine
+302071						aquayamycin
+302231						6-chlorotetrazolo[4,5-b]pyridazine
+302501						antineoplastic-187675
+302576						sma-491 (free base of nsc d742838)
+3027338						benzimidazole, 1-dodecyl-2-methyl-, hydrobromide
+30323						Daunorubicin
+3032861						Beta-Thioguanine Deoxyriboside
+3032930						carbamic acid, (2-piperazinylethyl)dithio-
+3033832						Clomiphene Citrate
+3034162						phenylbiguanide mbt-salt
+3035462						hymenialdisine
+3037						dichlorophene
+304673						cytosine, 1.beta.-d-arabinofuranosyl-n(sup 4)-stearoyl-
+305114						n-[1-(biphenyl-4-yl)ethyl]-3,4-dichlorobenzamide
+3061						Digitoxin
+30623						Razoxane
+3065						ergocristine, dihydro-
+306548						n,n'-bis(3-nitrophenyl)benzene-1,3-dicarboxamide
+308141						aclarubicin
+308223						cc 9106
+308224						cc 9147
+308371						a 31438
+3084192						emetine, dehydro-
+3085106						Daunorubicin
+3086131						9-hydroxy-2-(.beta.-diethylaminoethyl)ellipticinium acetate
+3086132						9-hydroxy-2-(2-piperidinylethyl)ellipticinium acetate
+3086380						9-methoxy-2-methylellipticinium iodide
+309160						2,4-diaminohexahydropyrimidine-5-carbonitrile
+30993						l-cysteine, s-ethyl- (9ci)
+31010						Dichloromethotrexate
+3108						thymidine, 3'-azido-5-bromo-3'-deoxy-5,6-dihydro-6-methoxy-
+31100						bromocriptine methanesulfote
+311908						icrf 202
+311912						6-thio-.beta.-d-glucopyranose, 6-(dimethylarsinite)
+31202						Cetalkonium Chloride
+312122						nsc 220334
+312145						Wortmannin
+312287						colchicine alog
+31307						Triamcinolone
+31315						critex
+31316						thymophthalein
+3132						dl-thiorphan
+313562						benzofurazan, 4-(4-morpholinyl)-7-nitro-, 3-oxide
+313591						benzofurazan, 4-[(3-methoxyphenyl)thio]-7-nitro-, 3-oxide
+313603						benzofurazan, 5-nitro-6-(1-piperidinyl)-, 1-oxide
+314						cytosine arabinoside monophosphate
+31420						krisolamine
+314728						nsc 234214
+314799						scillarenin
+315682						helenin
+316447						triostin a
+3165						benzimidazole, 5,6-dichloro-1-.beta.-d-ribofuranosyl- (8ci)
+316673						[1,1'-biphthalene]-2,2',3,3'-tetrol
+317560						Camptothecin Derivative
+317641						cytosine, 1.beta.-d-arabinofuranosyl-n(sup 4)-palmitoyl-
+317642						cytosine, 1.beta.-d-arabinofuranosyl-n(sup 4)-lauroyl-
+317843						dicentrine-(-)
+317884						2-chloro-6-(4-chlorophenyl)-2,5-cyclohexadiene-1,4-dione
+31789						Dianhydrogalactitol
+317895						butanedioic acid, 2-bromo-3-fluoro-, dimethyl ester
+318385						phomazarin
+318601						n6-benzyladenosine-5'-phosphate
+318696						hyrcanoside
+318768						2,6-pyridinedicarbonitrile, 3,4,5-tris(phenylthio)-
+319095						1,6-hexanediamine, n,n'-bis(3-methoxy-9-acridinyl)-
+319188						phenyl, 4-[[[4-[(phenylmethyl)amino]phenyl]methyl]thio]-
+319598						mexicanin e
+319648						gilactone c
+3197						echinomycin
+319742						1,2,3,4-oxatriazolium, 5-amino-3-phenyl-, chloride
+319748						Marcellomycin
+319846						nogamycin
+32018						wln: g1vmr bg dg eg
+320287						pyrromycin
+320371						resibufogenin, methacrylate deriv
+320712						thalicberine, o-methyl
+320713						8-trichloromethyldihydroberberine
+320908						sapelin a
+320914						hydroxypristimerin
+3213						ellipticine
+321973						cinmodial b812927k060
+3220						Emodin
+322357						isobrucein a
+322539						Triciribine-5'-monophosphate
+3228						Enocitabine
+322931						BEN
+322968						prima-1
+323260						benzenethiol, 2-amino-5-methyl-
+323275						carnosol o-quinone
+323533						Mitindomide
+323563						nsc 284682
+323587						adenosine, 8-chloro-, cyclic 3',5'-(hydrogen phosphate)
+323592						lapachol glucoside tetraacetate
+323607						neothramycin
+323628						enmein-3-acetate
+323701						Tiazofurin
+324500						ivalbatin acetate
+3246141						purine, 2-amino-6-(o-nitrobenzylthio)-
+3246652						4-(6-thioguanine)-7-nitro-2,1,3-benzoxadiazole
+3246719						Camptothecin Derivative
+324952						12-hydroxyindolo[2,1-b]quizoline-6(12h)-one
+324967						rustaiyan a
+325113						benzyl-4-(benzyloxy)-5,6-dimethylpicolite
+325735						lupene triol
+3259						Tetraiodofluorescein
+325910						Camptothecin Derivative
+325911						Camptothecin Derivative
+325912						Camptothecin Derivative
+326993						isovelleral
+326995						totarol
+327045						pifide
+327338						propanoic acid, 2-methyl-2-[4-(1-phthalenyl)phenoxy]-
+327377						bohlmann k2630
+327378						bohlmann k2631
+327404						2,4-pyrimidinediamine, 5-(4-chloro-3-nitrophenyl)-6-ethyl-
+327536						shikoccin
+327610						oxazolidine, 3-[(cyclohexyloxy)methyl]-4,4-dimethyl-
+3278						Ethacrynic Acid
+328131						2,4-quizolinediamine, 6-[(4-chlorophenyl)thio]-
+328137						2,4-quizolinediamine, 6-(phenylsulfonyl)-
+328145						2,4-quizolinediamine, 6-[[4-(dimethylamino)phenyl]thio]-
+328441						diosgenin tetraglycoside
+328503						avarol
+32874						Doxorubicin
+328778						paxadiol
+3288597						Ofloxacin
+329302						encelin
+329304						pyrimidine, 4-[(2,4-dinitrophenyl)thio]-
+329431						straital b
+329486						prieurianin from guarea trichilioides
+329517						5-[d-manno-pentitol-1-yl]tetrazole
+329826						Indenoisoquinoline derivative
+330164						neplanocin a
+330355						acetonitrile, 1,3-dithietan-2-ylidenenitro-
+330358						lachnella fungus
+330359						2(1h)-pyrimidinone, 5-fluoro-1-.beta.-d-ribofuranosyl-
+330408						uridine, 5-fluoro-, 2',3',5'-triacetate
+33055						carboxymethyl ethylxanthate
+330851						Colchicine Derivative
+330973						bishelelinyl malote
+331148						zexbrevin
+331290						coaracine (racemic)
+331499						acnistin-e
+331736						epiepoxydon
+331783						rocaglamide
+332278						3'-chloro-3-nitro-o-salicylotoluidide
+332607						schisanterin a
+332624						Baccatin III
+332671						zorol
+332711						oxirane, 2,2'-[2,3-phthalendiylbis(oxymethylene)]bis-
+332746						2,1,3-benzothiadiazole, 7-bromo-5-methyl-4-nitro-
+333142						3,4-dithenoyl-1,2,5-oxadiazole-n2-oxide
+333279						benzoic acid, 3,4,5-trihydroxy-, phenyl ester
+3334						fenbendazole (usan)
+333501						2-propyn-1-one, 1-(2h-1-benzopyran-3-yl)-3-phenyl-
+333565						quizoline, 4-ethyl-6-methoxy-7-(oxiranylmethoxy)-
+333624						1-piperidinesulfomide, n-(7-amino-2-phthalenyl)-
+333830						predorine
+334247						6-phenyl-6h-indeno[1,2-c]isoquinoline-5,11-dione
+334273						6,9-ethanobenz[g]isoquinoline-5,10-dione, 6,9-dihydro-
+334288						gilvocarcin v
+334344						9-(2,6-dichlorobenzyl)-9h-purine-2,6-diamine
+33463						chlorocolchicine
+334706						4-selezolecarboxamide, 2-.beta.-d-ribofuranosyl-
+334838						adenosine, 2-bromo-2'-deoxy-
+334935						quizolinone
+3354028						purine, 2,6,8-tris(hexylamino)-
+335628						Mafosfamide
+3363						Floxuridine
+336435						ehretinine
+3367						2-Fluoro Ara A
+3368						2-Fluoro Ara A
+336805						Trimetrexate glucurote
+336831						bis(helelinyl)glutarate
+337012						colchicine alog
+337030						1,3-benzodioxole, 5-[1-(4-ethoxyphenyl)ethyl]-6-methoxy-
+337175						8-Chloro-adenosine
+3374653						3-(2,3-dihydrobenzo[d]oxazol-2-yl)benzo thioamide
+3375						Flumethasone
+3376						Flumethasone Pivalate
+337799						coleonol
+337850						buellolide
+337854						Cyanomorpholinodoxorubicin
+3379405						guaneran
+338182						oxanosine
+338286						haginin a
+338287						zuihonin a
+338941						veprisine
+338942						bulleyanin
+339385						perezone
+339411						n-benzoyldeacetylthiocolchicine
+3405						Folic Acid
+340916						1,3,5-triazine, 2-(1-methylethenyl)-2,4-diphenoxy-
+340923						2-propemide, n-[(cyanoamino)iminomethyl]-2-methyl-
+340932						urdamycin a
+341041						n-(butoxycarbonyl)deacetylthiocolchicine
+3411						laurusin
+341279						n-formyldeacetylthiocolchicine
+341280						n-(vinyloxycarbonyl)deacetylthiocolchicine
+3413						forskolin
+341380						saframycin r
+341846						loganin, 6-beta-hydroxy
+341882						nordracorubin
+342375						sipholenone-a
+342903						acronycine, 2-nitro
+343081						maxima isoflavone d
+343097						M-Azidopyrimethamine
+343098						2,4-pyrimidinediamine, 5-(3-azido-4-chlorophenyl)-6-ethyl-
+343115						gallicodazole
+343590						goniothalenol
+343613						antineoplastic-400008
+343668						4(1h)-quinolone, 5,6,7,8-tetrahydro-2-phenyl-
+344174						5,6-quinolinedione
+344199						illudin m
+344200						illudin s
+344218						pleurotine
+344235						pyreno[2,1-b]pyridine
+344295						1,2-phthoquinone, 3,7-dimethyl-
+3449						jilkon
+345501						anthricin
+345512						Acronine
+345792						p-bromophecyl benzoate
+3458						gedunin
+34644						spermine hydrochloride
+347381						Allocolchicine
+347578						n,o-diacetyljervine
+3477						Aspergillin
+348482						gitoxigenin
+348483						uzarin
+34942						s-triazine, 2-amino-4-anilino-6-(chloromethyl)-
+3503						(+/-)-gossypol
+3512						fulcin
+351739						4(3h)-quizolinone, 3-hydroxy-2-phenyl-
+3521514						kc 1260
+352500						2'-deoxy-2'-fluorouridine
+352938						Freund's Adjuvant
+352976						2'-deoxy-2'-fluorocytidine
+353016						chlorasquin
+353126						6,7-dihydroxy-4'-methylisoflavan
+353127						6,7-diacetoxy-4'-methoxyisoflavan
+353128						6,7-diacetoxy-4'-methylisoflavan
+353129						6,7-diacetoxyisoflavan
+353130						4',6,7-triacetoxyisoflavan
+353131						3',4'-dimethoxy-7-hydroxy-8-methylisoflavan
+353155						picodazole
+353257						gulf compound, prodrug
+353376						isoalantolactone
+353396						quinocarcin monocitrate
+353472						gallibiscoquizole
+353473						verabiscoquizole
+353550						13-desoxyphomenone
+353644						benzo[g]quinoxaline-5,10-dione, 5,10-dihydro-2,3-dimethyl-
+354096						2-(4-iodobenzyl)ellipticine, hydrochloride
+354175						b676297k277 3',4'-deoxypsorospermin 3',4'-chlorohydrin
+354176						b676297k152 3',4'-deoxypsorospermin
+354395						Camptothecin Derivative
+354398						annocin
+354399						from marine animal dolabella auricularia
+354624						Adenosine, 2-chloro-2'-deoxy-2'-fluoro-
+354677						Camptothecin Derivative
+354679						Camptothecin Derivative
+354778						benzene, 1-[[2-chloro-1-(chloromethyl)ethyl]thio]-4-fluoro-
+355392						Taxol derivative
+355642						bis(3-chloropropyl)disulfide
+355643						disulfoxide, bis(3-chloropropyl)
+355710						2-benzoylaminobenzamide, n-thiazol-2-yl-
+355716						herbasterol
+3558						halomon (racemic)
+3559						haloperidol
+355940						imidazole, 1-(4-chlorophenyl)-4-(4-nitrophenyl)-
+355949						antineoplastic-615804
+355990						free base of nsc 610966
+3561						Haloprogin
+356138						1,2-hydroxy-3-phthoic acid
+356433						colchicine alog
+356434						colchicine alog
+356571						1,5-dihydroxy-1,5-di(pyridin-3-yl)pentan-3-one
+356653						Gemcitabine
+356692						cdpi-trimer methyl ester
+356986						castanospermine
+357140						pdtpt
+357329						cycleanine plus mixture of other alkaloids
+357605						cis-7,9-diphenyl-3-methylene-1,8-dioxaspirodecan-2-one
+357621						(2,2-dimethyl)-1,3-propandiyl-bis(2,3-dichloro)maleimide
+357904						dexniquldipine hcl
+357928						goniothalamicin
+357929						isoxazolyl-prodrug of distamycin (stallimycin)
+357989						Dolastatin 15
+35802						flubenol
+3580213						thiosangivamycin
+358176						3-deazaneplanocin, hydrochloride
+358258						1,4-anthracenedione, 5-hydroxy-
+358898						Carzelesin
+358940						4-methoxy-1,5-benzothiazepine-1,1-dioxide
+359064						2-chloro-2',3'-dideoxyadenosine
+359178						benzo[1,2-c:4,5-c']dipyrrole-1,3,5,7(2h,6h)-tetraimine
+359247						primaquine phosphate
+359305						1,2-benzo-8-(2-aminoethyl)-3-phenoxazone
+359306						1h-benzocycloheptene-1,4,7-trione, 4,7-dihydro-
+359323						Pentamidine Isethiote
+359473						methyl 13-hydroxy-15-oxo-kaurenoate
+359531						1,4-phthalenedione, 7-(benzoyloxy)-5-methoxy-
+3598						hexachlorophene
+3599						miltefosin c
+360085						cyclopentanemethaminium, n,n,n-trimethyl-2-oxo-, iodide
+360122						cyclopentane-1,2,3-trione 2-p-methoxyphenylhydrazone
+360183						4-oxo-1,2,4-trithiolane
+360184						8,15-diisocyano-11(20)-amphilectene
+360197						sceptrin
+360259						4h-1-benzothiopyran-4-one, 2-(methylsulfinyl)-
+360260						4h-1-benzothiopyran-4-one, 2-(methylsulfonyl)-
+360322						dubamine
+360414						3-butoxycarbonyl-3-demethylthiocolchicine
+360493						2-(chloromethyl)-1,3-dinitro-5-(trifluoromethyl)benzene
+360666						spiro(3-cyclopentene-1,1'-indane)-2,5-dione, 3-bromo-
+360682						An Antifol
+360836						prostratin
+360889						4-methyl-1,2,4-benzotriazin-3(4h)-imine 1-oxide
+360922						1,4-benzoquinone, 2-bromo-5-methoxy-
+360925						cyclopentanone, 2,5-bis[(trimethylamino)methyl]-, iodide
+361024						phth[2,3-d]thiazole-4,9-dione, 2-[(2-methylphenyl)amino]-
+361042						artemisetene
+3611						hinokitol
+361120						antineoplastic-623950
+361332						tricyclo[4.4.0.0(2,7)]decane-5-one, 4,4-dibromo-2-methyl-
+361500						nitro trifluoro benzylurea
+361502						acylurea
+3616						Hexamethylene Bisacetamide
+361733						2,5-norbordiene-2-carboxylic acid, 3-formyl-, methylester
+361740						2,4-cyclopentadien-1-one, 2-bromo-3,4,5-triphenyl- (9ci)
+361853						propanedinitrile, 2-(phenylmethyl)thio-
+362003						1h,3h-thiazolo[3,4-a]benzimidazole, 1-(2,6-dichlorophenyl)-
+3620127						3-amino-9(10h)-thioacridone
+362038						10-(2',4'-dichlorophenyl)-3-methylflavin
+362039						cordigone
+362040						itomanindole a
+362090						azacycloheptane, 4-acetyl-1-methyl-4-phenyl, hydrate [10:1]
+362095						7,12-epidioxybenz[a]anthracene, 7,12-dihydro-7-methyl-
+362096						benz[a]anthracene-1,4-dione, 1,4-dihydro-7,12-dimethyl-
+362113						phtho[1,2-c]furan-3(1h)-one, 1-(2-methylphenyl)-
+362170						1,2,4,5-tetrazine, 3,6-bis(1-azetidinyl)-
+362185						n2,n4,n6-tribenzoyloxy-methyl-n2,n4,n6-trimethylmelamine
+362379						4,13.alpha.-epoxymuzigadial
+362386						sterol sulphate
+362388						girolline
+362402						aplidazole c . tfa
+362463						3-oxo-4-androstene-2-carbonitrile-4,17.beta.-diol
+362479						3-nitro-5-formylisoxazole
+362525						n2,n4,n6-tripivaloyloxymethyl-n2,n4,n6-trimethylmelamine
+362562						erybraedin a
+362574						aromoline
+362605						4-piperidinone, 3,5-dimethyl-1-nitroso-2,6-diphenyl-
+362653						phtho[2,3-d]-1,3-dioxepin-6,11-dione, 4-methyl-
+362877						n-(2-bromotetradecanoyl)glycimide
+362897						2,1,3-benzoseladiazole, nitro-6-(trifluoromethyl)-
+362976						4-hydroxymethyl-2-phenyl-tellurophene
+363149						2-(acridin-9-ylamino)-3-sulfanylpropanoic acid
+363590						antineoplastic-628586
+363705						ahs-3/51 azomycin acyclonucleoside
+363820						2-thiophenecarboxaldehyde, 5,5'-(2,5-furandiyl)bis-
+363841						2,7-dicyanoxanthone
+363844						3-(1-adamantylamino)-1-phenylpropane
+363902						3-[n-(3-fluorophenylthiocarbamoyl)]-propanoic acid
+363904						3-[n-(4-ethylcarboxyphenylthiocarbamoyl)]-propanoic acid
+363905						3-(n-[sulfon(4-methylphenyl)thiocarbamoyl])-propanoic acid
+363911						methyl 3-[n-(2-chlorophenylthiocarbamoyl)]-propanoate
+364097						1-phthalenecarboxamide, n,n'-1,8-(octanediyl)bis-
+364109						dehydro iso-.alpha.-lapachone
+364159						homopterocarpin
+364364						2h-1-benzopyran-2-one, 4-(2-benzofuranyl)-7-methoxy-
+364428						[2,2'-bithiophene]-5-carboxaldehyde
+364434						amchloramide
+364435						amchlorguanidine
+364436						amchlordimidine
+364437						amchloroxazole
+364438						amilamide
+364439						amiguanidine
+364440						amidimidine
+364441						amioxazole
+364442						acridomide
+364443						acridoguanidine
+364444						acridodimidine
+364451						toluacrone
+364456						nilacrone
+364483						tetra(4-methoxyphenol)tin
+364486						tetra(4-dimethylaminophenyl)tin
+364487						1,2-o-isopropylidene-.alpha.-d-glucofuranose-3-o-butyrate
+364574						4-androsteno[3,2-c]-isoxazole-4,17-.beta.-diol
+364580						4-hydroxy-17a-methyl-17a-aza-d-homo-4-androsten-3-one
+364583						17-.beta.-hydroxy-5-.alpha.-androstano[2,3-d]pyrazol-4-one
+364608						benzoxazole, 2-[(1-methyl-4-nitro-1h-imidazol-5-yl)thio]-
+364702						5-[2-(4-methoxyphenyl)ethyl]-1,2,3-dimethoxy benzene
+364705						4-[2-(3,4,5-trimethoxyphenyl)ethyl]aniline
+364708						5-[2-(4-methoxyphenyl)ethyl]-1,2,3-trimethoxybenzene
+364709						n-(4-methoxybenzyl)-3,4-dimethoxyaniline-hydrochloride
+364713						n-(3,5-dimethoxybenzyl)-4-methoxyaniline
+364714						3,5-dimethoxy-n-(4-methoxyphenyl)benzamide
+364716						n-(3,4,5-trimethoxybenzyl)-4-methoxyaniline
+365208						piperidine, 4-(p-anilinoanilino)-2,2,6,6-tetramethyl- (8ci)
+365233						bis-2,4-dimethoxyphenylselenide
+365238						2,3,6,7-tetramethoxyseleniumanthrene
+365239						bis-p-tolylediselenide
+365241						bis(2,4-dimethoxyphenyl)diselenide
+365250						6-(5-hexen-1-yl)-2-methylellipticinium acetate
+365388						benzene, 1,1'-sulfonylbis(2-nitro-
+365390						acetamide, n-[2-(phenylsulfonyl)phenyl]-
+365542						methanone, 2,6-pyridinediylbis[(4-fluorophenyl)-
+3657						Hydroxyurea
+365701						acylfulvene
+365716						d-l-cys-tyr-d-trp-lys-val-cys-thrnh2
+365717						d-phe-cys-tyr-d-trp-lys-ser-cys-thr nh2
+365719						d-f5phe-glu-trp-ala-val-gly-his-leu-ome
+365722						d-phe-glu-trp-ala-val-gly-his-leu-.psi.ch2nh-cpa-nh2
+365755						1,4-bis(fluoromethanesulfonyloxy)-butane
+366009						2,5-pyrrolidinedione, 1-(3-ethynylphenyl)-
+366096						tris(tropoloto)bismuth(iii)
+366134						myristoyl hydroxamate
+366257						tris(tropoloto)lanthane(iii)
+366259						tris(tropoloto)europium(iii)
+366260						tris(tropoloto)dysprosium(iii)
+366261						tris(tropoloto)cerium(iii)
+366262						tris(tropoloto)samarium(iii)
+366358						10,11-methylenedioxy-20(rs)-camptothecin
+366739						2,3,9,10-tetramethoxyindolo[2,1-a]isoquinoline
+366868						dioxobis(1-phenylbutane-1,3-dioto)uranium(vi)- hydrate
+367310						3-methoxy-2-phenoxy-2-phenylimidazo[1,2-b]pyridazine
+367561						polycarpol
+367617						macrocalyxoformin b (rabdosia diterpenoids)
+367618						excisanin b
+367619						jiuhuanin b
+367719						9-methoxy-2-methyl-1,2-dihydroellipticine
+367787						phthalene-1,2-dione, 1,2-dihydro-4-[(3-pyridinyl)amino]-
+367790						1,2-phthalenedione, 4-[(4-ethoxyphenyl)amino]-
+367796						sodium[(tetratropoloto)bismuthate(iii)]
+36791339						piriqualone
+368058						diisopropoxybis(1,4-phthochinone-2-olato)titanium(iv)
+368066						2',3,4,5-tetramethoxybibenzyl
+368135						inostamycin
+368136						antineoplastic-638479
+368140						(4-methoxyphenyl)-(3,4,5-trimethoxyphenyl)methanol
+368141						(4-methoxyphenyl)-(3,4,5-trimethoxyphenyl)methane
+368149						3,4,4',5-tetramethoxybenzophenone
+368263						ecteiscidin 729
+368274						diisopropoxybis(tropoloto)titanium(iv)
+368279						tetrakis(8-chinolineolato)titanium(iv)-tetrahydrochloride
+368283						diethoxybis(6-nitroso-2-phtholato)titanium(iv)
+368297						diethoxybis(1,4-phthochinone-2-olato)titanium(iv)
+368342						landomycin a
+368427						3-[4'-chloro-1-phthyl]phthalide
+3685						Idarubicin
+3686						idebenone
+368696						antineoplastic-639828
+368697						Benzoylphenylurea
+3687						Idoxuridine
+368742						8-bromo-2-phenyl-1-aza-azulene
+368857						6-phenylthio-7h-benzocycloheptene-1,4,7-trione
+368860						antineoplastic-d640199
+368926						culmorin
+368979						3-methoxycarbonyl-2,5-dihydrothiophene-1,1-dioxide
+368990						ethanol, 2-[4-(2,2':6',2\"-terpyridin-4'-yl)phenoxy]-
+368997						3,8,13,18-pentaazapentacosane pentahydrochloride
+3690						Ifosfamide
+369148						3-(4-methoxy-2-methylphenyl)phthol [2,1-c]furan-1(3h)-one
+369149						3-(4-methoxy-2-methylphenyl)phtho[1,2-c]furan-1(3h)-one
+369150						azatoxin
+369152						hobartine, 8-oxo-9-dehydro
+369312						Perillyl Alcohol
+369385						1-chloro-7-methyl-phenothiazone
+369386						7-chloro-1-methyl-phenothiazone
+369387						1,2-dimethyl-phenothiazone
+369388						1,6-dimethyl-phenothiazone
+369389						1,7-dimethyl-phenothiazone
+369391						2,7-dimethyl-phenothiazone
+369394						2-chloro-1,7-dimethyl-phenothiazone
+369536						5h-phtho[2,3-a]carbazole-5,13(12h)-dione, 12-phenyl-
+369537						1h-benzo[a]carbazole-1,4(11h)-dione, 11-phenyl-
+369538						1h-benzo[a]carbazole-1,4(11h)-dione, 8-methoxy-
+369539						1h-benzo[a]carbazole-1,4(11h)-dione, 8-methoxy-11- methyl-
+369902						longikaurin b
+369927						antineoplastic-642294
+369946						antineoplastic-642313
+369947						antineoplastic-642314
+369948						antineoplastic-642315
+369949						antineoplastic-642316
+369952						antineoplastic-642319
+369976						O-Chloroacetylcarbamoylfumagillol
+370162						7-methyl-coumarin-4-acetic acid
+370253						diethyl p-phenoxybenzalmalote
+370288						5-nitrofurylmalonic acid diethyl ester
+370303						triethyl-(3-thiofuryl)-phosphono acetate
+370338						oxytakatonine iodide
+370342						pyrophen
+370346						halequinone
+370622						phtho[2,3-d]oxazole-4,9-dione, 2-(1,1-dimethylethyl)-
+370709						destruxin a
+370710						chlorodestruxin
+370911						megaphone acetate
+371025						benzo[b]phtho[2,3-d]furan-6,11-dione, 4-chloro-3-hydroxy
+371069						Intoplicine
+371141						benzeneamine, 4-[(9-acridinyl)thio]-
+371147						3-acridineamine, 9-[[(4-nitrophenyl)methyl]thio]-
+371156						4,7-[bis-n,n'-(3-amino-9-thioacetamido)-acridine]-biphenyl
+371257						oxyacanthine
+371258						sanguilutine pseudobase
+371260						cowlteropine
+371271						11h-benzo[a]carbazole-1,4-dione, 7,11-dimethyl-
+371327						1h-benz[g]indol-5-ol, 2-phenyl
+371436						o-benzylfluorescein benzyl ester
+371504						n-(2-hydroxyethyl)-1-nitro-9-acridineamine, hcl salt
+371505						antineoplastic-645804
+371506						antineoplastic-645805
+371507						antineoplastic-645806
+371508						antineoplastic-645807
+371563						phtho[2,3-f]quinoxaline-7,12-dione, 3-hydroxy-2-methyl-
+371586						1-oxaspiro[4,5]deca-6,9-diene-2,8-dione
+371591						bis(2-nitrophenyl)sulfilimine
+371593						1,4-benzenediol, 2,5-bis(1-pyrazolyl)-
+371713						propanethioamide, n-hydroxy-n-methyl-
+371811						1,2,4-triazolo[4,3-a]pyrazin-5-amine, 8-chloro-6-nitro-
+371812						pyrido[3',4':4,5]thieno[2,3-g]isoquinoline, 6-methyl-
+371930						mdp-c857
+371948						bis(2-nitrophenyl)sulfilimine, hydrochloride, [1:1]
+372113						s-(n-hydroxy n-methylcarbamoyl)-glutathione
+372117						acetatobis(1,3-diphenylpropane-1,3-dioto)samarium(iii)
+372422						9-morpholinylmethyl-s6-acetyloxymethyl-6-mercaptopurine
+372531						pyrrolo[1,2-a]pyrimidine, 2,4,7-trimethyl-6-phenyl
+372550						jasplakinolide epoxide c
+372731						incarl
+372741						saprothoquinone
+3728						Iodoquinol
+372855						n-(3,4,5-trimethoxybenzyl)-4-methoxyaniline hydrochloride
+372982						antineoplastic-648770
+372983						antineoplastic-648771
+372985						antineoplastic-648773
+372988						antineoplastic-648776
+372990						antineoplastic-648778
+372992						antineoplastic-648780
+372996						antineoplastic-648784
+372997						antineoplastic-648785
+373075						hydramycin
+373247						tropolone, 4-chloro-6,7-dimethoxy-
+373396						2,6-bis(4-morpholinylmethyl)cyclohexanone,dihydrochloride
+373421						1-(4-bromophenylsulfonyl)-2-(methylaminosulfonyl)hydrazine
+3734221						acridine, 2-methoxy-6-nitro-9-(2-phenylhydrazino)-
+373660						tyloindicine h
+373661						tyloindicine i
+373662						budmunchiamine a
+373676						calactin
+373780						1,1'-biphenyl, 4,4'bis(thiomethyl)-
+373798						4-methyl-n-(3,4,5-trimethoxybenzyl)aniline
+373799						4-methyl-n-(3,4,5-trimethoxybenzyl) aniline hydrochloride
+373800						4-ethyl-n-(3,4,5-trimethoxybenzyl)aniline
+373801						4-ethyl-n-(3,4,5-trimethoxybenzyl)aniline, hydrochloride
+373804						4-i-propyl-n-(3,4,5-trimethoxybenzyl)aniline hydrochloride
+373806						4-ethoxy-n-(3,4,5-trimethoxybenzyl)aniline
+373807						4-ethoxy-n-(3,4,5-trimethoxybenzyl)aniline hydrochloride
+373808						4-methylthio-n-(3,4,5-trimethoxybenzyl)aniline
+373845						1,5,9,13,17-pentathiacycloeicosane
+373887						dermocarin-4
+373912						3,8-dimethyl-1,2-phthoquinone
+373978						7-(.beta.-d-ribofuranosyl)-4-aminothieno[3,4-d]pyrimidine
+374005						antineoplastic-651079
+374006						antineoplastic-651080
+374020						tetra(isobutenyl)antimony bromide
+374021						tri(isobutenyl)phenylantimony bromide
+374022						tri(isobutenyl)-p-anisylantimony bromide
+374135						antineoplastic-651589
+374202						contigsterol
+374245						antineoplastic-651744
+374325						antineoplastic-651849
+374353						ethyl gossypol
+374414						spiropachysine
+374536						sos bismethanol
+374628						bengazole a
+374665						n2-(4 methoxybenzyl)quinoxaline-2,7-diamine
+374756						hexahydroxyethylaminomethyl melamine
+374757						tricyanoethoxymethyl trimethylol melamine
+374817						kihadalactone a
+374872						epiaschantin
+374874						.beta-penta-o-galloyl-d-glucose
+375087						carnosic acid 12-methyl ether-.gamma.-lactone
+375090						1-(4ah-carbazol-9(9ah)-yl)-2-(diphenylamino)ethanone
+375100						2-phenyoxyethyl vinyl ether (pheve)
+375105						phthsaritone
+375119						glycylaminophenylbenzoylurea (hcl salt)
+375123						dmg amino bpu
+3751252						nogarene
+375252						auristatin pe
+375312						antineoplastic-d654830
+375682						(+)-.alpha.-viniferin
+375754						antineoplastic-655901
+375758						antineoplastic-655905
+375759						antineoplastic-655906
+375860						1,3-dioxolo[4,5-g]quinolin-8(5h)-one, 6-(2-fluorophenyl)-
+375902						benzo[1,2-b:5,4-b']dithiophene-2-carboxaldehyde, 4,8-dioxo-
+375907						benzo[1,2-b:5,4-b']dithiophene-4,8-dione, 3-methyl-
+376181						tubacetine
+376182						tubasenecine
+376224						antineoplastic-656904
+376328						2-acetyl-1,2-dihydroellipticine
+376376						1,3-dioxolo[4,5-g]quinolin-8(5h)-one, 6-(2-chlorophenyl)-
+376542						benzo[1,2-b:4,3-b']dithiophene-4,8-dione, 3,7-bis(acetyl)-
+376749						bicyclo[3.3.1]non-3-en-2-ol-7-one
+376753						n-methyl-6-(exo)-cyano[3.2.1]-8-azabicyclooct-3-en-2-one
+376754						n-methyl-7-(exo)-cyano[3.2.1]-8-azabicyclooct-3-en-2-one
+376765						(1r)-3,3-dibromocamphor
+376767						(1r)-5-endo-bromo-6-endo-benzoyloxycamphor
+376773						3-(hydroxymethoxymethyl)-3-butene-2-one
+376774						3-(tert-butyldimethylsilyloxymethyl)-3-butene-2-one
+376778						3-formyl-8,8-dimethylbicyclo[3.2.1]octan-2-one
+376839						7-cheto-deoxycholic acid
+376947						2-(1-(4-(2-pyridyl)piperazino))phthazarin
+376948						2-(1-(4-(2-(2-hydroxyethoxy)ethyl)piperazino))phthazarin
+376949						2-(1-piperazino)phthazarin
+376950						2-(2-(dimethylamino)ethylamino)phthazarin
+376952						5-acetyl-2-(3,4-dichlorophenylamino)-4-methylthiazole
+377209						2-amino-5,8-dihydroxy-1,4-phthoquinone
+377214						2-acetamido-6-methyl-8-hydroxy-1,4-phthaquinone
+377346						thymidine, 3'-azido-3'-deoxy-5'-oxo-
+377386						weisiensin a
+377425						1,8-phthyridin-4(1h)-one, 6-methyl-2-phenyl-
+377427						1,8-phthyridin-4(1h)-one, 2-phenyl-
+377927						2-(3,4-dibromo-4-methylpentyl)-1,3-butadiene
+377929						3,6-dibromo-3-bromomethyl-7-chloro-7-methyl-1-octene
+377930						2,3,6-tribromo-7-chloro-3,7-dimethyl-1-octene
+377931						1,2,6-tribromo-3,7-dichloro-3,7-dimethyloctane
+378074						2-bromoleptoclinidinone
+378119						L-alpha-Aminobutyric Acid
+378257						3-diethylphosphono-6-hydroxycoumarin
+378439						2-bromo-8-hydroxy-6-methyl-1,4-phthoquinone
+378440						2-bromo-8-methoxy-6-methyl-1,4-phthoquinone
+378441						2-bromo-6-methyl-1,4,8-trimethoxyphthalene
+378442						(s)-(+)-n-1-(3,5-dimethoxybenzyl)ethyl acetamide
+378581						1h-benzo(a)carbazole-1,4-dione, 8,11-dimethyl-
+378619						arborescidine d
+378620						2-(2-methoxyethoxy)phthazarin
+378623						2-(2-(2-methoxyethoxy)ethoxy)phthazarin
+378624						2-(2-butoxyethoxy)phthazarin
+378625						2-(2-(2-butoxyethoxy)ethoxy)phthazarin
+378626						2-(1-(4-methyl)piperazino)phthazarin
+378680						encyclan
+378695						ursa-11,13(18)-dien-28-oic acid-3.beta.-ol
+378770						2-(2-chloroethoxy)phthazarin
+378771						2-(3-chloropropyloxy)phthazarin
+378772						6-chloro-7-[bis-(2-chloroethoxy)amino]phthazarin
+378782						1,3-bis(4-quinolyl)-2-(2,5-dimethoxyphenyl)propane
+378853						acridine-9-amine, n-(3-aminopropyl)-1-nitro-
+378896						fluoroanilino-azatoxin
+378897						cyanoanilino-azatoxin
+378898						methyl-azatoxin
+378917						2-(4-n-n-dimethylaminostyryl)-3-methyl iodide
+379036						3,6-dibromo-2,7-dichloro-3-(chloromethyl)-7-methyl-1-octene
+379074						6-n-(4-morpholino)-7-chloro-5,8-quinolinedione
+379079						7-chloro-6-n-(2-fluoroethylamino)-5,8-quinolinedione
+379080						7-chloro-6-n-(4-(2'-pyridyl)piperazino)-5,8-quinolinedione
+379084						6-chloro-7-n-(2-fluoroethylamino)-5,8-quinolinedione
+379107						3-demethyl-3-ethoxycarbonylthiocolchicine
+379108						3-demethyl-3-butyrylthiocolchicine
+379109						3-ethoxycarbonyl-n-trifluoroacetylthiocolchicine
+379514						4(1h)-quinolinone, 6-(1-pyrrolidinyl)-2-(3- methoxyphenyl)-
+379515						4-(1h)quinolinone, 2-(3-methoxyphenyl)-6-(dimethylamino)-
+379538						chlorotetrangulol
+379539						hydroxymethoxytetrangulol
+379540						chloro-methoxy-tetrangulol
+379556						n, o-diethoxyacetyl-3-demethyldeactylthiocolchicin
+379873						6-chloro-7-[4'-(pyridyl)piperazino]-5,8-quinolinedione
+379884						1,3-butadiene, 1,1,2,4,4-pentachloro-3-nitro-
+379960						n-methyl-bis,3,3'-(2-nitroimidazol-1h-yl)propylamine
+380170						o-xylenebis-(triphenylphosphonium bromide)
+380319						didemnin a, n-l-prolyl-2-l-allothreonine (9ci)
+380452						carquniostatin b
+380477						1,1-diiodo-2,2-dimethoxy-2-phenylethane
+380481						[cl-].nc1cc(co)cc(nc2c3ccccc3nc4ccccc24)c1
+380839						11.beta.-hydroxy estradiol-11-nitrate-3-acetate
+380945						4,4-diiodo-3-phenyl-3-buten-2-one
+381022						8-amino-4-aza-6-octynylaziridine
+381026						2-ethenyl estradiol
+381091						1,2,4,5-tetraaminobenzene tetrahydrochloride
+381111						perfragilin b
+381448						boc-(ala-hmb)2-oh
+381451						tert-butyl 2-(2-oxochroman-3-carbonyl)hydrazinecarboxylate
+381525						(-)-.beta.-l-1-[(2-hydroxymethyl)-1,3-dioxolan-4yl]cytosine
+381579						3,3-diiodo-2-phenyl-2-propel
+381580						3,3-diiodo-1,2-diphenyl-2-propen-1-one
+381589						nitrophenyl-azatoxin
+381591						trihydroxy-azatoxin
+381678						n,n-bis(2-chloropropyl)-n-methylammonium chloride
+381886						4-azido-3-benzyl-coumarin
+381888						3-azido-3-phenyl-quinoline-2,4-dione
+381889						4-azido-3-formyl-1-phenyl-2-quinolone
+381891						1-azido-2-phenyl-3-phelenone
+381893						3-azido-1-methyl-3-nonyl-quinoline-2,4-dione
+381894						4-azido-2-chloro-3-nitro-quinoline
+381901						1-azido-2-formyl-benzo[ij]quinolizin-3-one
+381904						1-azido-2-(2-pyridyl)-phelen-3-one
+381906						3-azido-3-n-heptyl-quinoline-2,4-dione
+381907						4-azido-2-chloro-3-morpholino-quinoline
+381911						4-azido-3-chloro-1-methyl-2-quinolone
+381913						4-azido-3-nitro-1-phenyl-2-quinolone
+381915						4-azido-2-chloro-3-cyanoquinoline
+381957						(2s,3s)-2-hydroxy-2-phenyl-3-p-tolylsulfenylbutamide
+38198						coralyne sulfoacetate
+3820						kenpaullone
+382057						AC1L8IIJ
+382058						AC1L8IIM
+382225						phosphinic acid, [1-amino-(3-methylthio)propyl]methyl-
+382237						phosphinic acid, (aminophenylmethyl)methyl-
+382513						aclacinomycin x
+382514						polyozellin
+382552						phosphonium, 1,8-octanediylbis[triphenyl-, diiodide
+382926						1-octene, 3-(bromomethyl)-2,3,7-trichloro-7-methyl-
+383040						n8-actinomycin d
+383043						2-n-propoxyestradiol
+383044						2-i-propoxyestradiol
+383045						2-ethoxyestra-1,3,5-trien-3,17.beta.-diol
+383107						(-)7,8-dihydrocalanolide a
+383117						hexadecylphospho(n-acetyl)-l-serine (nh4 salt)
+383121						dodecylphosphono-l-serine (di-nh4 salt)
+3832						kinetin riboside
+383215						batyl-p-arac
+383342						3-(4-fluorophenyl)-3-(4-acetoxy-2-methylphenyl)phthalide
+383471						(-)-10(s)-isothiocyanoalloaromadendrane
+383738						1h-purin-6-amine, n-(3-methyl-2-butenyl)-9-(2-cyanoethyl)-
+383939						hexadecaminium, n-(chloromethyl)-n,n-dimethyl-, chloride
+384118						phthalene, 1,4-bis(oxiranylmethoxy)-
+384119						9,10-anthracenedione, 1-[(oxiranylmethyl)amino]-
+384235						2-ethylaminoestradiol
+384246						9-acridimine, n-[2-[(2-hydroxyethyl)amino]ethyl]-1-nitro-
+384251						9-acridimine, n-(3-hydroxypropyl)-7-methoxy-1-nitro-
+384253						hexanoic acid, 6-[(7-methoxy-1-nitro-9-acridinyl)amino]-
+384346						calystegine b2
+384347						casuarine
+384359						stereoisomer of nsc 674067-p
+3843668						s-n-(phenethylthiocarbamoyl)-l-glutathione
+384403						4-(1-isobutyloxypropen-2-yl-)-2-methoxyphenylisobutyrat
+384444						2,7-bis(methoxycarbonylmethyl)-10-methylphenothiazine
+384474						pyrazino[1,2-a]benzimidazole, 1,3-diphenyl-
+384481						ap751
+384502						3,6-dimethylthio-dihydrotetrazine
+384503						1,4-dimethoxy-7-bromo-5h-benzocycloheptene
+384504						3,6-dimethylthio-1,2,4,5-tetrazine
+384525						benzothiazole
+384526						benzothiazole, 2-(4-amino-3-iodophenyl)-
+38475						corioflavine r
+3847619						(+-)-3-bromomethyl-2,3-dichloro-7-methyl-1-octene
+384792						2-(diiodomethylidene)cyclohexanone
+384835						2-(chloromethyl)-6-hydroxy-1-(methylsulphonyl)-indoline
+384878						di-o-methylthujaplicatin methyl ether
+384882						uvidin a
+385060						1,3-dithiolo[3,4-d]pyrimidine-2-thione, 5,7-dichloro-
+385071						2-(4-chloroacetylaminophenyl)benzothiazole
+3851247						gramicidin
+385372						10h-phenothiazine, 1,3,4-trifluoro-2-nitro-
+385374						2,5-bis(3-amino-2,4,6-trinitrophenyl)-1,3,4-thiadiazole
+385441						arq monoacetate
+385874						uracil, 3-methyl-6-(phenylhydrazino)-
+385941						n,n-(fluorodinitroethyl)-n'-fluorodinitroethylurea
+386223						diindolo[2,3-a:3,2-h]quinolizine
+386233						3.beta.-hydroxy-16.beta.-morpholino-5-androsten-17-one
+386271						1,4-bis-[(3'-n-morpholino)propylamino]anthraquinone
+386272						4-(2-oxo-2-phenylethoxy)-2h-1-benzopyran-2-one
+386319						meliternix
+386320						melitertin
+386322						melisimplexin
+386323						melibentin
+386325						5,8-dihydroxy-6,7,3-trimethoxy-3',4'-methylenedioxyflavone
+386367						3-(4-chloro-phenoxy)-4-phenyl-7-acetoxy-coumarin
+386384						l-lys-l-p-no2phe-l-ala-l-p-no2phenh2
+386463						phosphonium, ethyldiphenyl(phenylethynyl)-, iodide
+386476						2-cyclobuten-1-one, 4,4-dichloro-2,3-diphenyl-
+386477						1-cyclobuten-3-one, 4,4-dichloro-1-pentyl-
+386483						fiau
+386488						2'-azido-2'-deoxycytidine
+386489						2'-azido-2'-deoxyuridine
+386576						1,8-phthyridin-4(1h)-one, 2-(4-fluorophenyl)-5-methyl-
+386577						1,8-phthyridin-4(1h)-one, 2-(4-fluorophenyl)-6-methyl-
+386586						1,8-phthyridin-4(1h)-one, 2-(3-chlorophenyl)-
+386587						1,8-phthyridin-4(1h)-one, 2-(3-chlorophenyl)-5-methyl-
+386588						1,8-phthyridin-4(1h)-one, 2-(3-chlorophenyl)-6-methyl-
+386721						n-[4-(2-pyrrolidinoethoxy)phenyl]-3-nitro-1,8-phthalimide
+386722						n-[2,4-dinitro-1-anilino]-3-nitro-1,8-phthalimide
+386752						2-ethoxy-6-keto-estradiol
+386773						1-cyano-7-[3-oxo-butyl]-2,3,7-triazabicyclo[3.3.0]oct-2-ene
+386859						boc-leu-ser(oet)-nh2
+386865						boc-phe-phe-ala-obzl
+386867						boc-gly-leu-met-nme2
+386869						boc-gly-phe-leu-oet
+386870						z(ome)-gly-d-ala-phe-obzl
+386917						5,8-quinolinedione, 7-[(2,2-diphenylethyl)amino]-
+386922						ochraceolide a
+387004						benzenepropanoic acid, 2,5-dihydroxy-, 2-phenylethylester
+387042						adaphostin
+387116						1,8-phthyridin-3-amine, 2,7-dichloro-5-methyl-
+387176						[(5-oxo-5h-benzocyclohepten-4-yl)oxy]acetic acid
+387179						salicylaldehyde, 5-bromo- (8ci)
+387182						n-methyl-2,3,8-trimethoxybenzo[c]phenthridinium iodide
+387184						picramnioside c
+387188						1-penten-4-yn-3-one, 5-(2,4-dimethoxypyrimidin-5-yl)-
+387352						acetic acid, [1,4,7,10-tetraazacyclododecane-1,7-diyl]bis
+387397						antcin b
+387460						1,3-diphenyl-4-phosphoranylideneamino-uracil
+387467						1,3,6-triphenyl-oxazolo(5,4-d)pyrimidin-2',4(1h,3h)-dion
+387473						4'-azido-3-nitro-1-methyl-2-quinolone
+387478						2,3-diazido-phelen-1-on
+387480						1,3-dimethyl-5-nitro-4-phosphoranylideneamino-uracil
+387483						1-azido-2-acetyl-benzo(ii)quinolizin-3-one
+387486						9-chlor-2-phenyl-oxazolo(4,5-c)quinolin-4-one
+387541						uracil, 1-(1-adamantylcarboxamido)-5-fluoro-
+387647						Camptothecin Derivative
+387651						Camptothecin Derivative
+387661						2,3,17.beta.-triacetyloxyestra-1,3,5(10)-triene
+3877						bch-189
+387769						benzo[1,2-b:4,5-b']dithiophene-4,8-dione, 2,7-dinitro-
+38777						Soluble Baker's Antifol
+387770						benzo[1,2-b:4,5-b']dithiophene-4,8-dione, 2-nitro-
+387771						benzo[1,2-b:4,5-b']dithiophene, 4,8-diethoxy-
+3879						allocor
+387914						methyl isonuapauanoate
+387948						aniline, 2-bromo-4-(2-benzothiazolyl)-
+387950						2-(4-amino-3-chlorophenyl)benzothiazole
+387973						3-(4-fluorophenyl)-3-(4-hydroxy-2-methylphenyl)phthalide
+387979						aurantimycin b
+387981						kumusine
+387996						1-pentanol, 5-(9-acridinylamino)-
+388008						2-(1-propynyl)-3,17.beta.-estradiol
+388023						benzo[1,2-b:4,5-b']dithiophene-4,8-dione, 2-acetyl-
+388027						benzo[1,2-b:5,4-b']dithiophene-4,8-dione, 2,5-diacetyl-
+388028						benzo[1,2-b:5,4-b']dithiophene-4,8-dione, 2-acetyl-
+388030						tetra-p-anisidyl-oxalamidine
+388033						thiazolo[4,5-d]pyridazine, 4-chloro-2-phenyl-
+388044						2,4-diethoxyestra-1,3,5(10)trien-3,17.beta.-diol
+388098						cardenolide 2
+388134						2,4,16-tribromoestra-1,3,5(10)-trien-3-ol-17-one
+388300						withafastuosin d diacetate
+388301						benzo[1,2-b:4,5-b']-dithiophene-4,8-dione, 2,6-dinitro-
+388303						benzo[1,2-b:4,5-b']dithiophene-4,8-diol, dipropiote
+388305						5,8-quinolinedione, 2-methyl-
+388354						2-(p-toluene sulfonyl)-l-glutamic acid hydrazide
+388355						2-(p-toluene sulfonyl)-l-glutamic acid phenyl hydrazide
+38845						nitidine, methoxydihydro
+3885						Lapachone
+388671						estra-1,3,5(10)-triene-3,6,17.beta.-triol, 2-ethoxy-
+388732						9h-quino[4,3,2-de][1,10]phenthrolin-9-one, 5-methoxy-
+388733						9h-quino[4,3,2-de][1,10]phenthrolin-9-one, 10-methoxy-
+388734						5h-quino[6,7,8-ij][2,7]phthridin-5-one
+388844						1h-imidazole-4-carboxamide, 5-thiocyato-
+388876						7h-5,6-dithioleno[4,3-d]uracil
+388906						methanethione, bis(4-methyl-1-piperazinyl)-
+388985						1-(4'-phthalimidopropyl-carbonyl)-5-fluorouracil
+388992						2-ethoxy-6,7-dehydroestra-1,3,5(10)-trien-3,17.beta.-diol
+388993						methyl 4-[2-[4-bromo-2,5-dihydroxyphenyl]ethyl]benzoate
+389017						22-hydroxytingenone
+389064						5,8-quinolinedione, 2-chloro-6-methoxy-4-methyl-7-propyl-
+38911						ciclopirox olamine(usan)
+389286						noac
+389288						isopropyl 4-[2-[4-bromo-2,5-dihydroxyphenyl]ethyl]benzoate
+389321						3-chloromethyl-6-hydroxyamino-1-(methanesulfonyl)indoline
+389377						2,6-dihydroxy-9-(5'-nitropyridine)-9h-purine
+3894						Lavendustin A
+389710						Aminoflavone
+389767						purino[7,8-a]quizoline-5,9,11-trione, 6,8,10-trimethyl-
+389885						salvilenone
+3899						Leflunomide
+389971						3,4-dimethylbenzo[g]quinoline-4,10-dione
+390166						acridine, 9-[5-(ethylthio)-1,3,4-thiadiazol-2-yl]-
+390520						artocarpetin a
+390547						1-benzyloxymethyl-6-nitro-2,4(1h,3h)-quizolinedione
+390550						3-benzyloxymethyl-5-bromo-4(3h)-quizalone, hydrochloride
+390616						cyclo(d-glu-d-arg-l-trp-d-glu-d-asp)
+390665						isopintal
+390666						7,8-dehydrocalotropin
+390892						acriflavine hydrochloride
+390986						calcein am
+390989						1h-pyrido[4,3,2-mn]thiazolo[4,5-b]acridin-9-one
+391020						conyzenol-19-succite
+391132						acetophenone, 4'-[[2,5-dihydroxyphenyl)methyl]amino]-
+391209						6h-pyrido[2,3,4-kl]acridin-6-one, 4-methoxy-
+391305						antineoplastic-690268
+391306						antineoplastic-690269
+391307						antineoplastic-690270
+391308						antineoplastic-690271
+391317						15-oxozoapatlin
+391578						(-)-avarol
+392175						5-hydroxy-dehydroiso-.alpha.-lapachone
+392389						callipeltin a
+392619						2-(5-methoxy-1-methyl-4,7-dioxoindol-3-yl)-4-methylthiazole
+392620						2-(5-amino-1-methyl-4,7-dioxoindol-3-yl)-4-methylthiazole
+392621						4-(5-methoxy-1-methyl-4,7-dioxoindol-3-yl)-2-methylthiazole
+392622						Ritovir
+3926765						M-AMSA
+392732						elisabethasin a
+392793						3,3'-bi-1h-indole, 2,2'-dipropyl-
+392839						n-(3-tosylthiophen-2-yl)benzamide
+392859						8-quinolinol, 7-[(1-pyrrolidinyl)methyl]-, dihydrochloride
+392893						phtho[2,3-b]thiophene-4,9-dione, 2-acetyl-
+392894						phtho[2,3-b]thiophene-4,9-dione, 3-acetyl-
+392895						phtho[2,3-b]thiophene-4,9-dione, 2,7-diacetyl-
+392916						benzenemethanol, 2-amino-3,5-dimethyl-
+393038						4-chloro-5-nitro-1h-indazole
+393099						4-[n-(4-amino-4-deoxy-n10-methylpteroyl)aminobutanoic acid
+393101						2,4-diamino-7-(4-chloroanilino)methylpteridine
+393104						benz[b]acridine-6,11-dione, 12,12'-(3,5-pyridinediyl)bis-
+393111						BN-2629
+3933957						carbanilide, n-benzylthio- (8ci)
+393461						asimicinone
+393462						trilobacinone
+393466						longimicin a
+393467						longimicin d
+393471						annocin a
+393472						muricatetrocin b
+393476						squamone
+393532						amino mmi-s02 ci
+393538						amino mbf-cl
+393632						1h-quinoxalin-2-one, 3-(bromomethyl)-7-(trifluoromethyl)-
+393649						benzo[1,2-b:4,5-b']dithiophene-4,8-diol, diacetate
+393670						ethyl 3-nitroanthranilate
+393732						2-propyn-1-one, 3-(2,4-dimethoxy-5-pyrimidinyl)-1-phenyl-
+393791						n-(4-amino-4-deoxy-n10-methypteroyl)-d,l-homocysteic acid
+3938248						thioguanosine
+393901						1h-1,4,7-triazonine-1,4-diacetic acid, octahydro-
+393955						nitro-mbf-cl
+393956						nitro mbf-so2-cl
+393957						nitro mmi-cl
+394229						taylor d
+394230						taylor e
+394346						6-methyl-2-[(2,4-dinitrophenyl)thio]-4-(1h)-pyrimidinone
+394347						RH1
+394397						tizoxanide
+394449						2-nitro-5-p-toluenesulfonylfuran
+394476						cu(ii)2(3,5-diisopropylacetyl salicylate).2h2o
+394648						4,4'-dimethoxy-2,5-dienone
+394652						5'-formyl-2,5-bis(2'-selenyl)-n-methylpyrrol
+394653						5'-hydromethyl-2,5-bis-(2'selenyl)-n-methylpyrrol
+3950						Lomustine
+395002						5-acetoxypalisadin b
+395053						1-(benzyloxymethyl)-5-(4-bromophenylamino)uracil
+395054						1-(2-phenoxyethyl)-5-(phenylamino)uracil
+395056						1,3-di(2-phenoxyethyl)-5-(2-methylphenylamino)uracil
+395057						1-(2-phenoxyethyl)-5-(3-methylphenylamino)uracil
+395058						1,3-di(2-phenoxyethyl)-5-(3-methylphenylamino)uracil
+395188						epidoxoform
+395229						acetonitrile, 2-benzothiazolyl(2-chloro-4-pyrimidinyl)-
+395426						roserine
+395433						5,8-dimethoxy-4-methylquinoline
+395475						diazomide a
+395619						norhomohalichondrin b
+395620						homohalichondrin b diacetate 19,26-diketone
+395622						homohalichondrin b aldehyde
+395624						homohalichondrin b 26-diol
+3957						Loratadine
+395705						2-methylaminoestra-2,5(10)-dien-1,4,17-trione
+395706						10.beta.-hydroxy-17.beta.-acetoxyestra-1,4-dien-3-one
+395745						1h-phenthro[9,10-d]imidazole, 4,11-dimethoxy-
+395755						ptilomycalin a format salt
+395803						trapoxin b
+395859						4h-cyclopenta[c]thiophen-4-one, 1,3-dichloro-
+395928						aceanthryleno[1,2-b]quinoxaline, 12-nitro-
+396286						4h,9h-phtho[2,3-b]furan-2-carboxaldehyde, 4,9-dioxo-
+396287						phtho[2,3-b]furan-4,9-dione, 2-bromo-
+396306						4(3h)-quizolinone, 2,2'-thiobis[3-amino-
+396354						7-epi-3,4-bis-nor-dolastatin 11
+396365						bipintin h
+396366						bipintin i
+396573						3,5'-diformyl-2,5-bis-(2'-thienyl)-pyrrol
+396684						cartilagineol
+396685						mailione
+396813						4-(5-fluorobenzo[d]thiazol-2-yl)-2-methyl aniline
+397016						2-(4-amino-3-methylphenyl)-7-hydroxybenzothiazole
+397074						2h-1-benzopyran-2-one, 3-(5-phenyl-1,3,4-thiadiazol-2-yl)-
+397084						2h-1-benzopyran-3-carboxamide, 2-imino-n-(2-thiazolyl)-
+397086						2h-1-benzopyran-3-carboxamide, 2-imino-n-(1-adamantyl)-
+397216						indolo[3,4-d]benzazepin-6(5h)-one, 9-cyano-7,12-dihydro-
+3973						LY-294002
+397427						ap5p197
+397482						1h-benzo[a]carbazole-1,4(11h)-dione, 11-(2-nitrophenyl)-
+397485						kuanoniamine c
+397486						faradiol
+397551						1h-indole, 5-bromo-3-[2-(2-pyridinyl)-4-thiazolyl]-
+397601						1,2-bis[bis(2-methylthiophenyl)phosphino]ethane
+397856						remangilone c
+397877						3,4-seco-d:b-friedobacchara-4,21-dien-3.beta.-ol
+397878						3,4-seco-d:b-friedobacchara-4,21-dien-3.beta.-ol acetate
+397887						Indenoisoquinoline derivative
+397904						1,6-bis[4-(4-aminophenoxy)phenyl]diamantane
+397906						1,6-bis[4-(3-hydroxy-4-aminophenoxy)phenyl]diamantane
+397908						1,3-bis[4-(4-aminophenoxy)phenyl]adamantane
+397910						1,3-bis[4-(3-hydroxy-4-aminophenoxy)phenyl]adamantane
+397928						tortuosine
+397932						arnidiol
+398038						cadambine
+398040						(8-8a),(8'-8'a)-tetradehydroisocalycanthine 3'a(r),3'a(r)
+398123						n-methyl-2-(2-hydroxybutyl)-6-(2-hydroxypentyl)-piperidine
+398148						2,6-diamino-4-cyclohexylmethoxy-5-nitrosopyrimidine
+398149						2-amino-6-cyclohexylmethoxy-n(sup 9)-methylpurine
+398330						piperazine-2,2,5,5-tetracarbonitrile, 3,6-dipropyl-
+398464						cbz-[lys3]-didemnin b
+398525						3-bromoacetamido-benzoylurea
+398526						3-iodoacetamido-benzoylurea
+398527						4-bromoacetamido-benzoylurea
+398528						3-chloroacetamido-benzoic acid ethyl ester
+398529						3-bromoacetamido-benzoic acid ethyl ester
+398530						3-iodoacetamido-benzoic acid ethyl ester
+398555						pancratistatin,1-o-(3-hydroxybutyryl)-
+398556						1-o-(3-o-.beta.-d-glucopyranosylbutyryl)pancratistatin
+398641						bulbophyllanthrone
+398788						dehydroglaucine
+398793						neferine
+398800						cimiaceroside a
+398933						Camptothecin Derivative
+398936						flexinine
+398943						decipidone
+39914						massoia lactone
+399180						23-o-acetylshengmanol xyloside
+399181						(24s)-24-o-acetyl,-7,8-didehydroshengmanol xyloside
+399203						6-hydroxyundulatine
+399208						cirensenoxide g
+399246						landomycin e
+399374						digitonin
+399421						obtusol
+399425						1-decarboxy-3-oxo-ceanothic acid
+399457						PX-316
+399488						artelastin
+399491						artocarpesin
+399493						bryodulcosigenin
+399494						cabenoside d
+399587						AFP464
+399698						n-bromoacetyltryptamine
+399961						3,3-bis[4-(4-aminoiphenoxy)phenyl]diamantane
+399962						3,3-bis[4-(4-amino-3-hydroxyphenoxy)phenyl]diamantane
+399965						2,2-bis(4-aminophenyl)adamantane
+399966						2,2-bis[4-(4-aminophenoxy)phenyl]adamantane
+399967						1,3-bis(4-aminophenyl)adamantane
+400072						1'-acetoxychavicol acetate
+400167						2-(4-amino-3-mehtylphenyl)-7-fluorobenzothiazole
+400168						2-(4-amino-3-methylphenyl)-5,6-difluorobenzothiazole
+400452						bromodeoxytopsentin
+400460						didemnin b aminomethylene
+400461						10-amino-7-trimethylsilylethylcamptothecin
+400499						phosphine, [2-(dipyridinylphosphino)ethyl]diphenyl-
+400501						ambewelamide a
+400502						sodagnitin a
+400503						sodagnitin c
+400530						1,2 benzo-8-(1-hydroxy-2-methylamino propane)-3-phenoxazone
+400577						benzotriazole, 1-(p-methoxyphenylethynyl)
+400634						10-(diiodomethylene)-9(10)-phenthrenone
+400719						crambescidin 800 trihydrochloride
+400721						triacetyl crambescidin 800 hydrochloride
+400769						Bardoxolone Methyl
+400843						2-butyne, 1,4-bis(phenylsulfonyl)-
+401057						Rebimastat
+401172						dehydrotamandarin-a
+401296						funkiosid h
+401298						purpureagitosid
+401426						11-hydroxyusambarine chlorhydrate
+401429						pervilleanone
+401430						3'-o-demethylpervilleanone
+401571						benzoxazole, 5-chloro-2-(chloromethyl)-
+4016						mastoparan
+401659						2-methoxyestra-2,5(10)-dien-1,4,17-trione
+401660						17.beta.-hydroxy-2-methoxyestra-2,5(10)-dien-1,4-dione
+402519						rogiolol
+402595						11-hydroxyvittatine
+402598						pancracine
+402633						n-benzyl-indole-3-carbinol
+40304						fagaronine chloride
+4033						Mechlorethamine
+4033014						sangivamycin, 6-aminothio-
+403336						2-[(phenylamino)methyl]benzene-1,4-diol
+403337						methyl 5-[2-(2,5-dimethoxyphenyl)ethynyl]-2-methoxybenzoate
+403768						ma'iliohydrin
+403771						6a-hydroxysalvinolone
+403789						1-(phenylethynyl)-1,2-benziodazole-3-(1h)-one
+403790						3-(methyl-s-glutathionyl)oxindole-diethyl ester
+403815						6-prenylchrysoeriol
+403919						bisabolene peh-iii g3
+403983						s-(dimethylarsino)-thiomercaptosuccinic acid
+403993						3-acetyl-6-hydroxy-4-phenylbenzo[4,5]furo[2,3-b]pyridine
+404144						4-fluoro-2-(4-amino-3-cyanophenyl)benzothiazole
+404145						6-fluoro-2-(4-amino-3-cyanophenyl)benzothiazole
+404146						2-(4-amino-3-(phenylacetylenyl)phenyl)benzothiazole
+404147						2-(4-amino-3-(trimethylsilylaceylenyl)phenyl)benzothiazole
+404207						1-(4-nitrophenyl)-3-methyl-6,7-methylenedioxy-isoquinoline
+404215						2.beta.,3.beta.-epoxyestr-5(10)-en-1,4,17-trione
+404331						cis-n-(1'-phenyl)-3-acetoxy-4-phenthrenyl-2-azetidinone
+404386						oncocalyxone a
+404563						3,3',5,5'-tetramethyl-n,n-bis(pyrazol-1-ylmethyl)aniline
+404571						3-(3-hydroxy-4-methoxybenzyl)-5,7-dihydroxychroman-4-one
+404572						3-(4-hydroxybenzyl)-5,7-dihydroxy-6-methoxychroman-4-one
+404573						3-(4-methoxybenzyl)-5,7-dimethoxychroman-4-one
+404586						2-[4-(methoxy)phenoxy]-3-phenyl-5,7-diamminoquinoxaline
+404608						3,4-diacetoxyestra-1,3,5(10),9(11)-tetraen-17-one
+404631						3.beta.-preg-5,20-diene-.beta.-d-xylopyranoside
+404646						1.beta.,2.alpha.,3.beta.,11.alpha.,-tetrahydroxy-urs-12-ene
+404696						5-(p-chlorophenyl)-6,7-dihidrotieno(2,3-c)pyridin-7-one
+404725						6-iodo-3-(phenylamino)-2-(2-thieny)-3h-quizolin-4-one
+404775						4-ethylthio-6-iodo-2-(2-thienyl)quizoline
+404813						2-s-dimethylarsino-2-thiobenzoic acid
+404835						o-methyl antimycin a1
+404838						tremulacin
+404854						5-hydroxy-6, 7-dimethoxy-3-(4'-hydroxybenzyl)-4-chromanone
+404859						1,4-di-n-oxide-2-acethyl-3-bromomethylquinoxali
+404937						3-acetoxymethyl-1-methyl-5-methoxyindole-4,7-dione
+404979						protoleucomelone
+404981						sarcodonin peracetate
+404991						5-fluoro-2-(3-hydroxyphenyl)benzothiazole
+404992						5-fluoro-2-(3-hydroxy-4-methoxy)benzothiazole
+404996						5-fluoro-2-(3,5-dimethoxyphenyl)benzothiazole
+405007						4-benzothiazol-2-yl-2-ethynyl-phenylamine
+405069						dariparsin pyridinium hyrochloride
+405098						(-)-dibenzylnortrachelogenin
+405100						8,8'-(3,3'-dimethoxybenzyl)-8-hydroxy-butyrolacton
+405167						n-(4-fluoro-3-nitrophenyl)sydnone
+405169						n-(4-chloro-3-nitrophenyl)sydnone
+405235						2-(3',3'-dimethylbut-1'-ynyl)-4,6-dimethoxy-1,3,5-triazine
+405236						2-(5'-cyanopent-1'-ynyl)-4,6-dimethoxy-1,3,5-triazine
+405237						2-cyclohexylethynyl-4,6-dimethoxy-1,3,5-triazine
+405239						2-(4'-hydroxypent-1'-ynyl)-4,6-dimethoxy-1,3,5-triazine
+405263						pyrido[1',2':1,2]pyrimido[4,5-b]indole, 12-propyl
+405305						3-chloro-4-(4-chlorophenyl)-5h-furan-2-one
+405315						2-(4-ethylpiperazinyl)3-p-methoxybenzoyl quinoxaline
+405328						8,11-dichlorocryptolepine hydrochloride
+405330						6,7-difluorocryptolepine hydrochloride
+405421						Saquivir Mesylate
+405448						dabequine
+4055						kipca
+405501						maleimide carbazole
+405502						maleimide carbazole
+405572						4,6-diethylthiopyrazolo[3,4-d]pyrimidine
+405580						4-amino-6-ethylthio-1-methylpyrazolo[3,4-d]pyrimidine
+405595						6-ethylthio-4-morpholinopyrazolo[3,4-d]pyrimidine
+405596						4-amino-1-methyl-6-piperidinopyrazolo[3,4-d]pyrimidine
+405626						2-(4-chloro-benzyl)-1h-phth[2,3-d]imidazole
+405627						2-(3,4-dichloro-benzyl)-1h-phth[2,3-d]imidazole
+405628						2-(4-trifluoromethyl-benzyl)-1h-phth[2,3-d]imidazole
+405659						6-benzylthio-4-morpholinopyrazolo[3,4-d]pyrimidine
+405722						2,4-dimethoxy-6-(3'-fluorophenyl)-1,3,5-triazine
+405748						4-(3-carboxy-quinoxalin-2-yl)-oxyphenylacetyl acid
+405750						4-(3-phenylquinoxalin-2-yl)-oxyphenylacetic acid
+405769						4-chloro-6,7-dimethoxy-2-(2-thienyl)quizoline
+405774						6-bromo-4-[(3-bromophenyl)amino]-2-(2-thienyl)quizoline
+405826						1-(2,3-dichlorophenyl)-3,4,4-trichloro-but-3-en-1-one
+405828						3,3,4,4,4-pentachloro-1-phenylbutan-1-one
+405832						4,4-bis(3,5-dimethylpyrazole)-1,1-dichloro-but-3-ene-2-one
+405834						n-phenyl-3,4,4-trichlorobut-3-emide
+40586						omycin
+405931						1-chloro-5-methyl-indenopyrrol[2,3-d]pyridazine
+405972						iodide
+405974						iodide
+405976						iodide
+406017						5-benzyl-5,6,7,8-tetrahydro-indeno[1,2-b]indole-9,10-dione
+406027						1,4-di-n-oxide-2-etoxycarbonyl-3-trifluormethylquinoxaline.
+406081						methyl 5-chloropyrazinoate
+406083						5-chloro-pyrazine-2-carboxylic acid tert-butyl ester
+406084						5-chloro-pyrazine-2-carboxylic acid hexylamide
+406085						5-chloro-pyrazine-2-carboxylic acid benzylamide
+406195						2-[(2-thiazolyl)amino]ethyl-3,5,6-trichlorohydroquinone
+406197						2-[2-(6-quinolinylamino)ethyl]-3,5,6-trichlorohydroq1uinone
+406205						phenylpyrimidine
+406207						phenylpyrimidine
+406212						phenylpyrimidine
+406245						3-(2,5-dimethoxy-phenylsulfanyl)-1,3-diphenyl-propan-1-one
+406270						pyrazol-f
+406276						aminopyrimidine-f
+406278						aminopyrimidine-ch3
+406328						3-(3,4-dimethoxyphenyl)-8-methoxyisocoumarin
+406333						3-bromo-4-(3-chloro-4-methoxyphenyl)-2(5h)-furanone
+406395						ethyl 4-diethylamino-5-phenyl-1h-pyrazole-3-carboxylat
+406459						2-(4-phenylsulfanyl-benzyl)-1h-phth[2,3-d]imidazole
+406462						6-hydroxy-3-methoxy-4-phenylbenzo[4,5]furo[2,3-b]pyridine
+406475						s-(dimethylarsino)-3-mercapto-1,2-propanediol
+406476						s-(diethylarsino)-3-mercapto-1,2-propanediol
+406477						s-(dipropylarsino)-3-mercapto-1,2-propanediol
+406478						s-(diisopropylarsino)-3-mercapto-1,2-propanediol
+406479						s-(dimethylarsino)-3-mercapto-1,2-propyl diacetate
+406480						s-(dimethylarsino)-3-mercapto-1,2-propyl dinonoate
+406481						s-(dimethylarsino)-3-mercapto-1,2-propyl dibenzoate
+406495						yliedene dicyano
+406496						cyano pyridine -p-ch3
+406497						cyanopyridine - och3
+406532						pyrazolines
+406582						5-benzyl-9-hydroxy-5h-indeno[1,2-b]indol-10-one
+406608						1,4-di-n-oxide-2-acethyl-3-trifluoromethylquinoxaline
+406614						1-methyl-1h-4,5,6,7,8-pentahia-1-aza-azulene
+406624						2-[(3,4-dimethoxy)anilino]-3-phenyl-5,7-diaminoquinoxaline
+406685						4-amino-6-butylmercaptopyrazolo[3,4-d]pyrimidine
+406689						4-amino-6-ethylmercapto purazolo[3,4-d]pyrimidine
+406693						4-amino-6-benzyloxypyrazolo[3,4-d]pyrimidine
+406781						1-(3-fluoro-phenyl)-4-phenyl-1h-pyrimidine-2-thione
+406930						phenylpurine phosphoroamidate ester
+407582						adigal
+407583						latoside b
+407617						mauve
+40854						oxfendazole (usan)
+409071						cinerubin b
+40926						Pentostatin
+410191						2,3-quinizarindicarbonitrile
+4112						d-amethopterin
+4122						nocodazole
+412232						olivomycin
+415676						thioflavine s
+415852						4-amino-1-benzylpiperidine
+416706						Cortivazol
+41684						Nitazoxanide
+416926						p-diazodiphenylamine sulfate-paraformaldehyde polymer
+417182						vilangin
+417256						etamycin
+417291						ardisin
+41744						Valrubicin
+417553						hellebrin
+417662						fastigilin b
+418098						bromochloromethotrexate
+418099						monobromomethotrexate
+418553						catharanthine hcl
+418587						.beta.-rhodomycin
+418710						cyclamin
+4187155						5-benzo[b]thiophen-3-yl-1h-indole-3-carbaldehyde
+419026						daunomycinon
+419263						quispar
+41945						Spirohydantoin Mustard
+420441						l-cysteine, s-[tris(4-methylphenyl)methyl]- (9ci)
+420442						l-cysteine, s-[(4-fluorophenyl)diphenylmethyl]- (9ci)
+420454						l-cysteine, s-[(4-methoxyphenyl)diphenylmethyl]-
+420455						l-cysteine, s-(2-phthalenyldiphenylmethyl)- (9ci)
+420691						l-cysteine, s-[(4-bromophenyl)diphenylmethyl]- (9ci)
+420763						desmethoxy-b-peltatin-a methyl ether
+4208						Mitozolomide
+4208664						inosine, 6-thio-, 2',3',5'-tripentanoate
+4211						Dacarbazine
+4212						Mitoxantrone
+421299						Aminopterin Derivative
+4213						bredinin
+421455						Aminopterin Derivative
+421508						isariin
+421884						Emofolin Sodium
+422111						anguidin
+422454						eriolanin
+422708						adiantifoline
+422920						bleomycin a5, sulfate
+4230						mmp-9/mmp-13 inhibitor ll calbiochem cat. no. 444253
+423076						bleomycin fraction blm-hpe
+424723						Asaley
+425430						Methotrexate Derivative
+425433						mercury, chloro-2-phthalenyl-
+42559						1,8-octanediamine, n,n'-di-9-acridinyl- (9ci)
+425954						zaluzanin c
+42611257						Vemurafenib
+42616						AZQ
+426244						Aminopterin Derivative
+426395						funiferine
+42640						wln: t56 bnonj bo fnw i- at6n dntj d1
+42642645					foretinib.	
+426672						e-rhodomycinone
+427204						thalictropine
+42722						Elliptinium Acetate
+42725						Diline
+428373						destruxin b
+428489						ailanthinone
+42875						n,n'-di-9-acridinyl-1,6-hexanediamine
+428786						cinerubin a hydrochloride
+429117						julimycin b2
+42917116						phenthroline hydrochloride
+429184						autumnolide
+429307						1-hydroxy-3-adamantaneacetic acid
+429314						gnidimacrin (g-1)
+429598						bouvardin
+429599						deoxybouvardin
+4297981						9h-quino[4,3,2-de][1,10]phenthrolin-9-one, 2-methyl-
+429905						psorspermin
+430475						Tetraplatin
+430839						kaurane deriv
+431194						chaparrinone, 6a-senecioyloxy
+431594						bleomycin bapp
+431677						pyrodelphinine
+431962						trichopolyn
+432153						leurosine n-oxide
+432952						oridonin (thiol adduct of)
+4329919						thiourea, n,n''-(4,5-dimethyl-1,2-phenylene)bis[n-phenyl-
+433158						rohituka 7
+433361						withaferin-a diacetate
+433504						1-propylagroclavine tartrate
+433531						physalin b 5,6-epoxide
+433866						physalolactone
+433926						18-acetoxyaphidicolin
+433930						stypoldione
+433996						aphidicolin, 6-b-hydroxy-
+434049						senecioylchaparrin, 6-alpha- (b815099k220)
+434381						margetine
+434786						echinosporin
+4348193						nogalamycin compound b
+434840						antibiotic x-14766a
+434882						2,6-epoxy-2h-1-benzoxocin-5(6h)-one, 6,8-dimethyl-
+434973						Thiocolchicine
+4351018						inosine, 6-thio-, 2',3',5'-tris(4-methoxybenzoate)
+435243						ditercalinium dimethanesulfote dimethanesulfote
+435681						Camptothecin Derivative
+435773						dregeoside ao1
+4369270						echujetin
+437172						berbamine
+43795						wln: t56 bnonj bo fnw i- at6n dntj dr d1
+438410						tetrakis(4-methyltropoloto)thorium(iv)-hydrate
+438492						n-(1-cyano-2-methoxyethyl)doxorubicin, hemihydrate
+438534						1,4-bis(n-cysteinyldiethylamino)-5,8-dihydroxy anthraquinon
+438711						2-[1-(4-(4'-acetophenone)piperazino)]-phthazarin
+438788						11-hydroxy aclacinomycin a
+438789						11-hydroxy aclacinomycin x
+439525						Etoposide
+439647						tpck
+441273						Procarbazine
+441276						Paclitaxel
+44134641						cresyl violet acetate
+44144400						Clothixamide Maleate
+441597						Pancratistatin
+441794						Glaucarubin
+441796						glaucarubinone
+4421615						nitrocresolamine
+44219704						1-benzyl-3-hexadecyl-2-methylimidazolium chloride
+442206						elephantopin
+44225568						14-methoxy-epothilone d
+44310948						auranofin
+44415057						Actinomycin D
+44433919						3-3'-(1h-pyrazole-3,5-diyl)bis(1-methyl-1h-indole)
+44459810						dl-alanosine
+445354						Vitamin A Compound
+445420						latrunculin a
+445434						microcystin lr
+445639						red oil
+446155						fluvastatin
+446541						Mycophenolic Acid
+447106						sparsomysin
+44723280						chlorazin
+4477						mato
+447865						Epothilone D
+448013						(-)-Epothilone B
+448799						epothilon a
+44891382						strophanthoside-k
+4490						nigericin
+45006140						Actinomycin D
+45027820						LMP776
+45027864						alyssonoside
+45027866						myricoside
+45027867						samioside
+45027905						ent-9,17-dihydroxy-16-ketobeyeran-19-oic acid
+45027906						ent-9a,13-dihydroxy-16,17-epoxy-kauran-19-oic acid
+45027931						4-(n-tert-butoxycarbonyl-7-bromoindol-3-yl)but-3-en-2-one
+45027979						phtoindol
+45027984						cyclic arylpyrimidine
+45027985						bisarylpyrimidine
+45028007						5,10-bis-epi-amarine
+45028010						phomopsolide e
+45028011						5-epi-phomopsolide d
+45028013						4-epi-7-aza-phomopsolide e
+45028028						fluorobenzofurano[2,3
+45028038						6a,11a-dihydro-3-methoxy-6h-benzofuro[3,2-c]chromen-8-ol
+45028040						(+)-membrenone b
+45028129						3,3?-(1h-pyrrole-2,5-diyl)bis(5-chloro-1-methyl-1h-indole)
+45028146						6-(phenylethynyl)-5-(3,4,5-trimethoxyphenyl)-2h-pyran-2-one
+45028185						4-(5'-bromofuran-2'-yl)-3-bromo-but-3-en-2-one
+45028187						3,3?-furan-2,5-diylbis(5-methoxy-1-methyl-1h-indole)
+45028198						biphenylpurine
+45028205						methyl (z)-3-(5-bromoindol-3-yl)-2-bromoacrylate
+45028237						acyclic trans-butenebispurine
+45028239						acyclic cis-butenebispurine
+45028240						acyclic butynebispurine
+45028266						ethoxycurcumin trithiadiazolaminomethylcarbonte
+45028268						curcumin tri trithiadiazolaminoethylcarbote
+45028308						bisarylpurine
+45028311						bisarylpurine
+45028373						peptide ptd
+45028382						deca-n-(s)-1-phenyl ethyl b-ala
+45028394						5- fluoro-2'-deoxyuridyly-(3'->5')-3'-c-ethynylcytosine
+45028404						bas100 monohydrate
+45028430						sma-838 (hcl salt of nsc 188491)
+45028539						n-(p-fluorobenzoyl)-paclitaxel
+45028549						5,5'-difluoro-3,3'-dithiobisindole
+45028717						6-(2-hydroxy-3-methoxybenzyl)aminopurine-9-riboside
+45028719						n-methyl-1,5-bis(4-cyanophenoxy)-3-aza-pentane
+45029046						nonnucleoside purine derivatives
+45029271						5-iodo-2-{[(2)-3-phenylprop-2-enoyl]amino}benzamide
+45115528						chelocardin dodecyl sulfate
+45256728						llw15
+4534						Masoprocol
+4567749						9h-quino[4,3,2-de][1,10]phenthrolin-9-one, 2-phenyl-
+457392						l-cysteine alog
+457798						buphanidrine, perchlorate
+4578						O-6-Benzylguanine
+45953						2',5'-salicyloxylidide, 3-nitro-
+4605						uabai
+460612						Melphalan
+461324						veracoquizole
+46151						Colchicine Derivative
+46191705						4-methoxy-2,6-bis[hydroxy(methyl)amino]-1,3,5-triazine
+46197112						isopropyl diethylcarbamo(dithioperoxo)thioate
+46197114						cyclohexyl diethylcarbamo(dithioperoxo)thioate
+462186						Camptothecin Derivative
+462199						saframycin a
+4622						oxibendazole (usan)
+463108						antineoplastic-637578
+46700805						hexyl diethylcarbamo(dithioperoxo)thioate
+46700806						2-hydroxyethyl diethylcarbamo(dithioperoxo)thioate
+46855						aminoanfol
+46863991						Bendamustine
+46911792						1-[2-(3-chlorophenyl)-2-oxoethyl]-2-acetylbenzimidazole
+4696						mycoin
+4735						Pentamidine
+4739544						2-benzimidazolepropionic acid
+4742						Pepstatin
+4775						2-Phenylbutyric Acid
+4784						pmsf
+4830						Pipamperone
+4842						Pipobroman
+4871						pomiferin
+48858						dioxadet
+489614						Camptothecin Derivative
+4912						bisbid
+494023						septacidin
+494043						streptonigrin alog (meo-n3)
+4947						Propyl Gallate
+496212						Camptothecin Derivative
+4996						Pyroxamide
+500000						1h-1,2,4-triazole, 3-(4-diazo-4h-imidazol-5-yl)-
+5003667						5, 7, 4' trimethoxy flavanone
+5004						quilizarin
+5005498						alsterpaullone
+5035						Raloxifene
+5035970						kc 1275
+5043						Rebeccamycin
+50515						Amofide
+5064						Ribavirin
+5097						(r,s)-roscovitine
+50986887						Acodazole Hydrochloride
+50986995						9-deazaadenosine
+5114						ryanodine
+51371311						piroctone olamine (usan)
+5140086						mikanin
+5153						sangivamycin
+518605						Arsenic trioxide
+5199						sennoside a (8ci)
+5201						Sergiolide
+5208						shikonin
+522488						phosphonium, (diphenylmethyl)triphenyl-, bromide
+5228354						kc 516
+5250						salasdine
+5265						spiropitan
+5280389						sterigmatocystin
+5280460						scopoletin
+5280682						ayanin
+5280754						Cyclosporine
+5280784						phytoene
+5280954						rozex
+5281051						cyclosan
+5281078						mycophenolate mofetil (usan)
+5281116						erucic acid
+5281304						Bruceantin
+5281315						cucurbitacin a
+5281316						cucurbitacin b
+5281318						elatericin a
+5281319						cucurbitacin e
+5281321						elatericin b
+5281445						eriolangin
+5281456						euparotin acetate
+5281486						multigilin
+5281545						plumericin
+5281571						purpurogallin
+5281628						ditin
+5281691						rhamnetin
+5281707						cumostrol
+5281730						bikaverin
+5281828						Maytansine
+5281850						rutacridone epoxide
+5281855						lagistase
+5281885						geldamicin
+5282363						p,p'-dihydroxystilbene
+5283035						15deoxy-delta-12,14-pgj2
+5284616						Rapamycin
+5287620						lutin
+5288209						Fenretinide
+5289155						peridinin
+5311281						cytochalasin b
+5312						heptanoic acid, 4,6-dioxo-
+5315773						centaureidin
+5318483						irisquinone
+5319706						linolenic acid methyl ester
+5319944						multistatin
+5320199						noracronine
+5320318						osthenol
+5320815						candidine
+5320945						rhamzin
+53232						Lovastatin
+53277						chaetochromin
+5328552						erbstatin
+5329098						Semaxanib
+53329052						5-methyl-2-{[(2)-3-phenylprop-2-enoyl]amino}benzamide
+53329233						5-chloro-2-{[(2)-3-phenylprop-2-enoyl]amino}benzamide
+53329234						5-bromo-2-{[(2)-3-phenylprop-2-enoyl]amino}benzamide
+5335621						pyr-41
+53361730						1-carbaldehyde-3-(4-methoxy-phenylsulfanyl)-2h-isoindole
+53361731						1-acetyl-3-(4-methoxy-phenylsulfanyl)-2h-isoindole
+5337997						nifuroxazide
+5338						sulquin
+5340						dula
+5351130						chartreusin
+5351141						Acrichine
+5351150						1-piperidineethanol, .alpha.-[p-(p-chlorostyryl)phenyl]-
+5351151						phtho[2,1-b]quinolizinium, 7-methyl- chloride
+5351164						ponticin
+5351178						ergosterol
+5351180						Cytarabine
+5351212						isotetrandrine
+5351215						thiazolo[3,2-f]phenthridinium, 3-phenyl- perchlorate
+5351216						reumycin
+5351221						anthramycin methyl ether
+5351227						indole-2,3-dione, 3-[(pentafluorophenyl)hydrazone]
+5351229						indole-2,3-dione, 5-methyl-, 3-[(o-nitrophenyl)hydrazone]
+5351236						rhodomycin a
+5351239						Sangivamycin Hydrochloride
+5351245						sulfonium, tri-p-tolyl-, chloride
+5351247						sorot
+5351254						hydroxy at 125
+5351255						benzoxazole, 2-[2-(1,3-benzodioxol-5-yl)ethenyl]-, (z)-
+5351257						5-ms
+5351272						rifamycin, 1,4-dideoxy-1,4-dihydro-1,4-dioxo-, 21-formate
+5351276						n,n-dimethyldaunomycin hydrochloride
+5351280						Dihydro-5-azacytidine
+5351283						acetic acid, [[(4-methoxyphenyl)sulfonyl]hydrazono]- (9ci)
+5351284						N,N-Dibenzyldaunorubicin
+5351290						thalicarpine transformation product
+5351303						cytochalasin h
+5351306						manicol
+5351323						lycobetaine
+5351332						antineoplastic-376265
+5351344						combretastatin a4
+5351347						mx2 hcl
+5351386						antineoplastic-643001
+5351425						2-propenenitrile, 3-[3-(dimethylamino)phenyl]-2-phenyl-
+5351454						Puromycin
+5351462						berberal
+5351474						fumidil
+5351497						sempervirine, nitrate
+5351541						morphothebaine, hydrochloride
+5351548						carbomycin
+5351560						Chromomycin A3
+5351594						toddalin
+5351598						ossamycin
+5351603						gluconic acid, barium salt
+5351832						chlorprothixene hydrochloride
+5351878						indanthren corinth rk
+5351961						fekrom blue xr
+5351989						laudanosolinium, 2-methyl-, bromide (.+-.)-
+5352001						3,4'-dimethoxychrysin
+5352005						retusin (van)
+5352017						ophiobolin
+5352028						neoaureothin
+5352029						Deferoxamine Hydrochloride
+5352042						buddledin c
+5352062						Depsipeptide
+5353772						mezerein
+5354						suloctidil (usan)
+5354042						vermycin a
+5354046						xestin a
+5354107						isatin thiosemicarbazone
+5354119						3-phenyl-1-(2-pyridyl)-2-propen-1-one
+5354204						phenol, 2-methoxy-4-(2-nitropropenyl)-
+5354364						bornyl cinmate
+5355031						butyl maleurate
+5355441						crassin, acetate
+5356030						fabacein
+5356121						chalcone,2-hydroxy-4,6-dimethyl
+5356922						vancide pa
+5357113						Cycliramine Maleate
+5357223						3-[(p-methoxyphenyl)-thiosemicarbazono]-2-indolinone
+5357657						indole-2,3-dione, 3-(4,4-dimethyl-3-thiosemicarbazone)
+5357963						phthalene, 2-(2-nitrovinyl)-
+5357974						borrelidin
+5358372						phthalene, 2,3-dimethoxy-6-(2-nitroethenyl)-
+5358378						antibiotic b 58941b
+5358418						erioflorin acetate
+5358471						hydrogeldamycin-18,21-diacetate
+5358645						baccharin
+5358646						isobaccharin
+5358827						eunicin
+5358848						sinulariolide
+5358914						fcrc57-g
+5358942						pyrimidineacetaldehyde derivative
+5359027						costatone
+5359028						melampodinin
+5359029						enhydrin a
+5359051						alatolid
+5359060						kidamycin
+5359061						neopluramycin
+5359212						melampodin b acetate
+5359485						alterriol
+53630345						epirubicin hydrochloride (usan)
+5363794						Phyllanthoside
+5367146						2-propen-1-one, 3-(2-hydroxyphenyl)-1-phenyl- (9ci)
+5367161						benzonitrile, 4-(3-oxo-3-phenyl-1-propenyl)-
+5369223						styrene, 2,6-dichloro-.beta.-nitro-
+5372499						terrein
+5372879						p-(2-nitropropenyl)anisole
+5374464						Rapamycin
+5375979						nitrin (van)
+5376493						2-(m-nitrostyryl)pyridine
+5377590						quinoline, 4-(p-methoxystyryl)- (8ci)
+5378081						wln:  t56 bn dsj c1u1r dn1&1
+5378293						xantyrid
+5378518						7-hydroxy-3,4'-dimethoxy flavone
+5380575						4-penten-1-ol, 4-nitro-5-(9-phenthryl)-, acetate
+5380731						euparotin
+5380876						senecionine n-oxide
+5381092						Nitromifene Citrate
+5381150						indole-2,3-dione, 3-[(o-nitrophenyl)hydrazone]
+5381287						pederin
+5381443						indole-2,3-dione, 7-methyl-, 3-[(o-nitrophenyl)hydrazone]
+5382554						datiscoside
+5382571						rifamycin, 3-[(4-methyl-1-piperazinyl)methyl]-
+5382674						1,4-pentadien-3-one, 1,5-di-3-pyridyl-
+5383288						isoquildaldehyde, thiosemicarbazone
+5383396						.alpha.-bromochalcone
+5383587						rosamicin
+5383620						tomaymycin
+5384323						flavofungin
+5384465						acetylrolandrolide
+5384466						heliangolide
+5384537						phorbol, diacetyl-12-octadienoyl-4-deoxy-
+5384721						paulomycin a
+5384876						elsamicin
+5385086						piceatannol, 4,3',5'-trimethyl,1s0
+5385089						bafilomycin deriv
+5385553						cosmetin
+5386092						Amphotericin B
+5386303						Rapamycin
+5386397						from combretum caffrum plant
+5386504						bengamide a
+5386517						formamide, n-[2-(3-hydroxyphenyl)ethene-1-yl]-, (e)-
+5386591						ajoene, trans-
+5386627						b817373k389 from combetum caffrum
+5386766						1,1-dimethylethyl methyl diester, (z, e)
+5386805						1-penten-3-one, 5-(4-morpholinyl)-1-phenyl-, hydrochloride
+5387300						11-nitronoracronycin
+5387561						claenone
+5387564						bractein
+5387595						myricoidine picrate
+5387599						suillin
+5387614						ferprenin
+5387723						2-hydroxy discorhabdin d
+5387725						discorhabdin c . tfa
+5387727						discorhabdin c-nitrodienone . tfa
+5387729						discorhabdin c-phenol . tfa
+5387733						discorhabdin c-dienol . tfa
+5387829						4-aza-5.alpha.-cholestano[3,2-c]isoxazole
+5388060						5-[2-(4-ethoxyphenyl)ethenyl]-1,2,3-trimethoxy benzene
+5388061						4-[2-(3,4,5-trimethoxyphenyl)ethenyl(2)]phenol
+5388065						5-[2-(4-methoxyphenyl)ethenyl]-1,2,3-trimethoxy benzene
+5388136						(e)-1-(2,5-dihydroxyphenyl)ethene-2-isonitrile
+5388185						6-o[n-1'-nitroacridyl-9')-.beta.-alanyl]muramyl dipeptide
+5388713						visoltricin
+5388740						(z) 2',3,4,5-tetramethoxystilbene
+5388748						(e)3,4,5-trimethoxy-4'-(1-propoxy)stilbene
+5388749						(z)3,4,5-trimethoxy-4'-ethoxystilbene
+5388756						(z)3,4,5-trimethoxystilbene
+5388767						(z)3,4,5-trimethoxy-4'-methylstilbene
+5388768						(z) 4-bromo-3',4',5'-trimethoxystilbene
+5388769						(z) 4-acetoxy-(3,4',5)-trimethoxystilbene
+5388770						(z) 4-chloro-3',4',5'-trimethoxystilbene
+5388773						(e) 4-.tert.butyldimethylsilyloxy-3,4',5-trimethoxystilbene
+5388774						(z) 3,3',4,5-tetramethoxystilbene
+5388775						(e) 4-acetoxy-3,4',5-trimethoxystilbene
+5388776						(e) 3,4,5-trimethoxy-4'-methylstilbene
+5388778						(z) 4-acetoxy-3',4',5'-trimethoxystilbene
+5388779						(z) 3,4,4',5-tetramethoxystilbene
+5388806						3-piperidinone, 3,5-bis[(3,4-dichlorophenyl)methylene]-
+5388810						streptomyces isolate
+5404						Tercozole
+5418163						hydrazinecarbothioamide, 2-[1-(2-phthalenyl)ethylidene]-
+5420804						Parthenolide
+5430						tecto
+54368						Piritrexim Isethiote
+54454						Simvastatin
+5453						Thiotepa
+5454187						11-chloro-10h-indolo[3,2-b]quinoline
+5455						Thiram
+54569						benfluron
+5458171						Mitoxantrone
+5458217						eupachlorin
+5458218						eupachlorin acetate
+5458234						laureatin
+5458276						Piperazinedione
+5458324						L-Alanosine
+5458339						coralyne, nor, 8-ethyl
+5458344						citreoviridin
+5458357						spicatin
+5458372						etymemazine hydrochloride
+5458376						coralyne, nor
+5458385						cytochalasin e
+5458388						ellipticine, 6-(3-aminopropyl)-9-methoxy-, dihydrochloride
+5458389						ellipticine, 6-(3-aminopropyl)-, dihydrochloride
+5458423						aspiculamycin hcl
+5458488						oudenone k
+5458512						fastigilin a
+5458528						variamycin
+5458572						crassin cinmate
+54586						Edatrexate
+5458646						santoli polyacetylene 18
+5458752						2-methylolivacinium acetate
+5458761						cristatic acid
+5458762						permethyl deriv. of cristatic acid
+5458827						quettamine
+5458841						ellipticine deriv sri-nb-b233-55-29
+5458843						iridogermal
+5458880						dillapiol
+5458982						.beta.-hydromucomide
+5458993						Combretastatin A1 Diphosphate
+5459010						kusaginin
+5459073						Camptothecin Derivative
+5459105						bullatacin
+5459107						ranunculin (8ci)
+5459112						bullatacinone
+5459125						trunculin a
+5459126						phezinomycin
+5459129						austrocortilutein
+5459130						austrocortirubin
+5459132						(-)-roemeridine
+5459162						bullatalicin
+5459164						cuspidatin c
+5459168						rubescensin a (oridonin) [rabdosia diterpenoid]
+5459169						eupalmerin acetate
+5459184						tertin
+5459194						5'-allyl-2'-hydroxy-3,3',4-trimethoxy chalcone
+5459196						betuletol
+5459200						1,2-benzo-8-(d,l-alanyl)-3-phenoxazone nitrate salt
+5459218						Alvocidib
+5459220						KRN5500
+5459221						dysorone e
+5459223						deoxyisoauriculatin
+5459236						Breflate
+5459241						rceine imide
+5459262						stereoisomer of 672120 (mw=262)
+5459269						herveline o
+5459292						pervilleine a
+54598306						Mitoguazone Dihydrochloride
+54598341						wln: t66 bnj e1u1r bo1 do1 eo1
+54598449						rifocin
+54598638						hm-9-ao
+54598698						Camptothecin Derivative
+54598755						antineoplastic-643812
+54599440						Aphidicoline glycite
+54600009						Camptothecin
+54600217						aspergillic acid, dehydrodeoxy-
+54600645						sungucin
+54600704						bisbenzimide
+54600749						Dolastatin 10
+54600798						ferene
+54600888						8-me-xaa
+54600951						9-.alpha.-hydroxyparthenolide
+54601159						selendale
+54601174						Rhizoxin
+54601177						di-p-tolyliodinium bromide
+54601571						Camptothecin Derivative
+54601909						huratoxin
+54601911						ellipticine, 9-(dimethylaminoethoxy)-, dihydrochloride
+54601989						sapoceolide a
+54602018						Mithramycin
+54602158						euserotin
+54602203						podophyllotoxin isothiuronium bromide
+54603799						atpu
+54604617						acetyltifruticin
+54604785						antineoplastic-651590
+54604810						Sodium Phenylbutyrate
+54605107						iodine green
+54605559						styrene, 3,4-dichloro-.beta.-nitro- (8ci)
+54605684						apt (radioprotective)
+54606507						withacnistin
+54606703						daunorubicin oxime hydrochloride
+54606991						isoquinocycline a, hydrochloride
+54607056						N-Phosphocetyl-L-aspartate
+54607155						Isobrucein B
+54607317						verrucarin a 9,10-epoxide
+54607378						nsc 266047
+54607756						Piperazine
+54607781						Losoxantrone Hydrochloride
+54607989						sulfoquinovoside
+54608018						diazene, hydroxy(5-phenyl-2-pyridinyl)-, sodium salt
+54608021						curromycin a.b mixture
+54608024						calyculin a
+54608061						p-chloranilinum[bis(p-chloraniline)dioxalatoruthete(iii)]
+54608115						gallidermin
+54608179						9-.beta.-hydroxyparthenolide
+54608402						Camptothecin Derivative
+54608404						Camptothecin Derivative
+54608406						Camptothecin Derivative
+54608408						Camptothecin Derivative
+54608410						Camptothecin Derivative
+54608412						Camptothecin Derivative
+54608414						Camptothecin Derivative
+54608425						Camptothecin Derivative
+54608427						Camptothecin Derivative
+54608484						Artemisinin Dimer
+54608510						glycochenodeoxycholic acid, sodium salt (7ci)
+54608546						trunculin-a methyl ester
+54608667						dypnone guanyl hydrazone hydrochloride
+54608697						Fostriecin
+54608728						Bleomycin
+54608730						coenzyme a, s-(3-methylene-1-oxododecyl)-, tetrasodium salt
+54608765						epothilon a and epothilon b (4:1 mixture)
+54608767						n-(2-scoa-tetradecanoyl)glycimide
+54608780						antineoplastic-689577
+54608835						Camptothecin Derivative
+54608857						cytostatin
+54608929						combretastatin a-4, sodium salt
+54608935						Camptothecin Derivative
+54608937						Camptothecin Derivative
+54608963						XK-469
+54609598						iodonium, dimesityl- chloride
+54609908						ddug
+54610150						Mithramycin
+54610154						Teniposide
+54610340						eupacunoxin
+54610386						1,4-biphenylene-bis(triphenylphosphonium) dibromide
+54610760						olivomycin transformation
+54611281						discorhabdin h
+54611286						9-.alpha.-acetoxyparthenolide
+54611422						Estramustine
+54611427						stellettamide b
+54611458						frondoside a
+54611556						isostrychnopentamine a trihydrochloride
+54611557						bis(2-hydroxybenzal)acetone, disodium pentahydrate salt
+54611558						varacin trifluoroacetate salt
+54611651						uprolide h
+54611691						potassium arsenite
+54611827						Sodium Butyrate
+54612270						melampodin
+54612584						incompti b
+54612624						2-methylthiazolidine-2,4-dicarbonylic acid- di-sodium salt
+54612643						(2r,5r)-2-palmitoylamido-(3e)-octadecen-1,5-diol)
+54612678						sr16388
+54612695						2-furoyl-7-chloro-3-trifluoromethylquinoxaline-4-oxide
+54612739						diaporthein b
+54612824						3- methoxy-5h-8,9-dimethyl-isoindolo[2,1-a]quinoxalin-6-one
+54612825						3- methoxy-5h-10-fluoro-isoindolo[2,1-a]quinoxalin-6-one
+54612826						3- methoxy-5h-8-methoxy-isoindolo[2,1-a]quinoxalin-6-one
+54612827						3- methoxy-5h-9-methoxy-isoindolo[2,1-a]quinoxalin-6-one
+54612828						2- methoxy-5h-isoindolo[2,1-a]quinoxalin-6-one
+54612829						1,4- dimethoxy-5h-isoindolo[2,1-a]quinoxalin-6-one
+54612853						hookeriamide j
+54612854						hookeriamide k
+54612855						hookeriamide h
+54612856						hookeriamide i
+54612857						chonemorphine
+54612859						epipachysamine-e-5-en-4-one
+54612860						2,3-dehydrosarcovagine d
+54612875						5,10-dimethoxybenzo[g]quinolin-2(1h)-one
+54612897						3,19-(2,6-dimethyoxy)benzylidineandrographolide
+54612900						3,19-benzylidine-14-deoxy-11,12-didehydroandrographolide
+54612901						3,19-(4-acetamido)benzylidineandrographolide
+54612932						ferric-taxol
+54612980						6-(4-ethylphenyl)-2-benzenesulfomidepyridazine-3(2h)-one
+54613017						z-endoxifen hydrochloride
+54613037						pu-h71.2hcl
+54613102						7-benzyl-5,7-dihydro-4h-isoxazolo[5,4-e]isoindole
+54613108						7-benzyl-6-phenyl-5,7-dihydro-4h-isoxazolo[5,4-e]isoindole
+54613125						2-(carboxy proxyl)-decyltriphenylphosphonium bromide
+54613148						[(1h-benzimidazole-2-yl)dithio]-9h-purine
+54613170						wa007-00
+54613272						3-acetoxy-2',4'-dimethoxy-5'-prenylchalcone
+54613300						desmethyleleutherobin
+54613350						vagenine a
+54613361						kiterpiosin
+54613387						mito-tempol
+54613413						s-allylthio mercaptopurine riboside
+54613414						s-allylthio 6mercaptopurine
+54613488						2-methoxy-5h-pyrido[3,2:4,5]pyrrolo[3,2-c]cinnoline
+54613527						5-chloro-7h-phtho[3,2,1-ij][2,7]phthyridin-7-one
+54613569						3,4-diphenylisoxazolo[3,4-d]pyridazin-7(6h)-one
+54613653						2,3-dimethoxy-5h-pyrido[3',2':4,5]pyrrolo[3,2-c]cinnoline
+54613734						3,19-(4-n,n-dimethylamino)benzylidineandrographolide
+54613769						Crizotinib
+5464572						diethylcyanine
+5465890						tert-butyl-(2,4-dioxochroman-3-ylidene) methylcarbamate
+5465973						4,5-dimethyl-11h-pyrido[4,3-a]carbazole
+5466137						5-hydroxy-3,7-dimethoxy-3',4'-methylenedioxyflavone
+5466664						1-bromo-2-iodo-trans-2-butene
+5466667						3'-carboxypropionyl-(z)-combretastatin a-4
+5466698						quildopeptin
+5466704						antineoplastic-641454
+5466706						(z)-3,4,5-trimethoxy-4'-ethylstilbene
+5466718						vicenistatin
+5466745						antineoplastic-642198
+5466955						specionin
+5466956						mixture of specioside a & b
+5466986						kedarcidin
+5466995						antineoplastic-646699
+5467019						bengamide g
+5467020						bengamide h
+5467055						antineoplastic-647246
+5467197						Valspodar
+5467207						reveromycin a
+5467321						1,3-isoquinolinedione, 4-[(3,4-dimethoxyphenyl)methylene]-
+5467322						stipiamide
+5467340						z-1-(4-methylthio-2-(3,4,5-trimethoxyphenyl)ethene
+5467345						phenoxan
+54675761						cyclopiazonic acid
+5467645						vermiculin
+5467655						(z)-3-bromo-3-iodo-2-phenylpropel
+5467656						(z)-4-bromo-4-iodo-3-phenyl-3-buten-2-one
+5467657						2-[(z)-bromoiodomethylidene] cyclohexanone
+54676825						quicifal
+54676860						Ascorbic Acid
+54676871						Bactobolin
+5467733						3,5-dimethoxy-beta-methyl-beta-nitrostyrene
+5467747						gab-geldamycin
+5467924						triethyl 2-phosphono-3-(5-hydroxymethyl-2-furyl)acrylate
+5467925						triethyl 2-phosphono-3-(4-quinoline)acrylate
+5467926						trimethyl 2-phosphono-3-(2-furan)acrylate
+5467927						trimethyl 2-phosphono-3-methyl-(2-furan)acrylate
+5467928						diisopropyl 2-phosphono-3-(2-furan)acrylonitrile
+5467937						ethyl 2-cyano-3-(4-quinoline)acrylate
+5467938						diethyl 2-phosphono-3-(4-quinoline)acrylonitrile
+5468001						2-azabicyclo[16.3.1]docosane, geldamycin deriv.
+5468033						benzene, 1,1'-[(1,3-butadiene-1,4-diyl)sulfonyl]bis
+5468040						6,7-dibromo-3,7-dimethyl-2-octenyl acetate
+5468052						ethyl (e)-6-acetyloxy-5,5-methyl-2-hexenoate
+5468104						mitorubrinic acid
+5468197						4-piperidinone, 1-methyl-2,6-bis[(2-nitrophenyl)methylene]-
+5468270						2-propenyl estradiol
+5468287						Cryptophycin
+5468320						pectenotoxin ii
+5468332						eremantholide c
+5468333						2-trans-n-penten-1-yl estradiol
+5468334						2-trans-n-buten-1-yl-estradiol
+54683839						lonchocarpic acid
+5468424						cryptophycin b
+5468476						2-octene, 1-bromo-3-(bromomethyl)-2,6,7-trichloro-7-methyl-
+5468479						manzamine a
+5468481						8-hydroxymanzamine a
+5468506						concamycin b
+5468560						sphinxolide b
+5468561						sphinxolide c
+5468563						sphinxolide
+54686230						viridenomycin
+5468683						(z)-3-iodo-1,2-diphenyl-2-propen-1-one
+5468684						(z)-1-iodo-2-phenyl-1-penten-3-one
+5468685						(z)-4-iodo-3-phenyl-3-buten-2-one
+5468688						concamycin a
+5468689						o-methyl-concamycin b
+5468696						pectenotoxin 1
+5468698						1,8-phthyridin-4(1h)-one, 2-(3-methoxyphenyl)-7-methyl-
+5468719						rietone 1
+5468826						okadaic acid
+5468843						sapoceolide b
+5468862						inolene
+5468899						uracil, 1-[1,2-bis(ethoxycarbonyl)ethenyl]-, cis-
+5468903						adenine, 9-[1,2-bis(ethoxycarbonyl)ethenyl]-, trans-
+5468914						1,8-phthyridin-4(1h)-one, 2-(3-chlorophenyl)-7-methyl-
+5469013						geodiamolide b
+5469059						geodiamolide e
+5469060						geodiamolide a
+5469061						geodiamolide d
+5469123						entilin a
+5469156						dichapetalin a
+5469252						stilbene, 4-hydroxy-4'-methoxy-, (z)-
+5469265						4-piperidinone, 3,5-bis[(4-chlorophenyl)methylene]-, (e,e)-
+5469266						4-piperidinone, 3,5-bis[(4-nitrophenyl)methylene]-, (e,e)-
+5469267						4-piperidinone, 3,5-bis[(4-fluorophenyl)methylene]-, (e,e)-
+5469359						parthenolid-8-one
+5469437						physalin h
+5469524						desmethoxycentaureidin
+5469577						antineoplastic-690266
+5469596						3-bromo-4-n,n-bis-2'-cyanoethylaminobenzylidene rhodanine
+5469598						4-n,n-bis-2'-carboxyethylaminobenzylidene rhodanine
+5469752						succinolide
+5469832						(e,e)-1,4-bis(1-phthyl)-2,3-dinitro-1,3-butadiene
+5469834						1,3-butadiene, 1,4-bis(4-methoxyphenyl)-2,3-dinitro-
+5469974						haliclocylamine-a
+5469981						2-propen-1-one, 1-(2-benzimidazolyl)-3-(4-nitrophenyl)-
+5470009						9,19-cycloart-23-ene-3.beta.,25-diol
+5470288						upro-pame
+5470324						z-.alpha.-chlorochalcone
+5470371						homohalichondrin b diacetate 19,26-tetraol
+5470399						pintin b
+5470400						austocystin d
+5470458						2-propenone, 1,1'-(2,5-pyridinediyl)bis[3-(2-furanyl)-
+5470493						heliquinomycin
+5470535						sphinxolide e
+5470536						sphinxolide f
+5470537						reidispongiolide c
+5470965						cystothiazole a
+5471033						17-DMAG
+54710999						benzathine tenuazote
+5471231						tetra(n-methyl-2-pyridyl)-porphyrin chloride
+5471310						artelastochromene
+5471311						artelasticin
+5471312						achilleol a
+5471367						ethyl 3-cyanoamino-2-(1h-benzimidazol-2-yl)acrylate
+5471619						euplexide d
+54716343						2-pyridinone, 3-chloro-4-hydroxy-1-beta-d-ribofuranosyl-
+5471692						(3r,6'rs)-3-hydroxy-.beta.,.epsilon.-caroten-3-one
+54717225						tirandamycin
+5471824						2,6-di-[2-(furan-2-yl)vinyl]pyridine
+5471825						2,6-di-[2-(thien-2-yl)vinyl]pyridine
+5471826						2,6-di-[2(pyridin-2-yl)vinyl]pyridine
+5471965						presqualene alcohol
+5471986						n-(1e-pentenyl)-2z,4z-heptadiemide
+54720821						pyrvinium pamoate (usan)
+54720824						viridomycin
+5472093						kendomycin
+5472285						oligomycin a
+5472286						oligomycin b
+5472287						oligomycin c
+54724658						tetrocarcin a, sodium salt
+5472471						3-genistein-8-c-glucoside
+5472477						macrocarpamine
+5472480						dorsmanin a
+5472497						phh6f
+5472499						11-methoxycarbonylmethylen-11h-indolo[1,2-a]indazole
+5472501						11-cyanomethylen-11h-indolo[1,2-a]indazole
+5472587						4-[2-(4-fluoro-phenyl)-vinyl]-benzenesulfomide
+5472593						4-[2-(4-dimethylamino-phenyl)-vinyl]-benzenesulfomide
+5472594						4-[2-(4-hydroxy-phenyl)-vinyl]-benzenesulfomide
+5472597						4-[2-(3,4-dihydroxy-phenyl)-vinyl]-benzenesulfomide
+5472641						4-[2-(3-methoxy-phenyl)-vinyl]-benzenesulfomide
+5472642						yuccaol c
+5472643						yuccaol a
+5472712						7z-plakortide h
+5472714						12-epi-eupalmerone
+5472800						lissoclinolide tetrenolin
+5472852						1-p-chlorophenyl-2-thioxo-4-aminoquinolino[2,3-d]pyrimidine
+5472884						17-n-propylamino-geldamycin
+5472897						5h-pyrido[3',4':4,5]pyrrolo[2,3-b]quinoline, 11-methyl
+5472908						(z)-3-chloro-4-(4'-hydroxyphenyl)-5-(3
+5472914						partricin a  2-pyridinylethylamide
+5472956						4-piperidinopyrazolo[3,4-d]pyrimidin-6-thion
+5472959						4-(p-methylphenyl)aminopyrazolo[3,4-d]pyrimidin-6-thion
+5473013						1,1-di(3,4,5-trimethoxybenzylidenylcarbonyl)cyclohexane
+5473016						8-aniline-3,7-dimethyl-2,6-octadiene pyrophosphate
+5473022						8-aniline-3,7-dimethyl-2,6-octadiene methylenediphosphote
+5473024						8-aniline-3,7-dimethyl-2,6-octadienol
+5473025						8-(p-nitroaniline)-3,7-dimethyl-2,6-octadienol
+5473027						8-aniline-3,7-dimethyl-2,6-octadiene-s-l-cysteine
+5473028						6-benzyloxy-3-methyl-2-hexen-1-ol pyrophosphate
+5473049						resveratrol-3,5-diacetate
+5473050						3-methoxyresveratrol
+5473051						3,4'-dimethoxyresveratrol
+5473085						6-amino-2-thioxo trimethylene[c]thiopyrano[2,3-d]pyrimidine
+5473088						2-(3-chloro-3-p-tolyl-allylidene)-malonitrile
+5473096						1-(3-oxo-hex-1-enylsulfanyl)-hex-1-en-3-one
+5473168						arylmethylene-f
+5473171						thiopyrimidine-f
+5473172						thiopyrimidine-och3
+5473173						thiopyrimidine-cl
+5473194						8-hydroxy-3-phenylisocoumarin
+5473195						3-(3,4-dihydroxyphenyl)-8-methoxy-4-methylisocoumarin
+5473233						iejimalide a.
+5473237						arylmethylene-br
+5473238						thiopyrimidine-ch3
+5473239						arylmethylene thiazolo
+5473311						6,8-dihydroxy-3-(3,4-dihydroxyphenyl)-4-methylisocoumarin
+5473313						2-[3-chloro-3-(4-chloro-phenyl)-allylidene]-malononitrile
+5474187						fugillin dicyclohexylamine salt
+54747						Caracemide
+5475287						dianemycin
+5475995						cytochalasin a
+5476249						zygosporin a
+5476653						chapliatrin
+5476690						17-Amino-17-demethoxygeldamycin;
+5476831						undulatone
+5476867						modified new trichothecene
+5477029						sinularin
+5477074						9-hydroxyparthenolide
+5477083						8-hydroxy verrucarin a
+5477096						monoacetyl verrucarin a epoxide
+5477103						eurecurvin
+5477132						3-phecyliden-5-brom-2-indolinon
+5477210						thapsigargin
+5477211						thapsia villosa compd
+5477390						ansamitocin deriv
+5477469						woodhousin
+5477527						roridin a, 8-hydroxy-9b,10b-epoxy-
+5477536						8b-hydroxy-9b,10b-epoxyverrucarin a
+5477541						ambruticin
+5477555						deoxyphorbol, 20-o-acetyl-13-o-isobutyryl-12-o-(z,e)-2,4-
+5477565						hm-4
+5477574						trichothec-9-ene-4,15-diol, 12,13-epoxy-, cyclic ester
+5477575						niveusin a
+5477587						b680433k349
+5477635						Bryostatin 1
+5477653						phyllanthoside, s3'-desacetyl-
+5477715						cytovaricin
+5477755						lmu-3 herz
+5477757						liscunditrin
+5477773						cordifene
+5477775						Hypothemycin
+5477807						antibiotic p 168
+5477810						liatris laevigata lactone #2
+5477845						angelylgrandifloric acid
+5477906						chaetoglobosin a
+5477924						quassinoid
+5477925						Bruceanol E
+5478016						baccharinoid a-1 (busam)
+5478047						chlorited cyclohexane der 4
+5478094						eremantholide b
+5480214						2-azaadenine
+55498						colchicine, n-carbethoxy-deacetyl
+55710						Dezaguanine
+55748						Mitoflaxone
+55894						3h-1,2-dithiole, tetrachloro-
+5590						triton x
+5614						malonoben
+5634						Undecylenic Acid
+5646						l-usnic acid
+5649						Valinomycin
+56840982						Carboxyphthalatoplatinum
+56846591						gold, chloro(triphenylphosphine)-
+56909						r 7516
+5702003						Mitomycin
+5702014						bromocriptine mesylate (usan)
+5702042						Digoxin
+5702072						hydroxyprogesterone caproate (usan)
+5702211						Floxuridine
+5702227						pararosaniline pamoate (usan)
+5702228						latoside c
+5702238						methylbenzethonium chloride (usan)
+5702286						mevastatin
+5705411						astraphloxin
+5712						Lificguat
+5712119						2-propen-1-one, 3-(1-phthalenyl)-1-phenyl- (9ci)
+5718						Zalcitabine
+5726						Zidovudine
+5730654						2-(2,5-dimethoxybenzylidene)-1-tetralone
+57422250						Chloroquine Phosphate
+5743						Dexamethasone Decadron
+57469						Imiquimod
+5748328						janus red
+5748733						enviroxime
+57513						Cyclodisone
+5754						Therapeutic Hydrocortisone
+5755978						2-butene, 1,1,2,4,4-pentachloro-1,4-dinitro-
+5776876						coumarin deriv
+5790338						2-(2,4,5-trimethoxystyryl)benzothiazole
+5799						Triethylenemelamine
+580739						purine-6-thiol, ethyl carbote
+581						Acetylcysteine
+5813717						antineoplastic-382459
+5838553						hm-9
+5843399						thiosemicarbazone r
+5858115						benzene, 1-bromo-2,3-dimethoxy-5-(2-nitroethenyl)-
+5908434						deoxytifructin
+5910585						geiparvin
+5913405						acetylkidamycin
+5916519						xanthatin
+5917065						eupachloroxin
+5923589						benzaldehyde, 4-chloro-, 1-phthalenylsemicarbazone
+5926441						eriofertin
+5926799						mycothiazole
+5927763						2-butemide, n-(4-chlorophenyl)-4,4,4-trichloro-
+5929688						bis(methylthio)maleonitrile
+5929717						quinoline, 4-(2,5-dimethoxystyryl)-
+5935594						ethyl 3-[4-(5-nitro-2-furylacryloyl)aminophenyl]propiote
+5935906						eupatoriopicrine
+5944						kantaridin
+59453						1h-benzimidazole, 5,5'-dithiobis[2-(trifluoromethyl)- (9ci)
+5951628						2-butemide, 4-(2,6-dichlorophenyl)-4-oxo-
+5955						4-Nitroquinoline-1-Oxide
+596						Cytarabine
+5974						cetrimonium bromide
+5986877						(2e)-2-benzoyl-3-(2-phenyl-1h-indol-3-yl)acrylonitrile
+5994						Therapeutic Progesterone
+60147517						coc1ccc(cc1)c2nc(\c=c\3/sc(=nc3=o)ncc4ccccc4)c5ccccn25
+60147550						Salinomycin
+60147696						derivative of dibenzothiazepine
+60147744						(z)-6-(2-(pyridin-2-ylmethylene)hydrazinyl)-9h-purine
+60147888						3,14,19-tripropionylandrographolide
+60147950						3-hydroxy-9-methoxyisoindolo[2,1a]quinoxalin-6(5h)one
+60147952						3-hydroxy-8-methoxyisoindolo[2,1a]quinoxalin-6-(5h)-one
+60147953						10-fluoro-3-hydroxyisoindolo[2,1a]quinoxalin-6-(5h)-one
+60147956						3-hydroxy-8,9-dimethylisoindolo[2,1a]quinoxalin-6-(5h)-one
+60147979						3-[4-(1h-indol-3-yl)-1,3-thiazol-2-yl]-1-methyl-1h-indole
+60148209						prepyridomacrolidine a
+60148212						tenellin camphanic acid ester
+60148374						9-deoxy-sibiromycin
+60148381						colistimethate sodium (usan)
+60148385						emetine hydrochloride
+60148403						puromycin hydrochloride (usan)
+60148410						monensin sodium
+60148415						salinomycin, sodium
+60148416						Bleomycin
+60148418						atorvastatin calcium (usan)
+60148441						Adenosine, 2-chloro-2'-deoxy-2'-fluoro-
+6050						Tributyrin
+6054491						n-(p-styrylphenyl)acetohydroxamic acid
+6055630						rubrolide a
+6061570						o-bromo-.alpha.-benzoyl cinmonitrile
+6062847						3-methoxy-4-benzyloxy-.alpha.-benzoylcinmonitrile
+6069240						isoquildaldehyde, 5-amino-, thiosemicarbazone (8ci)
+6074315						p-toluidine, .alpha.-inden-1-ylidene-n-methyl- (8ci)
+60780						Vinorelbine
+60794						Bizelesin
+6099						Methylene Blue
+61253						progallin o
+614013						acriflavinium hydrochloride
+6167						Colchicine
+6181						itir
+6185						cynotoxin
+6194						Uracil mustard
+6197						kaken
+6215						Fluocinolone Acetonide
+62344						euchrysine
+6237						algocor
+6271803						malononitrile, (.beta.-pentylcinmylidene)-
+6277557						diethyl 2-amino-6-styryl-1,3-azulenedicarboxylate
+6282616						cinmamide, p-[bis(2-bromoethyl)amino]-.alpha.-cyano-
+6287145						hydrazone
+6296717						chalcone alog
+629761						6-chloro-2-methyl-4-phenylquinolin-3-ethyl carboxylate
+6325446						jatrophon
+6326620						Bisantrene hydrochloride
+6326719						Mithramycin
+6332031						sanguirine nitrate
+6332375						iodonium, (p-nitrophenyl)phenyl- nitrate
+6332663						sempervirine, nitrate, dihydrate
+6374527						thymine, 1-[1,2-bis(ethoxycarbonyl)ethenyl]-
+6374719						(+/-)-rhopaloic acid
+6376972						(z)-5-(4-(diethylamino)benzylidene)imidazolidine-2,4-dione
+6381423						uracil, 1,3-bis[1,2-bis(ethoxycarbonyl)ethenyl]-
+6382533						thymine, 1,3-bis[1,2-bis(ethoxycarbonyl)ethenyl]-
+6385696						n-(4-methoxyphenyl)-all-trans-retimide
+6393559						palisol
+6400741						b723735k022
+641563						1,3 - benzthiazo - 2(3h)- ylidene malononitrile
+64164						2-thia-1,3,5,7-tetraazaadamantane, 2,2-dioxide
+643539						vedelianin
+6436327						pyridine-2-aldehyde 2-pyridylhydrazone
+643654						malyngamide s
+6436860						picolinealdehyde-2-quinolylhydrazone
+6440205						from gnidia
+6442177						Everolimus
+6449975						hygrophylline
+6450840						ambivalon hydrochloride
+6474556						kutizon
+6476333						iso-acteoside
+6477182						1,7-bis(3, 4-dimethoxyphenyl)-1, 6-heptadiene-3,5-dione
+6477312						triethyl-o-bromo-.alpha.-phosphono-cinmate
+6482345						3-phenyl(imidazolidinil-1)methano
+6482347						3-[4-methoxyphenyl(imidazolidinil-1)]methane
+64840						baker's antifol
+6505803						17-AAG
+6518457						1,3-butadiene, 1,1,2,4-tetrachloro-3-nitro-4-(phenylthio)-
+65237						neocuproin
+65275						6-methoxyguanine
+6538870						3-chlor-6-hydroxy-4-phenylbenzo[4,5]furo[2,3-b]pyridine
+65631						suavedol
+657251						siquil
+65732						phenosafranin
+657329						Emetine Hydrochloride
+65800						Fotretamine
+66363						steffimycin
+66365						anthelmycin
+66413						methylestradiol
+6651						terpin (van)
+66662						antioxidant 80
+66718						satol tr
+66720						n-(4-chlorophenyl)-3-hydroxy-2-phthamide
+667490						6-Mercaptopurine
+667639						Fostamatinib
+66796						4-chloro-3-nitrophenyl methyl sulfone
+66799						tetraaminoditolylmethane
+668053						4m2o
+6699						1,5-diphenoxyanthraquinone
+67011						5-benzamido-1-aminoanthraquinone
+6708778						Teniposide
+6708815						Etoposide
+6710691						orlistat (usan)
+67108483						Irinotecan
+6711165						elephantin
+6711172						drosopholin b
+6711179						hypopistephanine
+6711181						insariotoxin
+6711202						isodonol
+6711208						Simalikalactone D
+6711209						trichodermin
+6711219						antineoplastic-301477
+6711227						didemnin b
+6711233						Pirarubicin Hydrochloride
+6711239						active compound from cephalodiscus gilchristi
+6711240						active compound from cephalodiscus gilchristi
+6711241						from cephalodiscus gilchristi
+6711243						from cephalodiscus gilchristi
+6711244						from cephalodiscus gilchristi
+6711245						from cephalodiscus gilchristi
+6711246						from cephalodiscus gilchristi
+6711247						from cephalodiscus gilchristi
+6711248						from cephalodiscus gilchristi
+6711255						Benzenepropanoic acid
+6711257						rsu 1165
+6711269						homohalichondrin b
+6711270						Halichondrin B
+6711271						asimicin
+6711308						asn-gln-trp-ala-val-gly-(d)phe-leu-met-nh2
+6711321						Staurosporine
+6711360						14-fluoro-4-demethoxydaunorubicin
+6711382						.alpha.-boswellic acid acetate
+6711390						trunculin b
+6711419						mycalamide b
+6711422						7,17,18-trimethoxy mycalamide a
+6711423						7,17,18-trimethoxy, n-methyl mycalamide a
+6711428						17.alpha.-methyl-4-androsteno[3,2-c]isoxaole-4,17-diol
+6711494						viscosin
+6711495						3-hydroxy-7-nitro-1,2,4-benzotriazine 1-oxide
+6711496						3-chloro-7-nitro-1,2,4-benzotriazine 1-oxide
+6711497						7-nitro-3-trifluoroacetamido-1,2,4-benzotriazine 1-oxide
+67115						p-nitroso-n,n-diethylaniline
+6711550						pseudolarolide b
+6711565						antineoplastic-631448
+6711682						altemicidin
+6711772						trunculin-b methyl ester
+6711820						Camptothecin Derivative
+6711856						galiellalactone
+6711899						2,5-bis(6'-bromo-3'-indolyl)piperazine
+6711942						kalihinol y
+6711944						antineoplastic-d647752
+6711945						antineoplastic-d647753
+6711996						halomon
+6711997						2'-bromo-4'-epi-daunorubicin
+6712004						antineoplastic-651195
+6712024						Mifepristone
+6712035						ipa/no : methyl ether
+6712055						salpichrolide a
+6712084						epoxy-chiromodine
+6712095						7-epi-10-deacetyltaxol
+6712096						7-Epi-10-deacetylbaccatin III
+6712097						discorhabdin b
+6712098						discorhabdin g
+6712100						discorhabdin i
+6712173						acnistin f
+6712225						physalin o
+6712226						physalin f
+6712230						2-Debenzoyl-2-(3',5'-difluorobenzoyl)-15(16)-anhydro-11(15->1)-abeotaxol
+6712231						hopeaphenol
+6712244						(-)-ent-bullatacin
+6712255						15-tert-butyl-20-deoxyvinblastine
+6712296						aplysimisine iii
+6712418						esulatin a
+6712439						dihydroartemisinyl ether, stereoisomer of nsc-685989
+6712440						dihydroartemisinyl ether, stereoisomer of nsc-685988
+6712545						mimuscopic acid
+6712549						n-(4-amino-4-deoxy-n10-methypteroyl)-l-homocysteic acid
+6712564						andrastin a
+6712587						kikubasaponin
+6712588						methyl protoneogracillin
+6712606						17-hydroxyjolkinolide a
+6712607						17-hydroxyjolkinolide b
+6712609						4'-phenylthio-avarone
+6712610						4'-isobutylthio-avarone
+6712611						3',4'-ethylendithio-avarone
+6712615						tacacoside a2
+6712616						tacacoside b1
+6712640						c35h43n5o
+6712642						isostrychnopentamine a
+6712744						7-Tert-butyldimethylsilyl-10-hydroxycamptothecin
+67192						1,4-diaminoanthraquinone-2,3-dicarboximide
+67241						celcot rn
+67275						phtazol c
+67277						celcot rm
+67354						Laurolinium Acetate
+6741						Methylprednisolone
+6758						Rotenone
+67686						mecal
+68060						melicopidine
+68079						isopimpinellin
+68083						psoralen quinone
+68262						56336
+68486						suberosin
+68553						Micozole Nitrate
+68589						Ecozole Nitrate
+6861563						mibt
+68634						peromide
+68684						clanfenur (inn)
+6870						thiolutin
+68740						Zoledrote
+68791						Imexon
+68837						Medorubicin
+688827						3',4',5'-trimethoxy-3-hydroxy flavone
+689043						caffeic acid
+69064						1-phthalenol, 4-nitroso- (9ci)
+6916127						Doxorubicin
+6918638						Belinostat
+693996						5-nitro-n-((pyridin-3-yl)methyl)furan-2-carboxamide
+69462						resorufin
+69497						phenyl p-tolyl sulfone
+6967						usaf sn-31
+69845						4-aminopiazthiole
+70068						perfluorobenzophenone
+701011						wln: gr dmyus&mvr
+70397						fixierer p
+70848						tripyridyl
+71045						michler's thione
+71060						phthol as-bi
+71203						(-)-eburmonine
+71218						Axirone
+7132						isothan
+71384						Dexrazoxane
+7141						p-oxinozon
+714712						3-(diallylaminomethyl)-indole
+71750						Batracylin
+7215						Sulfiram
+72199						n1-(4-hydroxy-1,2-butadien-1-yl)-cytosine (cytallene)
+72271						7-Hydroxystaurosporine
+72303						honokiol
+72311						Chelerythrine
+72321						coptisine chloride
+72341						marckine
+72344						nobiletin
+72350						berberine iodide
+72385						nonoxynol-9
+72402						Aminocamptothecin
+72403						10,11-methylenedioxycamptothecin
+72435						Picropodophyllin
+72462						Chloroquinoxaline Sulfomide
+72512						methoxyelliptione
+72519						noctin
+72564						1,3-benzodioxole, 5-methoxy-6-[1-(4-methoxyphenyl)ethyl]-
+72571						redoxal
+72654						coumarin 337
+72724						helenin
+72725						questiomycin a
+72742						dermocylin
+727420						meterocycle
+72791						5-methylphenthroline
+72810						1,10-phenthroline-5,6-dione
+72812						4,7-diphenyl-1,10-phenthroline
+72813						wln: t6nnvj br& dg eg
+72818						coumarin 355
+72828						Cyclopentenyl Cytosine
+72908						4-amino-1,2-phthoquinone
+73024						methylene violet
+73071						skyrin
+73200						(3r)-astragaluquinone
+73240						cc-1065
+7329						Fenticlor
+73292						fascaplysine
+73307						jacaranone
+73419						solanocapsin
+73465						pintifidin
+73492						isoharringtonine
+73516						bindschedler's green
+73549						tryptanthrin
+73589						sellowin a
+73603						neotenone
+73621						withanolide e, 4-b-hydroxy-
+73627						colchine, 2-demethyl, n-trifluoro acetyl
+736782						4-pyridineacrylic acid
+73679						aspergillic acid, hydroxy
+737187						1,2-dimethoxy-4-(2-nitropropenyl)benzene
+74257						bis[(3-pyridyl)methyl]amine
+74424						phthalene, 1,5-bis(chloromethyl)-
+75160						phthol as-d
+75281						2,6-dichloro-7-methylpurine
+75420						pyrazoloadenine
+75442						safranin bluish
+75889						methylene green (van)
+75895						ae 200
+76123						janus green v
+763768						benzamide, 4-nitro-n-[(phenylamino)thioxomethyl]- (9ci)
+7648						accel r
+76767						2,4,6-tribromophenylallyl ether
+76801						mercury, phenyl(tribromomethyl)-
+77258						tptz (iron reagent)
+77265						eulan nk
+77356						n-decylaminoethanethiosulfuric acid
+775540						1-(3-chlorobenzyl)-1h-indole-3-carbaldehyde
+78277						arsenobenzene
+79411						vancide 26
+79775						1,4-diacetoxyphthalene
+80247						1,2-ethanediphosphonic acid
+80530						2,5-bis(chloromethyl)-p-xylene
+80733						vinon black bb
+80771						5,7-dichloroisatin
+809566						[(2-phenyl-1h-indol-3-yl)methylene]malononitrile
+81308						indoline, 5-chloro-1,3,3-trimethyl-2-methylene- (8ci)
+81403						wln: t66 bnj g1r& jq
+81758						diethyl 2,5-dimethoxybenzylidene-malote
+8269						Acetalax
+83259						1,4-phthalenedione, 2,3-diphenyl-
+8369						vetol
+84046						Pingyangmycin
+84053						tmca
+84078						17-ethoxy-10-thiocolchicine
+840827						Inosine dialdehyde
+8433						dibenzoylmethane
+84671						methyl green
+8478						Benzethonium Chloride
+8515						pyrazolanthrone
+85797						3,4-dibromosulfolane
+85798						propiomide, 2,3-dibromo-
+8589						toness
+8646						8-Azaguanine
+8660						(o-carboxyphenylthio)acetic acid
+87112						4h-1-benzopyran-3-carboxaldehyde, 4-oxo-
+8718						phlorone
+87517						phthol as-e phosphate
+87840						acrophylline
+88356						terephthalodihydroxamic acid
+892						Inositol
+89341						3-piperidino-2-phenylpropiophenone
+89765						benzonitrile, 2-amino-3,5-dinitro- (9ci)
+90454						cinchonine
+91437						terreic acid
+91467						resactin a
+91491						diethyldichlorotin
+91516						ethyl phenylpropiolate
+91518						Anguidine
+92114						tylophorin
+92122						peltatin b
+92129						peltatin a
+92206						violet bnp
+92368						trimethyl tmm
+92390						1h-imidazole-1-acetamide, n,n-bis(2-hydroxyethyl)-2-nitro-
+92765						cryptopleurine
+9283						tptz
+9285						pms (van)
+93562						dichlorodipropyltin
+936						nicota
+941650						Thiothixene
+94304						mansonone f
+9444						Azacitidine
+94797						2,5-bis(ethylamino)hydroquinone
+94834						(1r)-camphoric anhydride
+94860						9,10-phenthrenedione, 2-nitro- (9ci)
+94880						2-aminophthiazole
+94902						6-hydrazinopurine
+94975						benzoylleukomethylene blue
+9500						6-Aminonicotimide
+95122						fda 0283
+95263						6-benzylthioinosine
+95318						tryptazan
+9552058						ptsm
+9554745						2-formylpyridine, diethylthiosemicarbazone
+9555761						picolildehyde, 5-(dimethylamino)-, thiosemicarbazone
+9556427						4-appt
+9561248						o-phenethylnicotildoxime
+9567684						mannich bases
+9568687						1-[[5-(p-fluorophenyl)-2-furanyl]methyleneamino]hydantoin
+9569341						2-pyridinecarboxaldehyde, (4-methyl-2-quinolinyl)hydrazone
+9570560						Rubidazone
+9571						merophan
+9571200						Gloxazone
+95715						chinon
+9571783						antineoplastic-651782
+9571836						Triapine
+9571964						17-(o-(2-pyrrolidinoethyl)]oximino-5-androsten-3.beta.-ol
+9572050						ethanone, 1-(3-isoquinolinyl)-, (2-benzoxazolyl)hydrazone
+9572051						ethanone, 1-(2-pyrimidinyl)-, (2-benzoxazolyl)hydrazone
+95723						3-ethylcholanthrene
+9572386						4h-1-benzopyran-4-one,6-[[(ethoxy)imino]methyl]-2-phenyl-
+9572501						1-phezinecarboxylic acid, (phenylmethylene)hydrazide
+9572719						mannich bases
+95735						tetraethyleniminobenzoquinone
+9573583						actinomycin x4357g methoxime
+96111						8-hydroxy-5-iodoquinoline
+96185						thiocyanic acid, 1h-purin-6-yl ester (9ci)
+96324						2-methylthio-1,4-phthoquinone
+96355						phosphoramide mustard cyclohexylamine salt
+96378						(1,3,2-dithiarsolan-2-ylthio)acetic acid
+96530						wln: t56 bn dn fn hnj d4 is1
+96539						gardenin b
+96570						1,3-butanedione, 1-benzo[b]thien-3-yl-4,4,4-trifluoro-
+96625						wln: t56 a bn entj a- dt6nj
+96672						wln: t6n dotj a1r bq cq d1- at6n dotj
+96917						3-isothiazolone
+969516						Curcumin
+97142						3-hydroxy-3',4',5,7-tetramethoxyflavone
+97226						Camptothecin Derivative
+97283						Methoxycamptothecin
+97458						s-hexadecyl methanethiosulfote
+97461						s-decyl p-toluenethiosulfote
+97616						Terameprocol
+97676						methanediamine, n,n'-bis(1,3,4-thiadiazol-2-yl)-
+97694						isonicotinonitrile, 2,3,5-trichloro-6-(methylsulfonyl)-
+97887						1-aziridinecarboxamide, n,n'-hexamethylenebis(2-methyl-
+98033						hedamycin
+98074						epoxypiperazine
+9821849						Abiraterone
+98264						Camptothecin Derivative
+9831636						jaspamide
+9832825						Vincristine
+98351						urea, 1-(2-chloroethyl)-1-nitroso-3-(thiochroman-4-yl)-
+98409						(1'.beta.)-6,6'-dimethoxy-2,2'-dimethylberbaman-7,12-diol
+9849230						leimycin
+98569						n-methylpavin
+98652						wr 158122
+9866928						2,3-dihydro-3(r)-[4'hydroxyphenylsulfinyl]brefeldin a
+9877265						Docetaxel
+9878						Fluorometholone
+98818						dijodbenzotef
+9882204						3,3'-di(5,5'-difluoroindolyl)methane
+9891477						janus black
+9893161						16,17-tetra-dehydro-14,15-dihydro-spiroiridal
+9898671						kahalide f
+9900551						cps42
+9905583						cps49
+9907093					TGX.221.	
+99090						methylundecylpiperidine, trans
+9912089						Formoterol Fumarate
+99188						tetrangulol
+99298						isodiospyrin
+9933393						cps45
+99342						quinoline, 6,6'-methylenebis[1,2-dihydro-2,2,4-trimethyl]-
+9941647						mepartricin (usan)
+9944370						3,3'-di(5,5'-dimethoxyindolyl)methane
+9955951						pitavastatin calcium
+9958995						cddo-im
+9962911						Vinblastine
+99670						n,n'-bis(3-methoxy-9-acridinyl)-1,8-octanediamine
+9969021						BML-277
+99724						.alpha.-chloro-n-(p-methoxyphenyl)succinimide
+9976935						eunicin-cyclobilactone
+99773						4-thiazolidinone, 3-(1-phenylethyl)-2-thioxo-
+9983251						mmp-9/mmp-13 inhibitor l calbiochem cat. no. 444252
+99926						dalbergione
+9995010						6-(bromomethyl)-1,4-anthracenedione.
+99967						grosheimin
