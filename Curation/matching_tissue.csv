@@ -1,4 +1,4 @@
-unique.tissueid,COSMIC.tissueid,CCLE.tissueid,GSK.tissueid,NCI60.tissueid,GRAY.tissueid,PGP.tissueid,GNE.tissueid,LINCS_HMS.tissue.id,Comment,
+unique.tissueid,COSMIC.tissueid,CCLE.tissueid,GSK.tissueid,NCI60.tissueid,GRAY.tissueid,PGP.tissueid,GNE.tissueid,LINCS_HMS.tissueid,Comment,
 prostate,prostate,prostate,,,,,,,,
 stomach,stomach,stomach,,,,,,stomach,,
 urinary_tract,urinary_tract,urinary_tract,Bladder,,,,,,,
