@@ -4,7 +4,7 @@ path.drug <- file.path(path.data, "drug")
 path.cell <- file.path(path.data, "celline")
 
 ## read amazon and secret keys
-kk <- file.path("code", read.csv("LINCS_keys.csv"))
+kk <- read.csv(file.path("code", "LINCS_keys.csv"))
 amazon_key <- kk["amazon_key", "key"]
 secret_key <- kk["secret_key", "key"]
 lincs_key <- kk["lincs_key", "key"]
