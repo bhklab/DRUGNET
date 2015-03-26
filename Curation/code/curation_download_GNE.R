@@ -1,5 +1,5 @@
 ## path to files
-path.data <- file.path("data", "GENENTECH")
+path.data <- file.path("data", "GNE")
 path.drug <- file.path(path.data, "drug")
 path.cell <- file.path(path.data, "celline")
 ## create directories
@@ -10,7 +10,7 @@ if(!file.exists(path.cell)) { dir.create(path.cell, showWarnings=FALSE, recursiv
 
 ## sample information
 message("Download sample information")
-myfn <- file.path(path.cell, "tmp", "genentech_ge_sampleinfo.map")
+myfn <- file.path(path.cell, "tmp", "gne_ge_sampleinfo.map")
 if (!file.exists(myfn)) {
 	if(!file.exists(file.path(path.cell, "tmp"))) { dir.create(file.path(path.cell, "tmp"), showWarnings=FALSE, recursive=TRUE) }
   	message(sprintf("Please download Metadata for series EGAD00001000725 from https://www.ebi.ac.uk/ega/datasets/EGAD00001000725 and copy %s to %s", "Run_Sample_meta_info.map", dirname(myfn)))
@@ -19,7 +19,7 @@ if (!file.exists(myfn)) {
 
 # ## drug pheno
 # message("Download drug sensitivity measurements")
-# myfn <- file.path(path.drug, "tmp", "genentech_drug_pheno.xlsx")
+# myfn <- file.path(path.drug, "tmp", "gne_drug_pheno.xlsx")
 # if (!file.exists(myfn)) {
 #   if(!file.exists(file.path(path.drug, "tmp"))) { dir.create(file.path(path.drug, "tmp"), showWarnings=FALSE, recursive=TRUE) }
 #   ## drug sensitivity data from the addendum in Nature
@@ -30,7 +30,7 @@ if (!file.exists(myfn)) {
 
 
 ## read sample info
-sampleinfo <- read.csv(file.path(path.cell, "tmp", "genentech_ge_sampleinfo.map"), sep="\t", header=FALSE)
+sampleinfo <- read.csv(file.path(path.cell, "tmp", "gne_ge_sampleinfo.map"), sep="\t", header=FALSE)
 colnames(sampleinfo) <- c("SAMPLE_ID", "SAMPLE_ALIAS", "BIOSAMPLE_ID", "SAMPLE_TITLE", "ATTRIBUTES")
 sampleinfo[!is.na(sampleinfo) & sampleinfo == ""] <- NA
 ## split the attributes
@@ -54,6 +54,6 @@ sampleinfo <- data.frame("xpid"=sampleinfo[ , "SAMPLE_ID"], "cellid"=sampleinfo[
 
 cellineinfo <- sampleinfo
 
-write.csv(cellineinfo, file=file.path(path.out, "cell_line_annotation_GENENTECH.csv"), row.names=FALSE)
-# write.csv(druginfo, file=file.path(path.out, "drug_annotation_GENENTECH.csv"), row.names=FALSE)
+write.csv(cellineinfo, file=file.path(path.out, "cell_line_annotation_GNE.csv"), row.names=FALSE)
+# write.csv(druginfo, file=file.path(path.out, "drug_annotation_GNE.csv"), row.names=FALSE)
 

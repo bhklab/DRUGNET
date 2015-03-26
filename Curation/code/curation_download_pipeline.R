@@ -2,7 +2,10 @@
 chooseCRANmirror(graphics=FALSE, ind=15)
 
 ## set path to local directory if it is not properly set up
-.libPaths(c("/mnt/work1/users/bhklab/Rlib", .libPaths()))
+## on Mordor
+# .libPaths(c("/mnt/work1/users/bhklab/Rlib", .libPaths()))
+## on Guillimin (module add R)
+.libPaths(c("/sb/project/afb-431/Rlib", .libPaths()))
 
 ## set method for downloading
 options(download.file.method="auto")
@@ -12,10 +15,16 @@ options(download.file.method="auto")
 ## prevent strings to be converted into factors
 options(stringsAsFactors=FALSE)
 
-require(affy) || stop("Library affy is not available!")
+#require(affy) || stop("Library affy is not available!")
+require(affyio) || stop("Library affyio is not available!")
 require(R.utils) || stop("Library R.utils is not available!")
 require(stringdist) || stop("Library stringdist is not available!")
-require(PharmacoGx) || stop("Library PharmacoGx is not available!")
+require(RCurl) || stop("Library RCurl is not available!")
+require(genefu)|| stop("Library genefu is not available!")
+require(XML)|| stop("Library XML is not available!")
+require(Hmisc)|| stop("Library Hmisc is not available!")
+require(gdata)|| stop("Library gdata is not available!")
+# require(PharmacoGx) || stop("Library PharmacoGx is not available!")
 
 source(file.path("code", "curation_foo.R"))
 source(file.path("code", "lincsAPIQuery.R"))
@@ -141,15 +150,15 @@ message("\t-> DONE")
 
 ## cell lines
 cell.annot <- NULL
-cura <- read.csv("matching_cell.csv")
-cura[!is.na(cura) & cura == ""] <- NA
+cura <- read.csv("matching_cell.csv", na.strings=c("NA","NaN", " ",""))
+#cura[!is.na(cura) & cura == ""] <- NA
 rownames(cura) <- cura[ , "unique.cellid"]
 ## CGP
-tt <- read.csv(file.path(path.out, "cell_annotation_CGP.csv"))
+tt <- read.csv(file.path(path.out, "cell_line_annotation_CGP.csv"))
 cell.annot <- cbind(cell.annot, "CGP.cellid"=tt[ , "cellid"], "CGP.tissueid"=tt[ , "tissueid"])
 rownames(cell.annot) <- tt[ , "cellid"]
 ## CCLE
-tt <- read.csv(file.path(path.out, "cell_annotation_CCLE.csv"))
+tt <- read.csv(file.path(path.out, "cell_line_annotation_CCLE.csv"))
 rownames(tt) <- tt[ , "cellid"]
 curat <- cura[!is.na(cura[ , "CCLE.cellid"]), , drop=FALSE]
 rownames(tt)[match(curat[ , "CCLE.cellid"], rownames(tt))] <- rownames(curat)
@@ -159,7 +168,7 @@ cell.annot <- cbind(cell.annot, "CCLE.cellid"=NA, "CCLE.tissueid"=NA)
 cell.annot[rownames(tt), "CCLE.cellid"] <- tt[ , "cellid"]
 cell.annot[rownames(tt), "CCLE.tissueid"] <- tt[ , "tissueid"]
 ## GSK
-tt <- read.csv(file.path(path.out, "cell_annotation_GSK.csv"))
+tt <- read.csv(file.path(path.out, "cell_line_annotation_GSK.csv"))
 rownames(tt) <- tt[ , "cellid"]
 curat <- cura[!is.na(cura[ , "GSK.cellid"]), , drop=FALSE]
 rownames(tt)[match(curat[ , "GSK.cellid"], rownames(tt))] <- rownames(curat)
@@ -169,7 +178,7 @@ cell.annot <- cbind(cell.annot, "GSK.cellid"=NA, "GSK.tissueid"=NA)
 cell.annot[rownames(tt), "GSK.cellid"] <- tt[ , "cellid"]
 cell.annot[rownames(tt), "GSK.tissueid"] <- tt[ , "tissueid"]
 ## NCI60
-tt <- read.csv(file.path(path.out, "cell_annotation_NCI60.csv"))
+tt <- read.csv(file.path(path.out, "cell_line_annotation_NCI60.csv"))
 rownames(tt) <- tt[ , "cellid"]
 curat <- cura[!is.na(cura[ , "NCI60.cellid"]), , drop=FALSE]
 rownames(tt)[match(curat[ , "NCI60.cellid"], rownames(tt))] <- rownames(curat)
@@ -179,7 +188,7 @@ cell.annot <- cbind(cell.annot, "NCI60.cellid"=NA, "NCI60.tissueid"=NA)
 cell.annot[rownames(tt), "NCI60.cellid"] <- tt[ , "cellid"]
 cell.annot[rownames(tt), "NCI60.tissueid"] <- tt[ , "tissueid"]
 ## GRAY
-tt <- read.csv(file.path(path.out, "cell_annotation_GRAY.csv"))
+tt <- read.csv(file.path(path.out, "cell_line_annotation_GRAY.csv"))
 rownames(tt) <- tt[ , "cellid"]
 curat <- cura[!is.na(cura[ , "GRAY.cellid"]), , drop=FALSE]
 rownames(tt)[match(curat[ , "GRAY.cellid"], rownames(tt))] <- rownames(curat)
@@ -189,7 +198,8 @@ cell.annot <- cbind(cell.annot, "GRAY.cellid"=NA, "GRAY.tissueid"=NA)
 cell.annot[rownames(tt), "GRAY.cellid"] <- tt[ , "cellid"]
 cell.annot[rownames(tt), "GRAY.tissueid"] <- tt[ , "tissueid"]
 ## GNE
-tt <- read.csv(file.path(path.out, "cell_annotation_GNE.csv"))
+tt <- read.csv(file.path(path.out, "cell_line_annotation_GNE.csv"))
+tt <- subset(tt, !is.na(tt[ , "cellid"]))
 rownames(tt) <- tt[ , "cellid"]
 curat <- cura[!is.na(cura[ , "GNE.cellid"]), , drop=FALSE]
 rownames(tt)[match(curat[ , "GNE.cellid"], rownames(tt))] <- rownames(curat)
@@ -225,7 +235,7 @@ cell.annot[rownames(tt), "LINCS_HMS.tissueid"] <- tt[ , "tissueid"]
 ## reorderiung of the columns
 cell.annot <- cell.annot[ , c(grep("cellid", colnames(cell.annot)), grep("tissueid", colnames(cell.annot)))]
 ## add COSMIC tissue type
-cosmic <- read.csv(file.path(path.out, "cell_annotation_COSMIC.csv"))
+cosmic <- read.csv(file.path(path.out, "cell_line_annotation_COSMIC.csv"))
 rownames(cosmic) <- cosmic[ , "cellid"]
 cell.annot <- cbind(cell.annot, "COSMIC.tissueid"=NA)
 myx <- intersect(rownames(cell.annot), cosmic[ , "cellid"])
@@ -248,7 +258,7 @@ cell.annot[myx, "unique.tissueid"] <- cell.annot[myx, "CCLE.tissueid"]
 ## save consolidated annotation file
 tt <- cbind("unique.cellid"=rownames(cell.annot), cell.annot)
 tt[is.na(tt)] <- ""
-write.csv(tt, row.names=FALSE, file=file.path(path.out, "cell_annotation_all_new.csv"))
+write.csv(tt, row.names=FALSE, file=file.path(path.out, "cell_annotation_all.csv"))
 
 
 # myx <- intersect(rownames(cura), cosmic[ , "cellid"])
