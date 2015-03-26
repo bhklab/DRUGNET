@@ -265,3 +265,38 @@ write.csv(tt, row.names=FALSE, file=file.path(path.out, "cell_annotation_all.csv
 # cura[myx, "COSMIC.tissueid"] <- cosmic[myx, "tissueid"]
 # cura[is.na(cura)] <- ""
 # write.csv(cura, "matching_cell.csv")
+
+## drugs
+drug.annot <- NULL
+cura <- read.csv("matching_drug.csv", na.strings=c("NA","NaN", " ",""))
+#cura[!is.na(cura) & cura == ""] <- NA
+rownames(cura) <- cura[ , "unique.drugid"]
+## CGP
+tt <- read.csv(file.path(path.out, "drug_annotation_CGP.csv"))
+drug.annot <- cbind(drug.annot, "CGP.drugid"=tt[ , "drug.name"])
+rownames(drug.annot) <- tt[ , "drug.name"]
+## CCLE
+tt <- read.csv(file.path(path.out, "drug_annotation_CCLE.csv"))
+tt <- subset(tt, !is.na(tt[ , "drug.name"]))
+rownames(tt) <- tt[ , "drug.name"]
+curat <- cura[!is.na(cura[ , "CCLE.drugid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "CCLE.drugid"], rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(drug.annot))
+drug.annot <- rbind(drug.annot, matrix(NA, nrow=length(myx2), ncol=ncol(drug.annot), dimnames=list(myx2, colnames(drug.annot))))
+drug.annot <- cbind(drug.annot, "CCLE.drugid"=NA)
+drug.annot[rownames(tt), "CCLE.drugid"] <- tt[ , "drug.name"]
+## GSK
+tt <- read.csv(file.path(path.out, "drug_annotation_GSK.csv"))
+#tt <- subset(tt, !is.na(tt[ , "drug.name"]))
+rownames(tt) <- tt[ , "drug.name"]
+curat <- cura[!is.na(cura[ , "GSK.drugid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "GSK.drugid"], rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(drug.annot))
+drug.annot <- rbind(drug.annot, matrix(NA, nrow=length(myx2), ncol=ncol(drug.annot), dimnames=list(myx2, colnames(drug.annot))))
+drug.annot <- cbind(drug.annot, "GSK.drugid"=NA)
+drug.annot[rownames(tt), "GSK.drugid"] <- tt[ , "drug.name"]
+
+
+
+
+
