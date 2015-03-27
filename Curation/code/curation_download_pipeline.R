@@ -295,6 +295,32 @@ myx2 <- setdiff(rownames(tt), rownames(drug.annot))
 drug.annot <- rbind(drug.annot, matrix(NA, nrow=length(myx2), ncol=ncol(drug.annot), dimnames=list(myx2, colnames(drug.annot))))
 drug.annot <- cbind(drug.annot, "GSK.drugid"=NA)
 drug.annot[rownames(tt), "GSK.drugid"] <- tt[ , "drug.name"]
+## GRAY
+tt <- read.csv(file.path(path.out, "drug_annotation_GRAY.csv"))
+#tt <- subset(tt, !is.na(tt[ , "drug.name"]))
+rownames(tt) <- tt[ , "drug.name"]
+curat <- cura[!is.na(cura[ , "GRAY.drugid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "GRAY.drugid"], rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(drug.annot))
+drug.annot <- rbind(drug.annot, matrix(NA, nrow=length(myx2), ncol=ncol(drug.annot), dimnames=list(myx2, colnames(drug.annot))))
+drug.annot <- cbind(drug.annot, "GRAY.drugid"=NA)
+drug.annot[rownames(tt), "GRAY.drugid"] <- tt[ , "drug.name"]
+## NCI60
+tt <- read.csv(file.path(path.out, "drug_annotation_NCI60.csv"))
+tt <- subset(tt, !is.na(tt[ , "drug.name"]) & !duplicated(tt[,"drug.name"]))
+rownames(tt) <- tt[ , "drug.name"]
+curat <- cura[!is.na(cura[ , "NCI60.drugid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "NCI60.drugid"], rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(drug.annot))
+drug.annot <- rbind(drug.annot, matrix(NA, nrow=length(myx2), ncol=ncol(drug.annot), dimnames=list(myx2, colnames(drug.annot))))
+drug.annot <- cbind(drug.annot, "NCI60.drugid"=NA)
+drug.annot[rownames(tt), "NCI60.drugid"] <- tt[ , "drug.name"]
+
+tt <- cbind("unique.drugid"=rownames(drug.annot), drug.annot)
+tt[is.na(tt)] <- ""
+write.csv(tt, row.names=FALSE, file=file.path(path.out, "drug_annotation_all.csv"))
+
+
 
 
 
