@@ -155,8 +155,12 @@ cura <- read.csv("matching_cell.csv", na.strings=c("NA","NaN", " ",""))
 rownames(cura) <- cura[ , "unique.cellid"]
 ## CGP
 tt <- read.csv(file.path(path.out, "cell_line_annotation_CGP.csv"))
+tt <- subset(tt, !is.na(tt[ , "cellid"])&!duplicated(tt[ , "cellid"]))
+rownames(tt) <- tt[ , "cellid"]
+curat <- cura[!is.na(cura[ , "CGP.cellid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "CGP.cellid"], rownames(tt))] <- rownames(curat)
 cell.annot <- cbind(cell.annot, "CGP.cellid"=tt[ , "cellid"], "CGP.tissueid"=tt[ , "tissueid"])
-rownames(cell.annot) <- tt[ , "cellid"]
+rownames(drug.annot) <- rownames(tt)
 ## CCLE
 tt <- read.csv(file.path(path.out, "cell_line_annotation_CCLE.csv"))
 rownames(tt) <- tt[ , "cellid"]
@@ -273,8 +277,12 @@ cura <- read.csv("matching_drug.csv", na.strings=c("NA","NaN", " ",""))
 rownames(cura) <- cura[ , "unique.drugid"]
 ## CGP
 tt <- read.csv(file.path(path.out, "drug_annotation_CGP.csv"))
+tt <- subset(tt, !is.na(tt[ , "drug.name"])&!duplicated(tt[ , "drug.name"]))
+rownames(tt) <- tt[ , "drug.name"]
+curat <- cura[!is.na(cura[ , "CGP.drugid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "CGP.drugid"], rownames(tt))] <- rownames(curat)
 drug.annot <- cbind(drug.annot, "CGP.drugid"=tt[ , "drug.name"])
-rownames(drug.annot) <- tt[ , "drug.name"]
+rownames(drug.annot) <- rownames(tt)
 ## CCLE
 tt <- read.csv(file.path(path.out, "drug_annotation_CCLE.csv"))
 tt <- subset(tt, !is.na(tt[ , "drug.name"]))
@@ -321,6 +329,16 @@ tt[is.na(tt)] <- ""
 write.csv(tt, row.names=FALSE, file=file.path(path.out, "drug_annotation_all.csv"))
 
 
+
+##tissues
+drug.annot <- NULL
+cura <- read.csv("matching_tissue.csv", na.strings=c("NA","NaN", " ",""))
+#cura[!is.na(cura) & cura == ""] <- NA
+rownames(cura) <- cura[ , "COSMIC.tissueid"]
+## CGP
+tt <- read.csv(file.path(path.out, "cell_line_annotation_CGP.csv"))
+drug.annot <- cbind(drug.annot, "CGP.drugid"=tt[ , "drug.name"])
+rownames(drug.annot) <- tt[ , "drug.name"]
 
 
 
