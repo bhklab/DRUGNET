@@ -1,11 +1,9 @@
 ## path to files
-path.data <- file.path("data", "GRAY")
+path.data <- file.path("data", "CTRP")
 path.drug <- file.path(path.data, "drug")
-path.cell <- file.path(path.data, "celline")
 ## create directories
 if(!file.exists(path.data)) { dir.create(path.data, showWarnings=FALSE, recursive=TRUE) }
 if(!file.exists(path.drug)) { dir.create(path.drug, showWarnings=FALSE, recursive=TRUE) }
-if(!file.exists(path.cell)) { dir.create(path.cell, showWarnings=FALSE, recursive=TRUE) }
 
 
 ## sample information
