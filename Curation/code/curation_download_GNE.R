@@ -17,16 +17,35 @@ if (!file.exists(myfn)) {
   file.copy(from=file.path(path.cell, "tmp", "Run_Sample_meta_info.map"), to=myfn)
 }
 
-# ## drug pheno
-# message("Download drug sensitivity measurements")
-# myfn <- file.path(path.drug, "tmp", "gne_drug_pheno.xlsx")
-# if (!file.exists(myfn)) {
-#   if(!file.exists(file.path(path.drug, "tmp"))) { dir.create(file.path(path.drug, "tmp"), showWarnings=FALSE, recursive=TRUE) }
-#   ## drug sensitivity data from the addendum in Nature
-#   dwl.status <- download.file(url="http://www.pnas.org/content/suppl/2011/10/14/1018854108.DCSupplemental/sd02.xlsx", destfile=file.path(path.drug, "tmp", "sd02.xlsx"), quiet=TRUE)
-#   if(dwl.status != 0) { stop("Download failed, please rerun the pipeline!") }
-#   file.copy(from=file.path(path.drug, "tmp", "sd02.xlsx"), to=myfn)
-# }
+## drug sensitivity data is not available online and recieved by email from Chris Klijn
+myfn <- file.path(path.drug, "tmp", "KlijnEtAl_drugDosingMeanViab.txt")
+druginfo <- read.table(myfn, stringsAsFactors = FALSE, sep = "\t")
+
+colnames(druginfo) <- druginfo[1,]
+druginfo <- druginfo[-1,]
+druginfo$"Cell line" <- gsub(",", "_", druginfo$"Cell line")
+
+
+
+## Additional drug sensitivity just for one drug which is downloaded from internet
+ message("Download drug sensitivity measurements")
+ myfn <- file.path(path.drug, "tmp", "gne_drug_pheno.xls")
+ if (!file.exists(myfn)) {
+   if(!file.exists(file.path(path.drug, "tmp"))) { dir.create(file.path(path.drug, "tmp"), showWarnings=FALSE, recursive=TRUE) }
+   dwl.status <- download.file(url="http://www.nature.com/nbt/journal/v33/n3/extref/nbt.3080-S9.xls", destfile=file.path(path.drug, "tmp", "nbt.3080-S9.xls"), quiet=TRUE)
+   if(dwl.status != 0) { stop("Download failed, please rerun the pipeline!") }
+   file.copy(from=file.path(path.drug, "tmp", "nbt.3080-S9.xls"), to=myfn)
+ }
+
+require(gdata) || stop("Library gdata is not available!")
+temp <- gdata::read.xls(xls=myfn, sheet=1,stringsAsFactors = FALSE)
+colnames(temp) <- temp[1,]
+temp <- temp[-1,]
+temp <- cbind(temp[,1:11], 1, 1/3^8, temp[,12])
+colnames(temp) <- colnames(druginfo)
+druginfo <-rbind(druginfo,temp)
+
+druginfo <- data.frame("drugid"=toupper(gsub(badchars, "", unique(druginfo$Molecule))), "drug.name"=unique(druginfo$Molecule))
 
 
 ## read sample info
@@ -55,5 +74,5 @@ sampleinfo <- data.frame("xpid"=sampleinfo[ , "SAMPLE_ID"], "cellid"=sampleinfo[
 cellineinfo <- sampleinfo
 
 write.csv(cellineinfo, file=file.path(path.out, "cell_line_annotation_GNE.csv"), row.names=FALSE)
-# write.csv(druginfo, file=file.path(path.out, "drug_annotation_GNE.csv"), row.names=FALSE)
+write.csv(druginfo, file=file.path(path.out, "drug_annotation_GNE.csv"), row.names=FALSE)
 
