@@ -33,7 +33,7 @@ doMetadataQuery  <- function (item) {
 }
 
 ## Write to cell tables from cell_annotation_all.csv
-writeToCellTables <- function(data, study) {
+writeToCellTables <- function(data, study, toAppend = TRUE) {
 	studyID <- getStudyID(study)
 	frame <- processCell(data, study, studyID)
 	message(paste("Importing", study, "to CELL_LINE_CURATION"))
@@ -50,13 +50,13 @@ writeToCellTissues <- function(data, study) {
 }
 
 ## Write to drug tables
-writeToDrugTables <- function(study) {
+writeToDrugTables <- function(drugs, study) {
 	## Use individual drug annotations
-	fileName <- paste0("drug_annotation_", study, ".csv")
-	if (!file.exists(fileName)) { 
-		stop(paste0("drug_annotation_", study, "does not exist!")) 
-	}
-	drugs <- read.csv(fileName, na.strings = "") ## read file
+	## fileName <- paste0("drug_annotation_", study, ".csv")
+	## if (!file.exists(fileName)) {
+	##	stop(paste0("drug_annotation_", study, "does not exist!"))
+	## }
+	## drugs <- read.csv(fileName, na.strings = "") ## read file
 	studyID <- getStudyID(study)
 	frame <- processDrugs(drugs, study, studyID)
 	message(paste("Importing", study, "to DRUG_CURATION"))

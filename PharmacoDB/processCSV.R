@@ -44,7 +44,7 @@ processCellTissues <- function(data, study, study_id, metadata_id) {
 ## Extract drugs used in a particular study  as a data frame
 ## drugs: read CSV file for "drug_annotation_STUDYNAME.csv"
 ## study_id: integer identifying the study
-processDrugs <- function(drugs, study, study_id) {
+processDrugsByStudy <- function(drugs, study, study_id) {
 	if (study == "CGP") { ## remove problematic drug from CGP frame
 		drugs <- drugs[-40,] 
 	}
@@ -54,9 +54,28 @@ processDrugs <- function(drugs, study, study_id) {
   cidVec <- convertToCID(drugs)
 
   ## Construct frame
-  drugFrame <- cbind(drugs["drugid"],  study_id, drugs["drug.name"], cidVec)
+  drugFrame <- data.frame(cbind(drugs["drugid"],  study_id, drugs["drug.name"], cidVec))
 	# rename according to colnames of table in the schema
   drugCurationNames <- c("drug_id", "study_id", "drug_name", "pubchem_cid")
+	colnames(drugFrame) <- drugCurationNames
+	rownames(drugFrame) <- NULL
+	return(drugFrame)
+}
+
+## Extract drugs used in a particular study  as a data frame
+## drugs: read CSV file for "drug_annotation_STUDYNAME.csv"
+## study_id: integer identifying the study
+processDrugs <- function(drugs, study, study_id) {
+    study <- toupper(study) ## study has to be upper case
+	drugs <- drugs[-40,] ## remove problematic drug 681640 from data
+    drugs <- cbind(drugs["unique.drugid"], drugs[paste0(study, ".drugid")]) ## Subset required rows
+    drugs <- drugs[complete.cases(drugs),] # get drugs only in current study
+    cidVec <- convertToCID(drugs[,2])
+    
+    ## Construct frame
+    drugFrame <- data.frame(cbind(drugs[,1],  study_id, drugs[,2], cidVec))
+	# rename according to colnames of table in the schema
+    drugCurationNames <- c("drug_id", "study_id", "drug_name", "pubchem_cid")
 	colnames(drugFrame) <- drugCurationNames
 	rownames(drugFrame) <- NULL
 	return(drugFrame)
@@ -65,9 +84,9 @@ processDrugs <- function(drugs, study, study_id) {
 ## Convert a vector of chemical names to PubChem CID
 convertToCID <- function(drugs) {
   ## convert to current drugs to vector
-  drugsVec <- drugs["drugid"]
-  drugsVec <- as.vector(t(drugsVec))  
-
+  drugsVec <- as.vector(t(drugs))
+  ## remove white spaces from all drug names, otherwise webchem will crash
+  drugsVec <- gsub("\\s+", "", drugsVec)
   # get necessary PubChem IDs
   cidVec <- c()
   for (i in 1:length(drugsVec)) {

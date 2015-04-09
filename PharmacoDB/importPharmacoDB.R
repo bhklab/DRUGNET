@@ -32,8 +32,9 @@ sapply(studies, function (study) writeToCellTissues (cells, study))
 ## Construct DRUG_CURATION TABLE
 message("Writing to DRUG_CURATION table")
 
+drugs <- read.csv("drug_annotation_all.csv", na.strings = "")
 ## Import data into DRUG_CURAITON table
-sapply(studies[1:3], writeToDrugTables) # no drug info for GNE
+sapply(studies[1:3], function (study) writeToDrugTables(drugs, study)) # no drug info for GNE
 
 ## write to TISSUE tables
 message("Writing to TISSUE_TYPE")
