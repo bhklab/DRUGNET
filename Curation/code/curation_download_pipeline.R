@@ -160,7 +160,7 @@ rownames(tt) <- tt[ , "cellid"]
 curat <- cura[!is.na(cura[ , "CGP.cellid"]), , drop=FALSE]
 rownames(tt)[match(curat[ , "CGP.cellid"], rownames(tt))] <- rownames(curat)
 cell.annot <- cbind(cell.annot, "CGP.cellid"=tt[ , "cellid"], "CGP.tissueid"=tt[ , "tissueid"])
-rownames(drug.annot) <- rownames(tt)
+rownames(cell.annot) <- rownames(tt)
 ## CCLE
 tt <- read.csv(file.path(path.out, "cell_line_annotation_CCLE.csv"))
 rownames(tt) <- tt[ , "cellid"]
@@ -212,6 +212,17 @@ cell.annot <- rbind(cell.annot, matrix(NA, nrow=length(myx2), ncol=ncol(cell.ann
 cell.annot <- cbind(cell.annot, "GNE.cellid"=NA, "GNE.tissueid"=NA)
 cell.annot[rownames(tt), "GNE.cellid"] <- tt[ , "cellid"]
 cell.annot[rownames(tt), "GNE.tissueid"] <- tt[ , "tissueid"]
+## CTRP
+tt <- read.csv(file.path(path.out, "cell_line_annotation_CTRP.csv"))
+tt <- subset(tt, !is.na(tt[ , "cellid"]))
+rownames(tt) <- tt[ , "cellid"]
+curat <- cura[!is.na(cura[ , "CTRP.cellid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "CTRP.cellid"], rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(cell.annot))
+cell.annot <- rbind(cell.annot, matrix(NA, nrow=length(myx2), ncol=ncol(cell.annot), dimnames=list(myx2, colnames(cell.annot))))
+cell.annot <- cbind(cell.annot, "CTRP.cellid"=NA, "CTRP.tissueid"=NA)
+cell.annot[rownames(tt), "CTRP.cellid"] <- tt[ , "cellid"]
+cell.annot[rownames(tt), "CTRP.tissueid"] <- tt[ , "tissueid"]
 ## LINCS
 tt <- read.csv(file.path(path.out, "cell_annotation_LINCS.csv"))
 rownames(tt) <- as.character(tt[ , "cellid"])
@@ -333,6 +344,17 @@ myx2 <- setdiff(rownames(tt), rownames(drug.annot))
 drug.annot <- rbind(drug.annot, matrix(NA, nrow=length(myx2), ncol=ncol(drug.annot), dimnames=list(myx2, colnames(drug.annot))))
 drug.annot <- cbind(drug.annot, "GNE.drugid"=NA)
 drug.annot[rownames(tt), "GNE.drugid"] <- tt[ , "drug.name"]
+## CTRP
+tt <- read.csv(file.path(path.out, "drug_annotation_CTRP.csv"))
+#tt <- subset(tt, !is.na(tt[ , "drug.name"]))
+rownames(tt) <- tt[ , "drug.name"]
+curat <- cura[!is.na(cura[ , "CTRP.drugid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "CTRP.drugid"], rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(drug.annot))
+drug.annot <- rbind(drug.annot, matrix(NA, nrow=length(myx2), ncol=ncol(drug.annot), dimnames=list(myx2, colnames(drug.annot))))
+drug.annot <- cbind(drug.annot, "CTRP.drugid"=NA)
+drug.annot[rownames(tt), "CTRP.drugid"] <- tt[ , "drug.name"]
+
 
 
 
