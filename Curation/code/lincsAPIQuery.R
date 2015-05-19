@@ -6,7 +6,6 @@
 ### limit = "How many entries to return" ###
 ### returnMatrix = "Return a matrix of the pulled values, with multiple entries concatecated by collapse. If false, returns a nested list representing the JSON object."
 
-#user_key="afe4848514df2b491be1c49b49475cab"
 
 
 
