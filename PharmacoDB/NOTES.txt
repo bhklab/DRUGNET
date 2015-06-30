@@ -1,0 +1,21 @@
+Scripts used to create and initialize PharmacoDB:
+
+
+pharmacodb_create.sql : run to crate schema for the database
+convertCGPSensitivty.R: convert numeric drug ids in cgp_sensitivity.csv and cgp_sensitivity_detail.csv files into drug names
+importFunctions.R: functions process read .csv files into data frames which can be imported into the database
+importHistologies.R: script to import histology curation into database
+initializePharmacoDB.R: master script to initialize the database
+processGenes.R: script to process gene expression metadata from prepared R objects
+
+Dependences include:
+cell_line_annotation_all.csv 
+cell_line_annotation_<study>.csv (individual cell line curations)
+CGP spreadsheet
+diagnosis_type_match.csv
+drugs_with_ids.csv (drug annotation with SMILES/InChIKey/PubChem)
+<study>_sensitivity_detail.csv
+<study>_sensitivity.csv
+drug_annotation_CGP.csv
+Expression.arrays.RData
+merged_annotations.Rdata
