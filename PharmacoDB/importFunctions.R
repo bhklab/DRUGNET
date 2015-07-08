@@ -5,12 +5,12 @@
 library(RMySQL)
 
 ## Mordor connDB() 
-rmysql.settingsfile <- "/mnt/work1/users/home2/bhcoop4/.my.cnf"
+#rmysql.settingsfile <- "/mnt/work1/users/home2/bhcoop4/.my.cnf"
 
 ## Local connection
 connDB <- function() {
- #  con <- dbConnect(MySQL(), username = "root", password = "", host = "127.0.0.1", db = "PharmacoDB")
-  con <- dbConnect(MySQL(), group = "pharmacodb")
+  con <- dbConnect(MySQL(), username = "root", password = "", host = "127.0.0.1", db = "PharmacoDB")
+  # con <- dbConnect(MySQL(), group = "pharmacodb")
   return(con)
 }
 
@@ -72,40 +72,53 @@ processCell <- function(data, study) {
  dbDisconnect(connection)
  }
 
+
 ## Extract tissue types for cell lines in a particular study as a data frame
 ## data: data frame which stores "cell_line_annotation_all_ATTENTION.csv"
 ## study: name of the study
-## study_id: integer identifying the study name
-processCellTissues <- function(data, study, tissueCor) { 
-  message(paste("Processing tissues type for", study))
-  frame <- data.frame("cellline_id" =  data[,"unique.cellid"], 
-                      "study_id" = getStudyID(study), 
-                      "tissue_name" = data[,paste0(toupper(study), ".tissueid")]) # construct frames for cell line info
-
-  frame <- frame[complete.cases(frame),] ## remove NAs
-  # rename according to colnames of table in the schema
-  rownames(frame) <- NULL # remove row.names caused by subesetting 
-  frame <-  matchTissue(tissueCor, frame, study)
-  message(paste("Importing", study, "tissues to TISSUE_CURATION"))
-  connection <- connDB()
-  dbWriteTable(connection, "TISSUE_CURATION", frame, append = TRUE, row.names = FALSE)
-  dbDisconnect(connection)
- }
+processCellTissues <- function(data, study) {
+    message(paste("Processing tissues type for", study))
+    frame <- data.frame("cellline_id" =  data[,"unique.cellid"],
+    "study_id" = getStudyID(study),
+    "tissue_name" = data[,paste0(toupper(study), ".tissueid")]) # construct frames for cell line info
+    frame <- frame[complete.cases(frame),] ## remove NAs
+    
+    # rename according to colnames of table in the schema
+    rownames(frame) <- NULL # remove row.names caused by subesetting
+    frame$unique_tissue_name <-  matchTissue(frame$tissue_name, study)
+    message(paste("Importing", study, "tissues to TISSUE_CURATION"))
+    connection <- connDB()
+    dbWriteTable(connection, "TISSUE_CURATION", frame, append = TRUE, row.names = FALSE)
+    dbDisconnect(connection)
+}
 
 ## Add matching tissues
-## tissue_match : data.frame of matching tissue
-## frame: the data frame which contains non-unique tissue types
-## study: name of study
-matchTissue <- function(tissue_match, frame, study) {
-  if (paste0(study, ".tissueid") %in% colnames(tissue_match)) {
-    col <- paste0(study, ".tissueid")
-    tissues <- as.vector(t(frame$tissue_name))
-    frame$unique_tissue_name <- 
-      sapply(tissues, function (x) {
-        paste(tissue_match[which(toupper(tissue_match[, col]) == toupper(x)), "COSMIC.tissueid"], collapse = '/')
-      })
-  }
-  return(frame)
+## tissues : vector of tissues to be matched
+## study: the data frame which contains non-unique tissue types
+matchTissue <- function(tissues, study) {
+    if (study == "CTRP") { ## CTRP contains capitalized COSMIC tissue names
+        return(tolower(as.vector(t(tissues))))
+    }
+    else {
+        if (paste0(study, ".tissueid") %in% colnames(tissue_match)) {
+            col <- paste0(study, ".tissueid")
+            tissues <- as.vector(t(tissues))
+            unique_tissue_name <-
+            sapply(tissues, function (x) {
+                if (tolower(x) %in% tissue_match$COSMIC.tissueid) {
+                    return(tolower(x))
+                }
+                else {
+                    match <- paste(tissue_match[which(toupper(tissue_match[, col]) == toupper(x)), "COSMIC.tissueid"], collapse = '/')
+                    if (match == "") {
+                        return(NA)
+                    }
+                    return(match)
+                }
+            })
+        }
+    }
+    return(unique_tissue_name)
 }
 
 ## == DRUG CURATION FUNCTIONS ==== 
