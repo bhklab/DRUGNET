@@ -316,8 +316,9 @@ drug.annot <- cbind(drug.annot, "GSK.drugid"=NA)
 drug.annot[rownames(tt), "GSK.drugid"] <- tt[ , "drug.name"]
 ## NCI60
 tt <- read.csv(file.path(path.out, "drug_annotation_NCI60.csv"))
-tt <- subset(tt, !is.na(tt[ , "drug.name"]) & !duplicated(tt[,"drug.name"]))
-rownames(tt) <- tt[ , "drug.name"]
+#tt <- subset(tt, !is.na(tt[ ,"drug.name"]) & !duplicated(tt[,"drug.name"]))
+#rownames(tt) <- tt[ , "drug.name"]
+rownames(tt) <- tt[,"drugid"]
 curat <- cura[!is.na(cura[ , "NCI60.drugid"]), , drop=FALSE]
 rownames(tt)[match(curat[ , "NCI60.drugid"], rownames(tt))] <- rownames(curat)
 myx2 <- setdiff(rownames(tt), rownames(drug.annot))
