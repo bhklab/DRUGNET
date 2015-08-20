@@ -5,9 +5,6 @@
 #### to cart and then downloading the manifest from that.
 
 library(XML)
-
-=======
-
 ## path to files
 path.data <- file.path("data", "CCLE_rnaseq")
 path.cell <- file.path(path.data, "celline")
@@ -57,5 +54,5 @@ cells <- sapply(as.vector(t(frame["file_name"])), function (x) {
 
 ## Construct and write final frame
 frame <- data.frame(frame, "cells" = cells, "tissueid" = NA)
-write.csv(frame, file = "cell_line_annotation_CCLE_rnaseq.csv")
+write.csv(frame, file = file.path(path.out, "cell_line_annotation_CCLE_rnaseq.csv"))
 
