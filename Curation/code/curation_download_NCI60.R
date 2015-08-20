@@ -33,5 +33,17 @@ druginfo <- druginfo[!duplicated(druginfo[ , "drugid"]), , drop=FALSE]
 myx <- match(c("drugid", "drug.name"), colnames(druginfo))
 druginfo <- druginfo[ , c(myx, setdiff(1:ncol(druginfo), myx)), drop=FALSE]
 
+
 write.csv(sampleinfo, file=file.path(path.out, "cell_line_annotation_NCI60.csv"), row.names=FALSE)
-write.csv(druginfo, file=file.path(path.out, "drug_annotation_NCI60.csv"), row.names=FALSE)
+
+## Check whether or not complete output for NCI60 exists
+if (!file.exists(file.path(path.out, "drug_annotation_NCI60.csv"))) {
+    write.csv(druginfo, file=file.path(path.out, "drug_annotation_NCI60.csv"), row.names=FALSE)
+    ## Run pipeline to complete NCI annotation- WARNING: Takes very long and is dependent on
+    ## whether CTS/PubChem web services are available!
+    source("convert_nci60.R")
+}
+
+
+
+
