@@ -223,6 +223,31 @@ cell.annot <- rbind(cell.annot, matrix(NA, nrow=length(myx2), ncol=ncol(cell.ann
 cell.annot <- cbind(cell.annot, "CTRP.cellid"=NA, "CTRP.tissueid"=NA)
 cell.annot[rownames(tt), "CTRP.cellid"] <- tt[ , "cellid"]
 cell.annot[rownames(tt), "CTRP.tissueid"] <- tt[ , "tissueid"]
+## CGP EMTAB3610
+tt <- read.csv(file.path(path.out, "cell_line_annotation_CGP_EMTAB3610.csv"))
+tt <- subset(tt, !is.na(tt[ , "cellid"]))
+rownames(tt) <- tt[ , "cellid"]
+curat <- cura[!is.na(cura[ , "CGP_EMTAB3610.cellid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "CGP_EMTAB3610.cellid"],rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(cell.annot))
+cell.annot <- rbind(cell.annot, matrix(NA, nrow=length(myx2), ncol=ncol(cell.annot), dimnames=list(myx2, colnames(cell.annot))))
+cell.annot <- cbind(cell.annot, "CGP_EMTAB3610.cellid"=NA, "CGP_EMTAB3610.tissueid"=NA)
+cell.annot[rownames(tt), "CGP_EMTAB3610.cellid"] <- tt[ , "cellid"]
+cell.annot[rownames(tt), "CGP_EMTAB3610.tissueid"] <- tt[ , "tissueid"]
+## CCLE rnaseq
+tt <- read.csv(file.path(path.out, "cell_line_annotation_CCLE_rnaseq.csv"))
+tt <- subset(tt, !is.na(tt[ , "cellid"]))
+rownames(tt) <- tt[ , "cellid"]
+curat <- cura[!is.na(cura[ , "CCLE_rnaseq.cellid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "CCLE_rnaseq.cellid"],rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(cell.annot))
+cell.annot <- rbind(cell.annot, matrix(NA, nrow=length(myx2), ncol=ncol(cell.annot), dimnames=list(myx2, colnames(cell.annot))))
+cell.annot <- cbind(cell.annot, "CCLE_rnaseq.cellid"=NA, "CCLE_rnaseq.tissueid"=NA)
+cell.annot[rownames(tt), "CCLE_rnaseq.cellid"] <- tt[ , "cellid"]
+cell.annot[rownames(tt), "CCLE_rnaseq.tissueid"] <- tt[ , "tissueid"]
+
+
+
 ## LINCS
 tt <- read.csv(file.path(path.out, "cell_annotation_LINCS.csv"))
 rownames(tt) <- as.character(tt[ , "cellid"])
@@ -316,8 +341,9 @@ drug.annot <- cbind(drug.annot, "GSK.drugid"=NA)
 drug.annot[rownames(tt), "GSK.drugid"] <- tt[ , "drug.name"]
 ## NCI60
 tt <- read.csv(file.path(path.out, "drug_annotation_NCI60.csv"))
-tt <- subset(tt, !is.na(tt[ , "drug.name"]) & !duplicated(tt[,"drug.name"]))
-rownames(tt) <- tt[ , "drug.name"]
+#tt <- subset(tt, !is.na(tt[ ,"drug.name"]) & !duplicated(tt[,"drug.name"]))
+#rownames(tt) <- tt[ , "drug.name"]
+rownames(tt) <- tt[,"drugid"]
 curat <- cura[!is.na(cura[ , "NCI60.drugid"]), , drop=FALSE]
 rownames(tt)[match(curat[ , "NCI60.drugid"], rownames(tt))] <- rownames(curat)
 myx2 <- setdiff(rownames(tt), rownames(drug.annot))
