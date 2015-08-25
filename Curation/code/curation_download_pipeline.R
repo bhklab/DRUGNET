@@ -381,6 +381,16 @@ drug.annot <- rbind(drug.annot, matrix(NA, nrow=length(myx2), ncol=ncol(drug.ann
 drug.annot <- cbind(drug.annot, "CTRP.drugid"=NA)
 drug.annot[rownames(tt), "CTRP.drugid"] <- tt[ , "drug.name"]
 
+## CMAP
+tt <- read.csv(file.path(path.out, "cmap_CBID_Lamb.csv"))
+#tt <- subset(tt, !is.na(tt[ , "drug.name"]))
+rownames(tt) <- tt[ , "cmap_name"]
+curat <- cura[!is.na(cura[ , "CMAP.drugid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "CMAP.drugid"], rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(drug.annot))
+drug.annot <- rbind(drug.annot, matrix(NA, nrow=length(myx2), ncol=ncol(drug.annot), dimnames=list(myx2, colnames(drug.annot))))
+drug.annot <- cbind(drug.annot, "CMAP.drugid"=NA)
+drug.annot[rownames(tt), "CMAP.drugid"] <- tt[ , "cmap_name"]
 
 
 
