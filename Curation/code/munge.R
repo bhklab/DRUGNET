@@ -1,7 +1,7 @@
 drugs <- read.csv("drug_annotation_all.csv", na.strings = "", stringsAsFactors = FALSE)
-load("drugs_with_smiles.RData")
-frame <- frame[!duplicated(frame$drug_id),]
+frame <- read.csv("all_ids.csv")
 
+frame <- frame[!duplicated(frame$drug_id),]
 drug_names <-  as.character(frame$drug_id)
 smiles <- as.character(frame$smiles)
 inchikey <- as.character(frame$inchikey)
@@ -31,11 +31,3 @@ drugs$inchikey <- postProcess(drugs$inchikey)
 drugs$cid <- postProcess(drugs$cid)
 write.csv(drugs, file = "drugs_with_ids.csv")
 
-## NCI60s with no translation were not translated
-## 6910 translated NCI60 ids
-## 1026 non translated NCI60 ids
-# 7936 NCI60 ids in total
-
-## 483 other ids. 320 were found and translated
-## 163 were present but not translated.
-## 8419 ids in total
