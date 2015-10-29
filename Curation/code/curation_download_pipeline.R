@@ -245,8 +245,28 @@ cell.annot <- rbind(cell.annot, matrix(NA, nrow=length(myx2), ncol=ncol(cell.ann
 cell.annot <- cbind(cell.annot, "CCLE_rnaseq.cellid"=NA, "CCLE_rnaseq.tissueid"=NA)
 cell.annot[rownames(tt), "CCLE_rnaseq.cellid"] <- tt[ , "cellid"]
 cell.annot[rownames(tt), "CCLE_rnaseq.tissueid"] <- tt[ , "tissueid"]
-
-
+## GDSC SNP
+tt <- read.csv(file.path(path.out, "cell_line_annotation_GDSC_SNP.csv"))
+tt <- subset(tt, !is.na(tt[ , "cellid"]))
+rownames(tt) <- tt[ , "cellid"]
+curat <- cura[!is.na(cura[ , "GDSC.SNP.cellid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "GDSC.SNP.cellid"],rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(cell.annot))
+cell.annot <- rbind(cell.annot, matrix(NA, nrow=length(myx2), ncol=ncol(cell.annot), dimnames=list(myx2, colnames(cell.annot))))
+cell.annot <- cbind(cell.annot, "GDSC.SNP.cellid"=NA, "GDSC.SNP.tissueid"=NA)
+cell.annot[rownames(tt), "GDSC.SNP.cellid"] <- tt[ , "cellid"]
+cell.annot[rownames(tt), "GDSC.SNP.tissueid"] <- tt[ , "tissueid"]
+## Ben Neel
+tt <- read.csv(file.path(path.out, "cell_line_annotation_BenNeel.csv"))
+tt <- subset(tt, !is.na(tt[ , "cellid"]))
+rownames(tt) <- tt[ , "cellid"]
+curat <- cura[!is.na(cura[ , "Ben_Neel.cellid"]), , drop=FALSE]
+rownames(tt)[match(curat[ , "Ben_Neel.cellid"],rownames(tt))] <- rownames(curat)
+myx2 <- setdiff(rownames(tt), rownames(cell.annot))
+cell.annot <- rbind(cell.annot, matrix(NA, nrow=length(myx2), ncol=ncol(cell.annot), dimnames=list(myx2, colnames(cell.annot))))
+cell.annot <- cbind(cell.annot, "Ben_Neel.cellid"=NA, "Ben_Neel.tissueid"=NA)
+cell.annot[rownames(tt), "Ben_Neel.cellid"] <- tt[ , "cellid"]
+cell.annot[rownames(tt), "Ben_Neel.tissueid"] <- tt[ , "tissueid"]
 
 ## LINCS
 tt <- read.csv(file.path(path.out, "cell_annotation_LINCS.csv"))
@@ -295,6 +315,60 @@ cell.annot <- cbind(cell.annot, "unique.tissueid"=cell.annot[ , "COSMIC.tissueid
 ## add CCLE tissue type when not found in COSMIC
 myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "CCLE.tissueid"])
 cell.annot[myx, "unique.tissueid"] <- cell.annot[myx, "CCLE.tissueid"]
+
+myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "GSK.tissueid"])
+tt <- cell.annot[myx, "GSK.tissueid"] 
+tt[which(tt == "hematopoietic_and_lymphatic_system")] <- "haematopoietic_and_lymphoid_tissue"
+tt[which(tt == "cervix_uteri")] <- "cervix"
+cell.annot[myx, "unique.tissueid"] <- tt
+
+myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "NCI60.tissueid"])
+cell.annot[myx, "unique.tissueid"] <- ifelse(cell.annot[myx, "NCI60.tissueid"] == "ME", "skin", cell.annot[myx, "NCI60.tissueid"])
+
+myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "GRAY.tissueid"])
+cell.annot[myx, "unique.tissueid"] <- cell.annot[myx, "GRAY.tissueid"]
+
+myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "GNE.tissueid"])
+tt <- tolower(cell.annot[myx, "GNE.tissueid"])
+tt[which(tt == "adrenal")] <- "adrenal_gland"
+tt[which(tt == "blood")] <- "haematopoietic_and_lymphoid_tissue"
+tt[which(tt == "lymph node")] <- "haematopoietic_and_lymphoid_tissue"
+tt[which(tt == "skeletal muscle")] <- "skeletal_muscle"
+tt[which(tt == "oral cavity")] <- "oral_cavity"
+cell.annot[myx, "unique.tissueid"] <- tt
+
+myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "CTRP.tissueid"])
+cell.annot[myx, "unique.tissueid"] <- cell.annot[myx, "CTRP.tissueid"]
+
+myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "CGP_EMTAB3610.tissueid"])
+tt <- tolower(cell.annot[myx, "CGP_EMTAB3610.tissueid"])
+tt[which(tt == "0")] <- "other"
+tt[which(tt == "blood")] <- "haematopoietic_and_lymphoid_tissue"
+tt[which(tt == "head & neck")] <- "head_and_neck"
+cell.annot[myx, "unique.tissueid"] <- tt
+
+myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "CCLE_rnaseq.tissueid"])
+cell.annot[myx, "unique.tissueid"] <- cell.annot[myx, "CCLE_rnaseq.tissueid"]
+
+myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "GDSC.SNP.tissueid"])
+cell.annot[myx, "unique.tissueid"] <- cell.annot[myx, "GDSC.SNP.tissueid"]
+
+myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "Ben_Neel.tissueid"])
+cell.annot[myx, "unique.tissueid"] <- cell.annot[myx, "Ben_Neel.tissueid"]
+
+myx <- is.na(cell.annot[ , "unique.tissueid"]) & !is.na(cell.annot[ , "CGP.tissueid"])
+cell.annot[myx, "unique.tissueid"] <- cell.annot[myx, "CGP.tissueid"]
+
+##manual tissue assignment for those without any tissue type
+cell.annot["CRO-AP3", "unique.tissueid"] <- "haematopoietic_and_lymphoid_tissue"
+cell.annot["NTERA-2_cl.D1", "unique.tissueid"] <- "testis"
+cell.annot["PC-3_JPC-3", "unique.tissueid"] <- "lung"
+cell.annot["PL4", "unique.tissueid"] <- "pancreas"
+cell.annot["Sarc9371", "unique.tissueid"] <- "bone"
+cell.annot["U-CH2", "unique.tissueid"] <- "placenta"
+cell.annot["UDSCC2", "unique.tissueid"] <- "upper_aerodigestive_tract"
+cell.annot["WM793B", "unique.tissueid"] <- "skin"
+
 ## save consolidated annotation file
 tt <- cbind("unique.cellid"=rownames(cell.annot), cell.annot)
 tt[is.na(tt)] <- ""
