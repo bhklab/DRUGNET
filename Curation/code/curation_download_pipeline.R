@@ -120,6 +120,18 @@ if (progress.log["step.6", "progress"] != "done") {
 message("\t-> DONE")
 
 #######################
+## curation, annotation and normalization of Ben Neel data
+message("\n----------------------------------\n| Download information for GNE  |\n----------------------------------")
+if (progress.log["step.6", "progress"] != "done") {
+  progress.log["step.6", "progress"] <- "in progress"
+  write.table(progress.log, sep="\t", row.names=TRUE, col.names=TRUE, file=mylog, quote=FALSE)
+  source(file.path("code", "curation_download_BenNeel.R"))
+  progress.log["step.6", "progress"] <- "done"
+  write.table(progress.log, sep="\t", row.names=TRUE, col.names=TRUE, file=mylog, quote=FALSE)
+}
+message("\t-> DONE")
+
+#######################
 ## curation, annotation and normalization of LINCS data
 message("\n----------------------------------\n| Download information for LINCS  |\n----------------------------------")
 if (progress.log["step.7", "progress"] != "done") {
